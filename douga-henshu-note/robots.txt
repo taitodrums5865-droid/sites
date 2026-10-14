@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taitodrums5865-droid.github.io/sites/douga-henshu-note/sitemap.xml
