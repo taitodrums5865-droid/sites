@@ -13,3 +13,4 @@ th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-ali
 img{max-width:100%;height:auto}.list{list-style:none;padding:0}.list li{padding:18px 0;border-bottom:1px solid var(--line)}
 .list a{font-size:21px;font-weight:600;text-decoration:none;color:var(--ink)}.list p{margin:6px 0 0;color:var(--sub);font-size:16px}
 .related{margin-top:40px;padding-top:16px;border-top:1px solid var(--line)}footer{color:var(--sub);font-size:14px;padding:40px 20px}
+.hero{width:100%;height:auto;border:1px solid var(--line);margin:8px 0 16px}
