@@ -1,0 +1,8 @@
+# どうがへんしゅうノート
+
+> 動画編集のソフト・パソコン・学び方を、公式の情報で比べて選べるようにするサイト。
+
+記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
+
+## 記事
+- [動画編集ソフトの無料版、透かしが消える条件とは](https://aobaworks.com/douga-henshu-note/video-editor-free-watermark-conditions/): 無料の動画編集ソフトで透かしを付けずに書き出す方法を、DaVinci Resolve・Clipchamp・CapCut・Filmoraなどの公式情報で比較。透かしが付く条件と外す方法、書き出し前のチェックリストを解説します。
