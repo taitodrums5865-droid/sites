@@ -4,3 +4,4 @@ Sitemap: https://shigoto.aobaworks.com/sitemap.xml
 Sitemap: https://en.aobaworks.com/sitemap.xml
 Sitemap: https://gazou.aobaworks.com/sitemap.xml
 Sitemap: https://aobaworks.com/douga-henshu-note/sitemap.xml
+Sitemap: https://aobaworks.com/hojokin/sitemap.xml
