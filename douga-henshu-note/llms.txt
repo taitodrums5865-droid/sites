@@ -5,5 +5,6 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [CapCut無料と有料の違い、料金と制限まとめ](https://aobaworks.com/douga-henshu-note/capcut-free-vs-paid-difference/): CapCut 無料 有料 違いを公式情報で整理しました。無料版で使える範囲、CapCut Proの料金（2026年10月時点）、4K・透かし・AIクレジットの差、7日間無料トライアル、解約方法まで初心者向けに解説します。
 - [DaVinci Resolve無料版の使い方、最初の一歩](https://aobaworks.com/douga-henshu-note/davinci-resolve-free-how-to-start/): DaVinci Resolve無料版の使い方を初心者向けに解説。Studio版との違い、パソコンの目安、インストール、読み込み・カット・書き出しまでの操作順を順番に紹介し、つまずきやすい所の直し方も載せています。
 - [動画編集ソフトの無料版、透かしが消える条件とは](https://aobaworks.com/douga-henshu-note/video-editor-free-watermark-conditions/): 無料の動画編集ソフトで透かしを付けずに書き出す方法を、DaVinci Resolve・Clipchamp・CapCut・Filmoraなどの公式情報で比較。透かしが付く条件と外す方法、書き出し前のチェックリストを解説します。
