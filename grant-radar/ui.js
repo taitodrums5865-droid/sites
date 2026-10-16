@@ -33,7 +33,7 @@ function tabify(h2){var items=[],n=h2.nextElementSibling,cur=null,intro=[];
     list.appendChild(b);box.appendChild(p)});
   var after=intro.length?intro[intro.length-1]:h2;after.parentNode.insertBefore(box,after.nextSibling)}
 var h2s=[].slice.call(d.querySelectorAll('article h2'));
-h2s.forEach(function(h){var t=h.textContent;if(/which .*right for you|which one fits|あなたに合うのは|どれを選ぶ|向いているのは/i.test(t))tabify(h)});
+/* 比べる中身はタブにしない(2026-10-16 調べ: 隠れると見比べられない。NN/g)。tabify は残すが使わない */
 /* FAQ: 質問を開け閉め */
 h2s.forEach(function(h){if(!/^(faq|frequently asked|よくある質問|よくある疑問)/i.test(h.textContent.trim()))return;
   var n=h.nextElementSibling,wrap=el('div',{'class':'ui-faq'}),cur=null,first=null;
@@ -50,16 +50,19 @@ h2s.forEach(function(h){if(!/^(faq|frequently asked|よくある質問|よくあ
       img.onerror=function(){img.remove();li.classList.add('ui-noimg')};
       var link=el('a',{href:a.getAttribute('href'),'aria-hidden':'true',tabindex:'-1','class':'ui-thumb-a'});link.appendChild(img);li.insertBefore(link,li.firstChild)})})})();
 /* 記事: 読んだ割合・目次ボタン・次にやること・上へ */
-if(art){var bar=el('div',{'class':'ui-bar'});d.body.appendChild(bar);
+if(art){
   var fab=el('div',{'class':'ui-fab'});
   var nextH=h2s.filter(function(h){return /next step|what to do next|次にやること|次の一歩/i.test(h.textContent)})[0];
   var nb=null;if(nextH){if(!nextH.id)nextH.id='next-steps';nb=el('a',{'class':'ui-next',href:'#'+nextH.id},T.next);fab.appendChild(nb)}
-  if(tocSec){var tb=el('button',{type:'button'},T.tocBtn);tb.onclick=function(){open('ui-toc')};fab.appendChild(tb)}
-  var up=el('a',{'class':'ui-top',href:'#content'},T.top);fab.appendChild(up);d.body.appendChild(fab);
+  var tb=null;if(tocSec){tb=el('button',{type:'button'},T.tocBtn);tb.onclick=function(){open('ui-toc')};fab.appendChild(tb)}
+  d.body.appendChild(fab);
   var tocA=tocSec?[].slice.call(tocSec.querySelectorAll('a')):[];
+  if(tocSec&&tocLinks.length>=3){var side=el('nav',{'class':'ui-side','aria-label':T.toc});side.appendChild(el('p',null,T.toc));var ol=el('ol');
+    tocLinks.forEach(function(a){var li=el('li'),b=el('a',{href:a.getAttribute('href')});b.textContent=a.textContent.trim();li.appendChild(b);ol.appendChild(li)});side.appendChild(ol);d.body.appendChild(side);
+    tocA=tocA.concat([].slice.call(ol.querySelectorAll('a')))}
   var tick=false;function onScroll(){if(tick)return;tick=true;requestAnimationFrame(function(){tick=false;
-    var r=art.getBoundingClientRect(),h=art.offsetHeight-innerHeight,p=Math.min(1,Math.max(0,-r.top/(h>0?h:1)));bar.style.width=(p*100)+'%';
-    if(nb)nb.classList.toggle('show',p>.45&&nextH.getBoundingClientRect().top>innerHeight);up.classList.toggle('show',scrollY>900);
+    var r=art.getBoundingClientRect(),h=art.offsetHeight-innerHeight,p=Math.min(1,Math.max(0,-r.top/(h>0?h:1)));
+    var showNext=!!nb&&p>.45&&nextH.getBoundingClientRect().top>innerHeight;if(nb)nb.classList.toggle('show',showNext);if(tb)tb.style.display=showNext?'none':'';
     var on=null;h2s.forEach(function(x){if(x.getBoundingClientRect().top<120)on=x.id});
     tocA.forEach(function(a){a.classList.toggle('on',a.getAttribute('href')==='#'+on)})})}
   addEventListener('scroll',onScroll,{passive:true});onScroll()}
