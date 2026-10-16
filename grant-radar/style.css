@@ -42,3 +42,33 @@ img{max-width:100%;height:auto}hr{border:0;border-top:1px solid var(--line);marg
 .site-foot .wrap{padding-top:26px;padding-bottom:34px}.site-foot p{margin:0 0 8px}.site-foot a{color:var(--sub)}
 @media (max-width:600px){body{font-size:17px}h1{font-size:28px}h2{font-size:23px}h3{font-size:19px}.lede{font-size:18px}.site-nav a{margin-left:12px;font-size:14.5px}.brand{font-size:18px}.toc{padding:14px 16px 6px}}
 @media print{.site-head,.site-foot,.toc,.related,.note{display:none}}
+/* ui.py(共通の動く部品) */
+body > header{position:relative}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}
+.ui-bar{position:fixed;left:0;top:0;height:3px;width:0;background:var(--accent);z-index:30}
+.ui-menu-btn{margin-left:auto;align-self:center;font:inherit;font-size:15px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer}
+.ui-menu-btn:hover{border-color:var(--accent);color:var(--accent)}
+.ui-scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);opacity:0;pointer-events:none;transition:opacity .2s;z-index:40}
+.ui-drawer{position:fixed;top:0;right:0;bottom:0;width:min(360px,88vw);background:var(--card);border-left:1px solid var(--line);
+  transform:translateX(100%);transition:transform .22s ease;z-index:41;overflow-y:auto;padding:18px 20px 40px}
+.ui-open .ui-scrim{opacity:1;pointer-events:auto}.ui-open .ui-drawer{transform:none}
+.ui-drawer h2{font-size:13px;letter-spacing:.02em;color:var(--sub);margin:22px 0 8px;font-weight:700}
+.ui-drawer .ui-x{float:right;font:inherit;font-size:14px;background:none;border:1px solid var(--line);border-radius:8px;padding:4px 10px;cursor:pointer;color:var(--sub)}
+.ui-drawer ul,.ui-drawer ol{list-style:none;padding:0;margin:0}.ui-drawer li{margin:0;border-bottom:1px solid var(--line)}
+.ui-drawer li a{display:block;padding:10px 4px;text-decoration:none;color:var(--ink);font-size:15.5px;line-height:1.45}
+.ui-drawer li a:hover,.ui-drawer li a.on{color:var(--accent)}.ui-drawer li a.on{font-weight:700;border-left:3px solid var(--accent);padding-left:9px}
+.ui-fab{position:fixed;right:16px;bottom:18px;z-index:25;display:flex;gap:8px}
+.ui-fab button,.ui-fab a{font:inherit;font-size:14.5px;background:var(--card);color:var(--ink);border:1px solid var(--ink);border-radius:999px;padding:9px 16px;cursor:pointer;text-decoration:none}
+.ui-fab .ui-next{background:var(--accent);border-color:var(--accent);color:var(--card);display:none}.ui-fab .ui-next.show{display:inline-block}
+.ui-fab .ui-top{display:none}.ui-fab .ui-top.show{display:inline-block}
+.ui-tabs{margin:8px 0 26px;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+.ui-tablist{display:flex;overflow-x:auto;border-bottom:1px solid var(--line);scrollbar-width:none}
+.ui-tablist button{flex:none;font:inherit;font-size:15px;background:none;border:0;border-bottom:3px solid transparent;color:var(--sub);padding:12px 16px;cursor:pointer;white-space:nowrap}
+.ui-tablist button[aria-selected=true]{color:var(--ink);border-bottom-color:var(--accent);font-weight:700}
+.ui-panel{padding:6px 18px 4px}.ui-panel[hidden]{display:none}.ui-panel>h3:first-child{margin-top:12px}
+.ui-faq details{border-bottom:1px solid var(--line)}.ui-faq details:first-of-type{border-top:1px solid var(--line)}
+.ui-faq summary{cursor:pointer;list-style:none;padding:14px 30px 14px 2px;font-weight:700;position:relative;line-height:1.45}
+.ui-faq summary::-webkit-details-marker{display:none}
+.ui-faq summary::after{content:"+";position:absolute;right:6px;top:12px;font-weight:400;font-size:20px;color:var(--sub)}
+.ui-faq details[open] summary::after{content:"−"}.ui-faq .ui-a{padding:0 2px 8px}
+@media (prefers-reduced-motion:reduce){.ui-drawer,.ui-scrim{transition:none}html{scroll-behavior:auto}}
+@media print{.ui-bar,.ui-fab,.ui-drawer,.ui-scrim,.ui-menu-btn{display:none}}
