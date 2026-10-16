@@ -41,6 +41,14 @@ h2s.forEach(function(h){if(!/^(faq|frequently asked|よくある質問|よくあ
       var a=el('div',{'class':'ui-a'});cur.appendChild(a);wrap.appendChild(cur);if(!first)first=cur;n.parentNode.removeChild(n)}
     else if(cur){cur.lastChild.appendChild(n)}n=nx}
   if(first){first.open=true;h.parentNode.insertBefore(wrap,h.nextSibling)}});
+/* 記事の一覧をカードに(見出し画像つき。画像は /og/<slug>.png、無ければ文字だけ) */
+(function(){
+  [].forEach.call(d.querySelectorAll('ul.list'),function(ul){ul.classList.add('ui-cards');
+    [].forEach.call(ul.children,function(li){var a=li.querySelector('a[href]');if(!a||li.querySelector('.ui-thumb'))return;
+      var m=a.getAttribute('href').match(/^(.*\/)([^\/]+)\/$/);if(!m)return;
+      var img=el('img',{'class':'ui-thumb',src:m[1]+'og/'+m[2]+'.png',alt:'',loading:'lazy',width:'1200',height:'630'});
+      img.onerror=function(){img.remove();li.classList.add('ui-noimg')};
+      var link=el('a',{href:a.getAttribute('href'),'aria-hidden':'true',tabindex:'-1','class':'ui-thumb-a'});link.appendChild(img);li.insertBefore(link,li.firstChild)})})})();
 /* 記事: 読んだ割合・目次ボタン・次にやること・上へ */
 if(art){var bar=el('div',{'class':'ui-bar'});d.body.appendChild(bar);
   var fab=el('div',{'class':'ui-fab'});

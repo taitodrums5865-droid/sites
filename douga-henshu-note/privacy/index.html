@@ -44,7 +44,8 @@ img{max-width:100%;height:auto;border-radius:4px}
 footer{color:var(--sub);font-size:13.5px;padding:28px 20px 40px;margin-top:56px;border-top:2px solid var(--ink);line-height:2}footer a{color:var(--sub)}
 td:first-child{min-width:8.5em}
 @media (max-width:600px){body{font-size:16.5px;line-height:1.85}header{padding-top:14px;padding-bottom:10px}header .tag{display:none}.list a{font-size:17.5px}th,td{padding:8px 10px;font-size:14.5px}}/* ui.py(共通の動く部品) */
-body > header{position:relative}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}
+body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}
+@media (max-width:700px){.site-nav,body > header .gnav{display:none}body > header{padding-right:100px}}
 .ui-bar{position:fixed;left:0;top:0;height:3px;width:0;background:var(--accent);z-index:30}
 .ui-menu-btn{margin-left:auto;align-self:center;font:inherit;font-size:15px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer}
 .ui-menu-btn:hover{border-color:var(--accent);color:var(--accent)}
@@ -76,6 +77,15 @@ body > header{position:relative}body > header .ui-menu-btn{position:absolute;rig
 .ui-sum-who{font-size:15px;color:var(--sub);margin:0 0 4px;border-top:1px solid var(--line);padding-top:8px}
 .table-wrap{max-height:80vh;overflow:auto}.table-wrap thead th{position:sticky;top:0;z-index:1}
 .table-wrap td:first-child,.table-wrap th:first-child{position:sticky;left:0;background:var(--card);z-index:1}.table-wrap thead th:first-child{z-index:2;background:var(--pre,var(--card))}
+.ui-kicker{margin:28px 0 4px;font-weight:700;color:var(--accent);font-size:15px}.ui-hero{font-size:34px;line-height:1.35;margin:0 0 22px;max-width:22em;text-wrap:balance;word-break:auto-phrase}
+@media (max-width:600px){.ui-hero{font-size:26px}}
+.ui-cards{display:grid;grid-template-columns:1fr;gap:18px;list-style:none;padding:0}
+.ui-cards>li{display:grid;grid-template-columns:200px 1fr;gap:4px 18px;align-items:start;border:1px solid var(--line)!important;border-radius:12px;background:var(--card);padding:14px!important;margin:0}
+.ui-cards>li>*{grid-column:2}.ui-cards .ui-thumb-a{grid-column:1;grid-row:1 / span 4}
+.ui-cards .ui-thumb{display:block;width:100%;height:auto;aspect-ratio:1200/630;object-fit:cover;border-radius:8px;border:1px solid var(--line)}
+.ui-cards>li.ui-noimg{grid-template-columns:1fr}.ui-cards>li.ui-noimg>*{grid-column:1}
+.ui-cards>li:hover{border-color:var(--accent)!important}
+@media (max-width:600px){.ui-cards>li{grid-template-columns:1fr}.ui-cards>li>*,.ui-cards .ui-thumb-a{grid-column:1}.ui-cards .ui-thumb-a{grid-row:auto}}
 @media (prefers-reduced-motion:reduce){.ui-drawer,.ui-scrim{transition:none}html{scroll-behavior:auto}}
 @media print{.ui-bar,.ui-fab,.ui-drawer,.ui-scrim,.ui-menu-btn{display:none}}</style>
 </head><body><header><a class="brand" href="/douga-henshu-note/">どうがへんしゅうノート</a><nav class="gnav" aria-label="メニュー"><a href="/douga-henshu-note/">記事一覧</a><a href="/douga-henshu-note/tag/">テーマ</a><a href="/douga-henshu-note/about/">このサイトについて</a></nav><p class="tag">動画編集のソフト・パソコン・学び方を、公式の情報で比べて選べるようにするサイト。</p></header>
