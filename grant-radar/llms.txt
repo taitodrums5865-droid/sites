@@ -6,5 +6,6 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [How to Write Grants for Nonprofits: Federal Proposal Guide](https://aobaworks.com/grant-radar/how-to-write-grants-for-nonprofits-federal-proposal-guide/): Learn how to write grants for nonprofits the way federal reviewers score them: needs statement, goals, budget narrative, and Grants.gov submission steps.
+- [Small Business Grants for Women: Federal Options (2026)](https://aobaworks.com/grant-radar/small-business-grants-for-women-federal-options-2026/): Small business grants for women from the federal government are limited. Learn which SBA programs, SBIR/STTR awards, and WOSB certification apply to you.
 - [How to Apply for Grants for Small Business (2026 Guide)](https://aobaworks.com/grant-radar/how-to-apply-for-grants-for-small-business-2026-guide/): How to apply for grants for small business in 2026: set up SAM.gov, get your UEI, register on Grants.gov, filter by eligibility, and submit before the deadline.
 - [How to Check SAM.gov Registration Status (Step by Step)](https://aobaworks.com/grant-radar/how-to-check-sam-gov-registration-status-step-by-step/): Learn how to check SAM.gov registration status in Workspace or the public entity search, what Active, Inactive and Submitted mean, and what to do next.
