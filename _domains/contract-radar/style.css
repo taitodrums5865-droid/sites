@@ -8,41 +8,41 @@ a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}a:
 .wrap{max-width:740px;margin:0 auto;padding:0 20px}
 .site-head{border-bottom:1px solid var(--line);background:var(--card)}
 .site-head .wrap{display:flex;align-items:center;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
-.brand{display:flex;align-items:center;gap:10px;font-weight:750;font-size:19px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
-.brand svg{flex:none}.brand-sub{font-weight:400;font-size:14px;color:var(--sub);letter-spacing:0}.site-nav a{color:var(--sub);text-decoration:none;font-size:15px;margin-left:18px}.site-nav a:first-child{margin-left:0}.site-nav a:hover{color:var(--ink)}
+.brand{display:flex;align-items:center;gap:10px;font-weight:750;font-size:1.1875rem;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
+.brand svg{flex:none}.brand-sub{font-weight:400;font-size:0.875rem;color:var(--sub);letter-spacing:0}.site-nav a{color:var(--sub);text-decoration:none;font-size:0.9375rem;margin-left:18px}.site-nav a:first-child{margin-left:0}.site-nav a:hover{color:var(--ink)}
 main{padding-bottom:24px}
 h1,h2,h3,h4{line-height:1.28;letter-spacing:-.012em;scroll-margin-top:16px}
-h1{font-size:36px;margin:14px 0 12px}h2{font-size:26px;margin:46px 0 12px}h3{font-size:20.5px;margin:30px 0 8px}h4{font-size:18px;margin:24px 0 6px}
+h1{font-size:2.25rem;margin:14px 0 12px}h2{font-size:1.625rem;margin:46px 0 12px}h3{font-size:1.2812rem;margin:30px 0 8px}h4{font-size:1.125rem;margin:24px 0 6px}
 p,ul,ol{margin:0 0 18px}li{margin:4px 0}li>p{margin:0}
-.crumbs{font-size:14px;color:var(--sub);margin-top:22px}.crumbs a{color:var(--sub)}.crumbs span{margin:0 6px}
-.meta{color:var(--sub);font-size:15px;margin:0 0 16px}.meta a{color:inherit}
+.crumbs{font-size:0.875rem;color:var(--sub);margin-top:22px}.crumbs a{color:var(--sub)}.crumbs span{margin:0 6px}
+.meta{color:var(--sub);font-size:0.9375rem;margin:0 0 16px}.meta a{color:inherit}
 .pills{margin:0 0 18px;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:8px}.pills li{margin:0}
-.pills a{display:inline-block;font-size:14px;line-height:1.4;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--sub);background:var(--card)}
+.pills a{display:inline-block;font-size:0.875rem;line-height:1.4;padding:4px 12px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--sub);background:var(--card)}
 .pills a:hover{color:var(--accent);border-color:var(--accent)}
 .toc{background:var(--pre);border:1px solid var(--line);border-radius:10px;padding:16px 20px 8px;margin:6px 0 30px}
-.toc-h{font-size:14px;font-weight:700;color:var(--sub);margin:0 0 6px;text-transform:uppercase;letter-spacing:.04em}
-.toc ol{padding-left:22px;margin:0 0 8px}.toc li{font-size:16px;line-height:1.5;margin:6px 0}.toc a{text-decoration:none}.toc a:hover{text-decoration:underline}
+.toc-h{font-size:0.875rem;font-weight:700;color:var(--sub);margin:0 0 6px;text-transform:uppercase;letter-spacing:.04em}
+.toc ol{padding-left:22px;margin:0 0 8px}.toc li{font-size:1rem;line-height:1.5;margin:6px 0}.toc a{text-decoration:none}.toc a:hover{text-decoration:underline}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:var(--code);padding:1px 5px;border-radius:4px;font-size:.86em;overflow-wrap:anywhere}
-pre{background:var(--pre);border:1px solid var(--line);padding:14px 16px;border-radius:8px;overflow-x:auto;font-size:14.5px;line-height:1.55;margin:0 0 20px}
+pre{background:var(--pre);border:1px solid var(--line);padding:14px 16px;border-radius:8px;overflow-x:auto;font-size:0.9062rem;line-height:1.55;margin:0 0 20px}
 pre code{background:none;padding:0;font-size:inherit;overflow-wrap:normal}
 pre[data-lang]::before{content:attr(data-lang);display:block;font:600 12px/1 ui-monospace,Menlo,monospace;color:var(--sub);margin-bottom:10px;text-transform:uppercase;letter-spacing:.05em}
 blockquote{margin:0 0 20px;padding:12px 18px;border-left:4px solid var(--accent);background:var(--mark);border-radius:0 8px 8px 0}blockquote p{margin:0}
 .table-wrap{overflow-x:auto;margin:0 0 22px;border:1px solid var(--line);border-radius:8px;background:var(--card)}
-.disclaimer{margin:14px 0 0;padding:9px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);font-size:14.5px;line-height:1.5;color:var(--sub)}.disclaimer a{color:inherit}
-button[data-sort]{font:inherit;font-size:14px;padding:3px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);cursor:pointer}button[data-sort][aria-pressed=true]{border-color:var(--accent);color:var(--accent)}
-table{border-collapse:collapse;width:100%;font-size:15.5px;line-height:1.5}
+.disclaimer{margin:14px 0 0;padding:9px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--card);font-size:0.9062rem;line-height:1.5;color:var(--sub)}.disclaimer a{color:inherit}
+button[data-sort]{font:inherit;font-size:0.875rem;padding:3px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink);cursor:pointer}button[data-sort][aria-pressed=true]{border-color:var(--accent);color:var(--accent)}
+table{border-collapse:collapse;width:100%;font-size:0.9688rem;line-height:1.5}
 th,td{border-bottom:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top;min-width:7.5em}
 th{background:var(--pre);font-weight:650}td code{white-space:nowrap}tr:last-child td{border-bottom:0}
 img{max-width:100%;height:auto}hr{border:0;border-top:1px solid var(--line);margin:32px 0}
-.intro{padding:34px 0 8px}.intro h1{margin-top:0}.lede{font-size:19.5px;color:var(--sub);max-width:38em}
+.intro{padding:34px 0 8px}.intro h1{margin-top:0}.lede{font-size:1.2188rem;color:var(--sub);max-width:38em}
 .list{list-style:none;padding:0;margin:0 0 12px}.list li{padding:20px 0;border-bottom:1px solid var(--line);margin:0}.list li:last-child{border-bottom:0}
-.list h2,.list h3{margin:2px 0 6px;font-size:21px;line-height:1.32}.list h2 a,.list h3 a{color:var(--ink);text-decoration:none}.list h2 a:hover,.list h3 a:hover{color:var(--accent)}
-.list p{margin:0;color:var(--sub);font-size:16px;line-height:1.6}.list .when{font-size:14px;margin-bottom:2px}
+.list h2,.list h3{margin:2px 0 6px;font-size:1.3125rem;line-height:1.32}.list h2 a,.list h3 a{color:var(--ink);text-decoration:none}.list h2 a:hover,.list h3 a:hover{color:var(--accent)}
+.list p{margin:0;color:var(--sub);font-size:1rem;line-height:1.6}.list .when{font-size:0.875rem;margin-bottom:2px}
 .related{margin-top:44px;padding-top:6px;border-top:1px solid var(--line)}.related h2{margin-top:26px}
-.note{font-size:15px;color:var(--sub);border-top:1px solid var(--line);padding-top:16px;margin-top:36px}
-.site-foot{border-top:1px solid var(--line);background:var(--card);color:var(--sub);font-size:14.5px;margin-top:40px}
+.note{font-size:0.9375rem;color:var(--sub);border-top:1px solid var(--line);padding-top:16px;margin-top:36px}
+.site-foot{border-top:1px solid var(--line);background:var(--card);color:var(--sub);font-size:0.9062rem;margin-top:40px}
 .site-foot .wrap{padding-top:26px;padding-bottom:34px}.site-foot p{margin:0 0 8px}.site-foot a{color:var(--sub)}
-@media (max-width:600px){body{font-size:17px}h1{font-size:28px}h2{font-size:23px}h3{font-size:19px}.lede{font-size:18px}.site-nav a{margin-left:12px;font-size:14.5px}.brand{font-size:18px}.brand-sub{display:none}.toc{padding:14px 16px 6px}}
+@media (max-width:600px){body{font-size:1.0625rem}h1{font-size:1.75rem}h2{font-size:1.4375rem}h3{font-size:1.1875rem}.lede{font-size:1.125rem}.site-nav a{margin-left:12px;font-size:0.9062rem}.brand{font-size:1.125rem}.brand-sub{display:none}.toc{padding:14px 16px 6px}}
 @media print{.site-head,.site-foot,.toc,.related,.note{display:none}}
 /* ui.py(共通の動く部品) */
 /* デザインの決まり v2(2026-10-17 design-harness/docs/デザインシステムの研究.md: 押す場所44px・見えるフォーカス枠) */
@@ -125,7 +125,7 @@ html[lang=ja] em,html[lang=ja] i{font-style:normal;font-weight:700}
 .lede,.lead{font-size:1.1875rem;line-height:1.6;color:var(--sub);max-width:var(--measure)}
 html[lang=ja] .lede,html[lang=ja] .lead{font-size:1.0625rem;line-height:1.85}
 .meta,.crumbs{font-size:.875rem;color:var(--sub)}
-.crumbs{margin:1.25rem 0 0}.crumbs a{color:var(--sub)}
+.crumbs{margin:1.25rem 0 0;white-space:nowrap;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;text-overflow:ellipsis}.crumbs a{color:var(--sub)}
 .ui-kicker{display:none}
 main>h1:first-of-type,.ui-hero{margin-top:2.5rem}main>.crumbs+h1{margin-top:.75rem}
 
@@ -173,7 +173,7 @@ blockquote{border-left:4px solid var(--border);background:transparent;color:var(
 .pills a,.tags a{border-radius:6px;border-color:var(--line);color:var(--ink);background:var(--card);font-size:.875rem;padding:4px 12px}
 .pills a:hover,.tags a:hover{border-color:var(--accent);color:var(--accent)}
 
-/* ホームの「いまの数字」と締め切りが近い表(USWDS の summary box と collection の考え方) */
+/* ホームの「いまの数字」と期限が近い表(USWDS の summary box と collection の考え方) */
 .ui-dash{margin:2rem 0 1rem}
 .ui-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;border:1px solid var(--line);border-radius:8px;background:var(--line);margin:0 0 .5rem;overflow:hidden}
 .ui-stats>div{padding:14px 18px;background:var(--card)}
@@ -215,7 +215,7 @@ main table:not(:has(thead)) tr:hover td{background:transparent}
   table.ui-stack td.ui-num{text-align:left}
   .table-wrap:has(table.ui-stack),.tbl:has(table.ui-stack){max-height:none;overflow:visible}
 }
-/* 締め切りの印(色だけにせず「あと3日」と文字で) */
+/* 期限の札(色だけにせず「あと3日」と文字で) */
 .ui-due{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:4px;font-size:.8125rem;font-weight:700;line-height:1.5;white-space:nowrap;border:1px solid transparent;vertical-align:1px}
 .ui-due-now{background:var(--due-bg);color:var(--due-tx)}
 .ui-due-soon{background:var(--danger-bg);color:var(--danger-tx);border-color:var(--danger-bd)}
@@ -254,6 +254,11 @@ body>footer:not(.site-foot){padding:28px max(var(--gutter,16px),calc((100% - var
 body>footer a,.site-foot a{color:var(--sub)}
 .sisters{margin-top:.75rem}
 @media print{body>header,body>footer{background:none;color:#000}}
+
+caption.ui-cap{caption-side:top;text-align:left;font-size:.875rem;line-height:1.5;color:var(--sub);padding:10px 14px;border-bottom:1px solid var(--line);background:var(--card)}
+main table:not(:has(thead)) caption.ui-cap{padding:0 0 10px;border:0;background:transparent}
+caption.ui-cap-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;padding:0;border:0}
+time{font-variant-numeric:tabular-nums}
 
 /* データのサイト: 広い面 */
 .wrap{max-width:var(--page)}
