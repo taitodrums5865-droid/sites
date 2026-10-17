@@ -7,3 +7,4 @@ Sitemap: https://aobaworks.com/contract-radar/sitemap.xml
 Sitemap: https://aobaworks.com/douga-henshu-note/sitemap.xml
 Sitemap: https://aobaworks.com/grant-radar/sitemap.xml
 Sitemap: https://aobaworks.com/hojokin/sitemap.xml
+Sitemap: https://aobaworks.com/nyusatsu/sitemap.xml
