@@ -1,6 +1,6 @@
-# Set-Aside
+# Set-Aside Brief
 
-> Open U.S. federal contract opportunities for small businesses, sorted by deadline, set-aside, NAICS code and state — with plain-English guides to bidding.
+> Small business set-aside contracts open now, searchable by deadline, set-aside type, NAICS code and state. Free, updated daily from SAM.gov data.
 
 Guides are researched from official sources, cite them, and are reviewed regularly.
 

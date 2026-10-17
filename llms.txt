@@ -3,13 +3,13 @@
 > 仕事・AI・補助金・入札などを、公式の情報をもとにまとめた独立のサイト群です。
 
 ## Sites
-- [手すき](https://shigoto.aobaworks.com/llms.txt)
+- [AIツール比較](https://shigoto.aobaworks.com/llms.txt)
 - [Unattended](https://en.aobaworks.com/llms.txt)
-- [試し刷り](https://gazou.aobaworks.com/llms.txt)
-- [Set-Aside](https://setasidebrief.com/llms.txt)
-- [編集点](https://aobaworks.com/douga-henshu-note/llms.txt)
-- [Call Window](https://callwindowgrants.com/llms.txt)
-- [Outlay](https://outlaygrants.com/llms.txt)
-- [補助金の時刻表](https://aobaworks.com/hojokin/llms.txt)
-- [公告板](https://aobaworks.com/nyusatsu/llms.txt)
-- [Standstill](https://standstill.uk/llms.txt)
+- [画像生成AI比較](https://gazou.aobaworks.com/llms.txt)
+- [Set-Aside Brief](https://setasidebrief.com/llms.txt)
+- [動画編集ソフト比較](https://aobaworks.com/douga-henshu-note/llms.txt)
+- [Call Window EU Grants](https://callwindowgrants.com/llms.txt)
+- [Outlay Grants](https://outlaygrants.com/llms.txt)
+- [補助金・助成金検索](https://aobaworks.com/hojokin/llms.txt)
+- [入札情報検索](https://aobaworks.com/nyusatsu/llms.txt)
+- [Standstill UK Tenders](https://standstill.uk/llms.txt)
