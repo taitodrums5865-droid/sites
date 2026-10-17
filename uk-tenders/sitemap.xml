@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://aobaworks.com/uk-tenders/</loc></url>
-<url><loc>https://aobaworks.com/uk-tenders/o/fts-0776d4/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://aobaworks.com/uk-tenders/o/cf-d92c13ea-e83a-4c1c-bddb-16381337a829/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/o/fts-06fa73/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/o/fts-06ebc7/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/o/cf-972eb463-0768-4c68-a6c1-d148a6b675d6/</loc><lastmod>2026-10-17</lastmod></url>
@@ -1910,6 +1908,8 @@
 <url><loc>https://aobaworks.com/uk-tenders/value/over-10m/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/value/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/alerts/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://aobaworks.com/uk-tenders/stats/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://aobaworks.com/uk-tenders/data/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://aobaworks.com/uk-tenders/about/</loc></url>
 <url><loc>https://aobaworks.com/uk-tenders/privacy/</loc></url>
 </urlset>

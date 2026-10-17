@@ -92,3 +92,5 @@ body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{p
 .ui-fab button{display:none}}
 @media (prefers-reduced-motion:reduce){.ui-drawer,.ui-scrim{transition:none}html{scroll-behavior:auto}}
 @media print{.ui-bar,.ui-fab,.ui-drawer,.ui-scrim,.ui-menu-btn{display:none}}
+
+.cite{margin:28px 0 8px;padding:14px 16px;border:1px solid var(--line);border-radius:8px;background:var(--card)}.cite h2{font-size:1.1rem;margin:0 0 6px}.cite pre{white-space:pre-wrap;overflow-wrap:anywhere;margin:6px 0 10px}.cite p{font-size:1rem;margin:0 0 8px}.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:0 0 22px;padding:0;list-style:none}.stat-grid li{border:1px solid var(--line);border-radius:8px;padding:12px 14px;background:var(--card);margin:0}.stat-grid b{display:block;font-size:1.6rem;line-height:1.2}.stat-grid span{color:var(--sub);font-size:1rem}.embed-frame{width:100%;max-width:420px;height:520px;border:1px solid var(--line);border-radius:8px}

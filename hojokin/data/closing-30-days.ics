@@ -1,0 +1,1148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aobaworks//hojokin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:補助金の時刻表 締め切り(30日以内)
+X-WR-CALDESC:補助金の時刻表の締め切り(https://aobaworks.com/ho
+ jokin/)。Jグランツ(デジタル庁の補助金申請システム)の
+  Web-API。公式ではありません。必ず公式ページで確か
+ めてください。取得日 2026-10-17
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDdujMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:締切: 【茨城】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:茨城県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDdujMAD/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDdujMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdujMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDeY0MAL@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:締切: 「水素社会モデル構築高度化技術開発・実
+ 証事業」の第2回公募
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDeY0MAL/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDeY0MAL\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDeY0MAL/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDeOLMA1@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:締切: 「地盤・海象・気象等の調査・観測技術の
+ 高度化・高効率化に関する研究開発」 の公募
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDeOLMA1/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDeOLMA1\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDeOLMA1/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYaFMAX@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:締切: 【令和７年度補正予算・令和８年度】二酸
+ 化炭素排出抑制対策事業費等補助金（業務用建築物ス
+ トックの省CO2改修調査支援事業（令和７年度補正予算
+ 二次公募・令和８年度一次公募））
+DESCRIPTION:全国\n上限 100万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WJ200000CDYaFMAX/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WJ200000CDYaFMAX\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYaFMAX/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003GpG9UAK@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:締切: 令和７年度補正グローバルサウス未来志向
+ 型共創等事業費補助金（小規模実証・ＦＳ事業：二次
+ 公募）（ＦＳ・小規模実証事業実施事業者の募集（補
+ 助））
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WfQ000003GpG9UAK/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WfQ000003GpG9UAK\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003GpG9UAK/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYtoMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:締切: 【香川県】令和８年度中小企業等海外展開
+ 支援事業費補助金（海外出願支援事業）第３次募集
+DESCRIPTION:香川県\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDYtoMAH/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDYtoMAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYtoMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003I7R7UAK@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:締切: 【秋田県】令和8年度中小企業等海外展開支
+ 援事業費補助金（海外出願支援事業）２次公募
+DESCRIPTION:秋田県\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003I7R7UAK/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003I7R7UAK\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003I7R7UAK/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6aMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:締切: 【宮崎】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:宮崎県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6aMAD/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6aMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6aMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6bMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:締切: 【鹿児島】令和８年度中小企業最低賃金引
+ 上げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:鹿児島県\n上限 600万円\n\nこのサイトのページ:
+  https://aobaworks.com/hojokin/s/a0WJ200000CDe6bMAD/\n公式: https://www
+ .jgrants-portal.go.jp/subsidy/a0WJ200000CDe6bMAD\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6bMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDdl2MAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:締切: 「脱炭素化・エネルギー転換に資する我が
+ 国技術の国際実証事業」の2026年度第2回公募
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDdl2MAD/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDdl2MAD\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdl2MAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003K34rUAC@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:締切: 令和８年度地域資源活用製品等の開発・販
+ 売促進事業 開発・改良フェーズ
+DESCRIPTION:東京都\n上限 1\,500万円\n\nこのサイトのページ:
+  https://aobaworks.com/hojokin/s/a0WfQ000003K34rUAC/\n公式: https://www
+ .jgrants-portal.go.jp/subsidy/a0WfQ000003K34rUAC\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003K34rUAC/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003iZLKUA2@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:締切: 令和８年度酒類業振興支援事業費補助金（
+ 第６期）
+DESCRIPTION:茨城県/栃木県/群馬県/埼玉県/新潟県/長野県 / 
+ 千葉県/東京都/神奈川県/山梨県 / 富山県/石川県/福井
+ 県 / 岐阜県/静岡県/愛知県/三重県 / 滋賀県/京都府/大
+ 阪府/兵庫県/奈良県/和歌山県 / 鳥取県/島根県/岡山県/
+ 広島県/山口県 / 徳島県/香川県/愛媛県/高知県 / 福岡県
+ /佐賀県/長崎県 / 北海道 / 青森県/岩手県/宮城県/秋田
+ 県/山形県/福島県 / 熊本県/大分県/宮崎県/鹿児島県 / 
+ 沖縄県\n上限 1\,500万円\n\nこのサイトのページ: https://ao
+ baworks.com/hojokin/s/a0WfQ000003iZLKUA2/\n公式: https://www.jgrants-po
+ rtal.go.jp/subsidy/a0WfQ000003iZLKUA2\n出典: Jグランツ(デジタル
+ 庁の補助金申請システム)の Web-API(取得日 2026-10-17)。公
+ 式ではありません。必ず公式の公告・公募要領で確か
+ めてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003iZLKUA2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003EZsDUAW@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:締切: 令和８年度「水力発電導入促進支援事業費
+ 補助金（事業性評価支援事業）」（新規事業 追加公募
+ 分）
+DESCRIPTION:全国\n上限 2\,000万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003EZsDUAW/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003EZsDUAW/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDc0YMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:締切: 令和８年度都市ガス分野の災害対応・レジ
+ リエンス強化に係る支援事業費補助金
+DESCRIPTION:全国\n上限 13\,050万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDc0YMAT/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDc0YMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDdudMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:締切: 【青森】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:青森県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDdudMAD/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDdudMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdudMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6UMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:締切: 【高知】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:高知県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6UMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6UMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6UMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDXscMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:締切: IP360 海外展開支援（ローカライズ支援）
+DESCRIPTION:全国\n上限 4\,000万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDXscMAH/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDXscMAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXscMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDPyeMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:締切: ［第十三回］事業再構築補助金_GX進出類型
+ （交付申請等）
+DESCRIPTION:全国\n上限 15\,000万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDPyeMAH/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDPyeMAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDPyeMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDduhMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:締切: 【山形】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:山形県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDduhMAD/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDduhMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDduhMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003a9flUAA@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 【鳥取県】令和８年度_中小企業等海外展開
+ 支援事業費補助金（海外出願支援事業）（三次公募）
+DESCRIPTION:鳥取県\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003a9flUAA/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003a9flUAA\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003a9flUAA/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003oIxhUAE@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 【島根県】令和8年度_中小企業等海外展開
+ 支援事業費補助金（海外出願支援事業）（第６回公募
+ ）
+DESCRIPTION:島根県\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003oIxhUAE/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003oIxhUAE\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003oIxhUAE/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDeT5MAL@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和８年度 第３回 若手・女性リーダー応
+ 援プログラム助成事業/商店街起業・承継支援事業
+DESCRIPTION:東京都\n上限 844万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDeT5MAL/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDeT5MAL/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003Bwa1UAC@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和８年度第２回募集 課題解決型技術開発
+ 促進事業（試作品開発・改良助成）
+DESCRIPTION:東京都\n上限 2\,000万円\n\nこのサイトのページ:
+  https://aobaworks.com/hojokin/s/a0WfQ000003Bwa1UAC/\n公式: https://www
+ .jgrants-portal.go.jp/subsidy/a0WfQ000003Bwa1UAC\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003Bwa1UAC/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYh2MAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 2026年度「海外出願支援事業」（3次募集）
+DESCRIPTION:北海道\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDYh2MAH/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDYh2MAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYh2MAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDczHMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 【令和８年度２次公募】国立公園等利用拠
+ 点滞在環境等上質化事業（国立公園等資源整備事業費
+ 補助金）
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDczHMAT/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDczHMAT\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDczHMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDczMMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 【令和８年度２次公募】国立公園等多言語
+ 解説等整備事業（国立公園等資源整備事業費補助金）
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDczMMAT/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDczMMAT\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDczMMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYzVMAX@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 産業車両等の脱炭素化促進事業のうち、空
+ 港における脱炭素化促進事業① 空港における再エネ活
+ 用型GPU等導入支援（二酸化炭素排出抑制対策事業費等
+ 補助金）
+DESCRIPTION:全国\n上限 15\,000万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDYzVMAX/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYzVMAX/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDZ1GMAX@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 産業車両等の脱炭素化促進事業のうち、空
+ 港における脱炭素化促進事業③空港におけるEV・FCV型
+ 車両改造事業（二酸化炭素排出抑制対策事業費等補助
+ 金）
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDZ1GMAX/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDZ1GMAX\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDZ1GMAX/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDZ04MAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 産業車両等の脱炭素化促進事業のうち、港
+ 湾における脱炭素化促進事業（二酸化炭素排出抑制対
+ 策事業費等補助金）
+DESCRIPTION:全国\n上限 10\,000万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDZ04MAH/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDZ04MAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDaotMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 【令和８年度】二酸化炭素排出抑制対策事
+ 業費等補助金（再エネ等由来水素を活用した自立・分
+ 散型エネルギーシステム構築等事業）
+DESCRIPTION:全国\n上限 30\,000万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDaotMAD/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDaotMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDaotMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0W5h00000UcDDXEA3@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 東京都広域団体認定訓練助成金
+DESCRIPTION:東京都\n\nこのサイトのページ: https://aobaworks.co
+ m/hojokin/s/a0W5h00000UcDDXEA3/\n公式: https://www.jgrants-portal.go.jp
+ /subsidy/a0W5h00000UcDDXEA3\n出典: Jグランツ(デジタル庁の補
+ 助金申請システム)の Web-API(取得日 2026-10-17)。公式では
+ ありません。必ず公式の公告・公募要領で確かめてく
+ ださい。
+URL:https://aobaworks.com/hojokin/s/a0W5h00000UcDDXEA3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDY6uMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和8年度医療機関診療情報デジタル導入支
+ 援事業
+DESCRIPTION:東京都\n\nこのサイトのページ: https://aobaworks.co
+ m/hojokin/s/a0WJ200000CDY6uMAH/\n公式: https://www.jgrants-portal.go.jp
+ /subsidy/a0WJ200000CDY6uMAH\n出典: Jグランツ(デジタル庁の補
+ 助金申請システム)の Web-API(取得日 2026-10-17)。公式では
+ ありません。必ず公式の公告・公募要領で確かめてく
+ ださい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY6uMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003I9xZUAS@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和６年度地域医療勤務環境改善体制整備
+ 特別事業【仕入控除税額報告】
+DESCRIPTION:東京都\n\nこのサイトのページ: https://aobaworks.co
+ m/hojokin/s/a0WfQ000003I9xZUAS/\n公式: https://www.jgrants-portal.go.jp
+ /subsidy/a0WfQ000003I9xZUAS\n出典: Jグランツ(デジタル庁の補
+ 助金申請システム)の Web-API(取得日 2026-10-17)。公式では
+ ありません。必ず公式の公告・公募要領で確かめてく
+ ださい。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003I9xZUAS/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003IBL3UAO@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和６年度 勤務環境改善医師派遣等推進事
+ 業【仕入控除税額報告】
+DESCRIPTION:東京都\n\nこのサイトのページ: https://aobaworks.co
+ m/hojokin/s/a0WfQ000003IBL3UAO/\n公式: https://www.jgrants-portal.go.jp
+ /subsidy/a0WfQ000003IBL3UAO\n出典: Jグランツ(デジタル庁の補
+ 助金申請システム)の Web-API(取得日 2026-10-17)。公式では
+ ありません。必ず公式の公告・公募要領で確かめてく
+ ださい。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003IBL3UAO/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDVu7MAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締切: 令和７年度勤務環境改善体制医師派遣等推
+ 進事業
+DESCRIPTION:東京都\n\nこのサイトのページ: https://aobaworks.co
+ m/hojokin/s/a0WJ200000CDVu7MAH/\n公式: https://www.jgrants-portal.go.jp
+ /subsidy/a0WJ200000CDVu7MAH\n出典: Jグランツ(デジタル庁の補
+ 助金申請システム)の Web-API(取得日 2026-10-17)。公式では
+ ありません。必ず公式の公告・公募要領で確かめてく
+ ださい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDVu7MAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDY4mMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 令和７年度補正 業務産業用蓄電システム導
+ 入支援事業
+DESCRIPTION:全国\n上限 1\,500万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDY4mMAH/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY4mMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003aN9KUAU@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 東京都就職氷河期世代等安定就業サポート
+ 助成金（令和８年度第６回申請受付）
+DESCRIPTION:東京都\n上限 240万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003aN9KUAU/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003aN9KUAU\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003aN9KUAU/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003aSfBUAU@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 東京都正規雇用転換安定化支援助成金（令
+ 和８年度第６回申請受付）
+DESCRIPTION:東京都\n上限 190万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003aSfBUAU/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003aSfBUAU\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003aSfBUAU/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003aUAjUAM@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 東京都若者世代職場定着促進助成金（令和
+ ８年度第６回申請受付）
+DESCRIPTION:東京都\n上限 126万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003aUAjUAM/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003aUAjUAM\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003aUAjUAM/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDXjwMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 【福井県】令和８年度企業の太陽光・蓄電
+ 池設備導入促進事業補助金
+DESCRIPTION:福井県\n上限 1\,130万円\n\nこのサイトのページ:
+  https://aobaworks.com/hojokin/s/a0WJ200000CDXjwMAH/\n公式: https://www
+ .jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXjwMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYbNMAX@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: エイジフレンドリー補助金
+DESCRIPTION:全国\n上限 100万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WJ200000CDYbNMAX/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WJ200000CDYbNMAX\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYbNMAX/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe65MAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 【山梨】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:山梨県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe65MAD/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe65MAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe65MAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6RMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 【徳島】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:徳島県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6RMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6RMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6RMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6TMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 【愛媛】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:愛媛県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6TMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6TMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6ZMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締切: 【大分】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:大分県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6ZMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6ZMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6ZMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6XMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:締切: 【長崎】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:長崎県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6XMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6XMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6XMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe4JMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:締切: 令和７年度補正 再生可能エネルギー導入拡
+ 大・系統用蓄電池等電力貯蔵システム導入支援事業費
+ 補助金 系統用蓄電システム等導入支援事業
+DESCRIPTION:全国\n上限 400\,000万円\n\nこのサイトのページ: 
+ https://aobaworks.com/hojokin/s/a0WJ200000CDe4JMAT/\n公式: https://www.
+ jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe4JMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDapWMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 【令和８年度】先進的な資源循環投資促進
+ 事業（第２回）
+DESCRIPTION:全国/北海道/青森県/岩手県/宮城県/秋田県/山
+ 形県/福島県/茨城県/栃木県/群馬県/埼玉県/千葉県/東京
+ 都/神奈川県/新潟県/山梨県/長野県/富山県/石川県/福井
+ 県/岐阜県/静岡県/愛知県/三重県/滋賀県/京都府/大阪府
+ /兵庫県/奈良県/和歌山県/鳥取県/島根県/岡山県/広島県
+ /山口県/徳島県/香川県/愛媛県/高知県/福岡県/佐賀県/
+ 長崎県/熊本県/大分県/宮崎県/鹿児島県/沖縄県\n上限 3\
+ ,650\,000万円\n\nこのサイトのページ: https://aobaworks.com/hoj
+ okin/s/a0WJ200000CDapWMAT/\n公式: https://www.jgrants-portal.go.jp/subs
+ idy/a0WJ200000CDapWMAT\n出典: Jグランツ(デジタル庁の補助金
+ 申請システム)の Web-API(取得日 2026-10-17)。公式ではあり
+ ません。必ず公式の公告・公募要領で確かめてくださ
+ い。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDapWMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N8hVUAS@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 令和８年度 脱炭素成長型経済構造移行推進
+ 対策費補助金（自律型資源 循環システム強靱化促進事
+ 業）（事前着手届出）【二次公募】
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WfQ000003N8hVUAS/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WfQ000003N8hVUAS\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N8hVUAS/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003JPtqUAG@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 令和８年度 脱炭素成長型経済構造移行推進
+ 対策費補助金（自律型資源循環システム強靱化促進事
+ 業）【二次公募】
+DESCRIPTION:全国\n上限 2\,000\,000万円\n\nこのサイトのペー
+ ジ: https://aobaworks.com/hojokin/s/a0WfQ000003JPtqUAG/\n公式: https:/
+ /www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG\n出典: Jグラン
+ ツ(デジタル庁の補助金申請システム)の Web-API(取得日 2
+ 026-10-17)。公式ではありません。必ず公式の公告・公募
+ 要領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003JPtqUAG/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RZUA0@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_専門家活用枠(小規模売り手支援類型)
+DESCRIPTION:全国\n上限 450万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WfQ000003N1RZUA0/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WfQ000003N1RZUA0\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RZUA0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RaUAK@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_事業承継促進枠
+DESCRIPTION:全国\n上限 1\,000万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003N1RaUAK/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RaUAK/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RWUA0@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_専門家活用枠(買い手支援類型-100億企
+ 業特例)
+DESCRIPTION:全国\n上限 2\,000万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003N1RWUA0/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RWUA0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RXUA0@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_PMI推進枠(PMI専門家活用類型)
+DESCRIPTION:全国\n上限 150万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WfQ000003N1RXUA0/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WfQ000003N1RXUA0\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RXUA0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RYUA0@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_PMI推進枠(事業統合投資類型)
+DESCRIPTION:全国\n上限 1\,000万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003N1RYUA0/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RYUA0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RVUA0@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_専門家活用枠(買い手支援類型／売り
+ 手支援類型)
+DESCRIPTION:全国\n上限 800万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WfQ000003N1RVUA0/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WfQ000003N1RVUA0\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RVUA0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003N1RbUAK@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:締切: 中小企業生産性革命推進事業_事業承継・M&A
+ 補助金(16次公募)_廃業・再チャレンジ枠
+DESCRIPTION:全国\n上限 300万円\n\nこのサイトのページ: https
+ ://aobaworks.com/hojokin/s/a0WfQ000003N1RbUAK/\n公式: https://www.jgran
+ ts-portal.go.jp/subsidy/a0WfQ000003N1RbUAK\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003N1RbUAK/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDXkJMAX@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:締切: 「グリーンイノベーション基金事業／次世
+ 代型地熱技術の開発」の公募
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDXkJMAX/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDXkJMAX\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXkJMAX/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDYkiMAH@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:締切: 令和８年度外国人患者受入れ体制整備支援
+ 事業補助金
+DESCRIPTION:東京都\n上限 130万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDYkiMAH/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDYkiMAH\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYkiMAH/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDdjfMAD@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:締切: [３次公募]中小企業成長加速化補助金
+DESCRIPTION:全国\n上限 50\,000万円\n\nこのサイトのページ: h
+ ttps://aobaworks.com/hojokin/s/a0WJ200000CDdjfMAD/\n公式: https://www.j
+ grants-portal.go.jp/subsidy/a0WJ200000CDdjfMAD\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdjfMAD/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDdtCMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:締切: 令和8年度第2回 事業承継を契機とした成長
+ 支援事業(販路開拓コース)
+DESCRIPTION:東京都\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDdtCMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdtCMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003I7vlUAC@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:締切: 【岩手県】令和8年度中小企業等海外展開支
+ 援事業費補助金（海外出願支援事業）３次公募
+DESCRIPTION:岩手県\n上限 300万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WfQ000003I7vlUAC/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WfQ000003I7vlUAC\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003I7vlUAC/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDNDnMAP@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:締切: 令和８年度_Scope3排出量削減のための企業間
+ 連携による省CO2設備投資促進事業
+DESCRIPTION:全国\n上限 150\,000万円\n\nこのサイトのページ: 
+ https://aobaworks.com/hojokin/s/a0WJ200000CDNDnMAP/\n公式: https://www.
+ jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDNDnMAP/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDZXbMAP@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:締切: 【鹿児島県】令和8年度_中小企業等海外展
+ 開支援事業費補助金（海外出願支援事業）
+DESCRIPTION:鹿児島県\n上限 300万円\n\nこのサイトのページ:
+  https://aobaworks.com/hojokin/s/a0WJ200000CDZXbMAP/\n公式: https://www
+ .jgrants-portal.go.jp/subsidy/a0WJ200000CDZXbMAP\n出典: Jグランツ(
+ デジタル庁の補助金申請システム)の Web-API(取得日 2026-
+ 10-17)。公式ではありません。必ず公式の公告・公募要
+ 領で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDZXbMAP/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDZDHMA5@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:締切: 産業車両等の脱炭素化促進事業のうち、空
+ 港における脱炭素化促進事業②空港におけるEV・FCV型
+ 車両導入事業（二酸化炭素排出抑制対策事業費等補助
+ 金）
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WJ200000CDZDHMA5/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WJ200000CDZDHMA5\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDZDHMA5/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6WMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:締切: 【佐賀】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:佐賀県\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6WMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6WMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDeUgMAL@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:締切: 令和8年度東京都臨床調査個人票電子化等推
+ 進事業補助金
+DESCRIPTION:東京都\n上限 5万円\n\nこのサイトのページ: http
+ s://aobaworks.com/hojokin/s/a0WJ200000CDeUgMAL/\n公式: https://www.jgra
+ nts-portal.go.jp/subsidy/a0WJ200000CDeUgMAL\n出典: Jグランツ(デジ
+ タル庁の補助金申請システム)の Web-API(取得日 2026-10-17)
+ 。公式ではありません。必ず公式の公告・公募要領で
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDeUgMAL/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WJ200000CDe6CMAT@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:締切: 【京都】令和８年度中小企業最低賃金引上
+ げ支援対策費補助金（業務改善助成金）
+DESCRIPTION:京都府\n上限 600万円\n\nこのサイトのページ: ht
+ tps://aobaworks.com/hojokin/s/a0WJ200000CDe6CMAT/\n公式: https://www.jg
+ rants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT\n出典: Jグランツ(デ
+ ジタル庁の補助金申請システム)の Web-API(取得日 2026-10-
+ 17)。公式ではありません。必ず公式の公告・公募要領
+ で確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe6CMAT/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hojokin-a0WfQ000003CYIjUAO@aobaworks.com
+DTSTAMP:20261017T110334Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:締切: 「ポスト5G情報通信システム基盤強化研究
+ 開発事業（社会課題解決に向けた量子コンピュータ次
+ 世代機開発・実証の加速）」（g12-2：部素材）の追加
+ 公募
+DESCRIPTION:全国\n\nこのサイトのページ: https://aobaworks.com/h
+ ojokin/s/a0WfQ000003CYIjUAO/\n公式: https://www.jgrants-portal.go.jp/su
+ bsidy/a0WfQ000003CYIjUAO\n出典: Jグランツ(デジタル庁の補助
+ 金申請システム)の Web-API(取得日 2026-10-17)。公式ではあ
+ りません。必ず公式の公告・公募要領で確かめてくだ
+ さい。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003CYIjUAO/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
