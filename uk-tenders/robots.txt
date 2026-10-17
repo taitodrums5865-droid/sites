@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aobaworks.com/uk-tenders/sitemap.xml
