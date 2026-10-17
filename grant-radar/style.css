@@ -9,7 +9,7 @@ a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}a:
 .site-head{border-bottom:1px solid var(--line);background:var(--card)}
 .site-head .wrap{display:flex;align-items:center;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
 .brand{display:flex;align-items:center;gap:10px;font-weight:750;font-size:19px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
-.brand svg{flex:none}.site-nav a{color:var(--sub);text-decoration:none;font-size:15px;margin-left:18px}.site-nav a:first-child{margin-left:0}.site-nav a:hover{color:var(--ink)}
+.brand svg{flex:none}.brand-sub{font-weight:400;font-size:14px;color:var(--sub);letter-spacing:0}.site-nav a{color:var(--sub);text-decoration:none;font-size:15px;margin-left:18px}.site-nav a:first-child{margin-left:0}.site-nav a:hover{color:var(--ink)}
 main{padding-bottom:24px}
 h1,h2,h3,h4{line-height:1.28;letter-spacing:-.012em;scroll-margin-top:16px}
 h1{font-size:36px;margin:14px 0 12px}h2{font-size:26px;margin:46px 0 12px}h3{font-size:20.5px;margin:30px 0 8px}h4{font-size:18px;margin:24px 0 6px}
@@ -40,7 +40,7 @@ img{max-width:100%;height:auto}hr{border:0;border-top:1px solid var(--line);marg
 .note{font-size:15px;color:var(--sub);border-top:1px solid var(--line);padding-top:16px;margin-top:36px}
 .site-foot{border-top:1px solid var(--line);background:var(--card);color:var(--sub);font-size:14.5px;margin-top:40px}
 .site-foot .wrap{padding-top:26px;padding-bottom:34px}.site-foot p{margin:0 0 8px}.site-foot a{color:var(--sub)}
-@media (max-width:600px){body{font-size:17px}h1{font-size:28px}h2{font-size:23px}h3{font-size:19px}.lede{font-size:18px}.site-nav a{margin-left:12px;font-size:14.5px}.brand{font-size:18px}.toc{padding:14px 16px 6px}}
+@media (max-width:600px){body{font-size:17px}h1{font-size:28px}h2{font-size:23px}h3{font-size:19px}.lede{font-size:18px}.site-nav a{margin-left:12px;font-size:14.5px}.brand{font-size:18px}.brand-sub{display:none}.toc{padding:14px 16px 6px}}
 @media print{.site-head,.site-foot,.toc,.related,.note{display:none}}
 /* ui.py(共通の動く部品) */
 body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}

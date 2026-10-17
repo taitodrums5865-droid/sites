@@ -1,4 +1,4 @@
-# Grant Radar
+# Outlay
 
 > Open U.S. federal grants, sorted by deadline, amount and who can apply — with plain-English guides to applying.
 

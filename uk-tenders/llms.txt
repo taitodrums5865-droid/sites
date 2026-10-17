@@ -1,4 +1,4 @@
-# UK Tender Radar
+# Standstill
 
 > Open UK public sector tenders for small businesses, sorted by closing date, region, CPV code, buyer and value — with plain-English guides to bidding.
 

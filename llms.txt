@@ -1,0 +1,14 @@
+# aobaworks
+
+> 仕事・AI・補助金・入札などを、公式の情報をもとにまとめた独立のサイト群です。
+
+## Sites
+- [手すき](https://shigoto.aobaworks.com/llms.txt)
+- [Unattended](https://en.aobaworks.com/llms.txt)
+- [試し刷り](https://gazou.aobaworks.com/llms.txt)
+- [Set-Aside](https://aobaworks.com/contract-radar/llms.txt)
+- [編集点](https://aobaworks.com/douga-henshu-note/llms.txt)
+- [Outlay](https://aobaworks.com/grant-radar/llms.txt)
+- [補助金の時刻表](https://aobaworks.com/hojokin/llms.txt)
+- [公告板](https://aobaworks.com/nyusatsu/llms.txt)
+- [Standstill](https://aobaworks.com/uk-tenders/llms.txt)

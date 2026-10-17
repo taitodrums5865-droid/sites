@@ -1,4 +1,4 @@
-# Contract Radar
+# Set-Aside
 
 > Open U.S. federal contract opportunities for small businesses, sorted by deadline, set-aside, NAICS code and state — with plain-English guides to bidding.
 
