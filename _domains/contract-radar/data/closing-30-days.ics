@@ -37442,4 +37442,37 @@ DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-16 16:00 UTC+01:00\nD
 URL:https://setasidebrief.com/o/e1c36bf4f5414cd097c815f05c425a83/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-5b4fe9012c62497db3d611e337873bed@setasidebrief.com
+DTSTAMP:20261017T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Closes: Law Enforcement equipment: Binoculars\, Monocular\, and He
+ lmets.
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-11-16 10:00 UTC-06:00\nD
+ etails: https://setasidebrief.com/o/5b4fe9012c62497db3d611e337873bed/\nOf
+ ficial notice: https://sam.gov/opp/5b4fe9012c62497db3d611e337873bed/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-10-18. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/5b4fe9012c62497db3d611e337873bed/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-ac529d323de049db99863431d4d00e3f@setasidebrief.com
+DTSTAMP:20261017T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Closes: FCC TERRE HAUTE BREAD NOV26-SEP27
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-1
+ 6 11:00 UTC-05:00\nDetails: https://setasidebrief.com/o/ac529d323de049db9
+ 9863431d4d00e3f/\nOfficial notice: https://sam.gov/opp/ac529d323de049db99
+ 863431d4d00e3f/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-10-18. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/ac529d323de049db99863431d4d00e3f/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

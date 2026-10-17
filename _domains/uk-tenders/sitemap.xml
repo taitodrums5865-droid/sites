@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://standstill.uk/</loc></url>
-<url><loc>https://standstill.uk/o/fts-06fa73/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/o/fts-06ebc7/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/o/cf-972eb463-0768-4c68-a6c1-d148a6b675d6/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/o/cf-307e0188-2d62-4fcf-b1e6-0c3cf55cfe8f/</loc><lastmod>2026-10-17</lastmod></url>
@@ -1647,8 +1646,8 @@
 <url><loc>https://standstill.uk/cpv/85/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/79/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/71/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/cpv/50/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/80/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/cpv/50/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/90/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/73/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/44/</loc><lastmod>2026-10-17</lastmod></url>
@@ -1685,7 +1684,6 @@
 <url><loc>https://standstill.uk/cpv/43/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/51/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/65/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://standstill.uk/cpv/50000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/71000000/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/98000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/73000000/</loc><lastmod>2026-10-17</lastmod></url>
@@ -1699,6 +1697,7 @@
 <url><loc>https://standstill.uk/cpv/85300000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/48000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/30000000/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://standstill.uk/cpv/50000000/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/cpv/45000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/50413200/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/90500000/</loc><lastmod>2026-10-17</lastmod></url>

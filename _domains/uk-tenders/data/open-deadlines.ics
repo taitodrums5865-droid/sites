@@ -11,21 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-06fa73@standstill.uk
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Closes: Legal Disrepair Surveyor Services
-DESCRIPTION:West Lancashire Borough Council | Max: £150\,000\nDeadline: 2
- 026-10-17 16:00 UTC\nDetails: https://standstill.uk/o/fts-06fa73/\nOffici
- al notice: https://www.find-tender.service.gov.uk/Notice/087442-2026\nSou
- rce: Find a Tender and Contracts Finder (UK government)\, retrieved 2026-
- 10-18. Contains public sector information licensed under the Open Governm
- ent Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-06fa73/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-06ebc7@standstill.uk
 DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261017

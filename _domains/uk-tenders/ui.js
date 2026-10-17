@@ -102,3 +102,5 @@ else if(false&&location.pathname.replace(/\/+$/,'').split('/').length<=2&&!d.que
     b.onclick=function(){var c=p.querySelector('code')||p;navigator.clipboard.writeText(c.textContent).then(function(){b.textContent=ja?'コピーしました':'Copied';setTimeout(function(){b.textContent=ja?'コピー':'Copy'},1600)})};p.appendChild(b)});
 })();
 })();
+
+(function(){[].forEach.call(document.querySelectorAll('form[data-jump]'),function(f){f.addEventListener('submit',function(e){var s=f.querySelector('select');if(s&&s.value){e.preventDefault();location.href=s.value}})})})();
