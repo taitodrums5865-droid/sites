@@ -212,6 +212,7 @@ main table:not(:has(thead)) tr:hover td{background:transparent}
   table.ui-stack td::before{content:attr(data-label);color:var(--sub);font-size:.8125rem;font-weight:600;padding-top:2px}
   table.ui-stack td:first-child{display:block;font-size:1rem;margin-bottom:4px}
   table.ui-stack td:first-child::before{content:none}
+  table.ui-stack caption{display:block;width:auto;text-align:left}
   table.ui-stack td.ui-num{text-align:left}
   .table-wrap:has(table.ui-stack),.tbl:has(table.ui-stack){max-height:none;overflow:visible}
 }
