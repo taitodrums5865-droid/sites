@@ -11,38 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-c8ed2f14edc54f11892d0449de0e8542@setasidebrief.com
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Closes: FY26 - IOD 9 Used SUV EC
-DESCRIPTION:US MARSHALS SERVICE\nDeadline: 2026-10-17 10:00 UTC-04:00\nDet
- ails: https://setasidebrief.com/o/c8ed2f14edc54f11892d0449de0e8542/\nOffi
- cial notice: https://sam.gov/opp/c8ed2f14edc54f11892d0449de0e8542/view\nS
- ource: SAM.gov Contract Opportunities (U.S. General Services Administrati
- on)\, retrieved 2026-10-17. U.S. government work\; public domain in the U
- nited States (17 U.S.C. 105). Unofficial\; always check the official noti
- ce.
-URL:https://setasidebrief.com/o/c8ed2f14edc54f11892d0449de0e8542/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-9df6863a127442f99a1119d2cad7125f@setasidebrief.com
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Closes: FY25 - IOD 4 Used Mixed Vehicles
-DESCRIPTION:US MARSHALS SERVICE\nDeadline: 2026-10-17 10:00 UTC-04:00\nDet
- ails: https://setasidebrief.com/o/9df6863a127442f99a1119d2cad7125f/\nOffi
- cial notice: https://sam.gov/opp/9df6863a127442f99a1119d2cad7125f/view\nS
- ource: SAM.gov Contract Opportunities (U.S. General Services Administrati
- on)\, retrieved 2026-10-17. U.S. government work\; public domain in the U
- nited States (17 U.S.C. 105). Unofficial\; always check the official noti
- ce.
-URL:https://setasidebrief.com/o/9df6863a127442f99a1119d2cad7125f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-70669b38e1e34ba2b611da3bf03d8fba@setasidebrief.com
 DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261017
@@ -37421,6 +37389,23 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-16 08:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/6ffc9f0ca43146c1baa9148d1ac169b0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-e1c36bf4f5414cd097c815f05c425a83@setasidebrief.com
+DTSTAMP:20261017T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Closes: Vertical Transportation Equipment (VTE): Maintenance\, Rep
+ air\, and Inspection at Aviano Air Base\, Italy
+DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-16 16:00 UTC+01:00\nD
+ etails: https://setasidebrief.com/o/e1c36bf4f5414cd097c815f05c425a83/\nOf
+ ficial notice: https://sam.gov/opp/e1c36bf4f5414cd097c815f05c425a83/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-10-17. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/e1c36bf4f5414cd097c815f05c425a83/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
