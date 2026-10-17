@@ -43,6 +43,10 @@ img{max-width:100%;height:auto}hr{border:0;border-top:1px solid var(--line);marg
 @media (max-width:600px){body{font-size:17px}h1{font-size:28px}h2{font-size:23px}h3{font-size:19px}.lede{font-size:18px}.site-nav a{margin-left:12px;font-size:14.5px}.brand{font-size:18px}.brand-sub{display:none}.toc{padding:14px 16px 6px}}
 @media print{.site-head,.site-foot,.toc,.related,.note{display:none}}
 /* ui.py(共通の動く部品) */
+/* デザインの決まり v2(2026-10-17 design-harness/docs/デザインシステムの研究.md: 押す場所44px・見えるフォーカス枠) */
+button,.btn,.ui-menu-btn,.ui-fab button,.ui-fab a,.ui-tablist button{min-height:44px}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.pills a,.tags a{min-height:32px;display:inline-flex;align-items:center}
 body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}
 @media (max-width:700px){.site-nav,body > header .gnav{display:none}body > header{padding-right:100px}}
 .ui-bar{position:fixed;left:0;top:0;height:3px;width:0;background:var(--accent);z-index:30}

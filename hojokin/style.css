@@ -39,6 +39,10 @@ footer{color:var(--sub);font-size:13.5px;padding:28px 20px 40px;margin-top:56px;
 td:first-child{min-width:8.5em}
 @media (max-width:600px){body{font-size:16.5px;line-height:1.85}header{padding-top:14px;padding-bottom:10px}header .tag{display:none}.list a{font-size:17.5px}th,td{padding:8px 10px;font-size:14.5px}}
 /* ui.py(共通の動く部品) */
+/* デザインの決まり v2(2026-10-17 design-harness/docs/デザインシステムの研究.md: 押す場所44px・見えるフォーカス枠) */
+button,.btn,.ui-menu-btn,.ui-fab button,.ui-fab a,.ui-tablist button{min-height:44px}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.pills a,.tags a{min-height:32px;display:inline-flex;align-items:center}
 body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{position:absolute;right:16px;top:14px}
 @media (max-width:700px){.site-nav,body > header .gnav{display:none}body > header{padding-right:100px}}
 .ui-bar{position:fixed;left:0;top:0;height:3px;width:0;background:var(--accent);z-index:30}
