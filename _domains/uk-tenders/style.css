@@ -258,6 +258,9 @@ body>footer a,.site-foot a{color:var(--sub)}
 
 caption.ui-cap{caption-side:top;text-align:left;font-size:.875rem;line-height:1.5;color:var(--sub);padding:10px 14px;border-bottom:1px solid var(--line);background:var(--card)}
 main table:not(:has(thead)) caption.ui-cap{padding:0 0 10px;border:0;background:transparent}
+.table-wrap table:not(:has(thead)),.tbl table:not(:has(thead)){border-top:0;margin:0;max-width:none}
+.table-wrap table:not(:has(thead)) :is(th,caption.ui-cap),.tbl table:not(:has(thead)) :is(th,caption.ui-cap){padding-left:16px}
+.table-wrap table:not(:has(thead)) td,.tbl table:not(:has(thead)) td{padding-right:16px}
 caption.ui-cap-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;padding:0;border:0}
 time{font-variant-numeric:tabular-nums}
 
