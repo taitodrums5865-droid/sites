@@ -3,10 +3,10 @@ Allow: /
 Sitemap: https://shigoto.aobaworks.com/sitemap.xml
 Sitemap: https://en.aobaworks.com/sitemap.xml
 Sitemap: https://gazou.aobaworks.com/sitemap.xml
-Sitemap: https://aobaworks.com/contract-radar/sitemap.xml
+Sitemap: https://setasidebrief.com/sitemap.xml
 Sitemap: https://aobaworks.com/douga-henshu-note/sitemap.xml
-Sitemap: https://aobaworks.com/eu-funding/sitemap.xml
-Sitemap: https://aobaworks.com/grant-radar/sitemap.xml
+Sitemap: https://callwindowgrants.com/sitemap.xml
+Sitemap: https://outlaygrants.com/sitemap.xml
 Sitemap: https://aobaworks.com/hojokin/sitemap.xml
 Sitemap: https://aobaworks.com/nyusatsu/sitemap.xml
-Sitemap: https://aobaworks.com/uk-tenders/sitemap.xml
+Sitemap: https://standstill.uk/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "name": "site-uk-tenders",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    {
+      "pattern": "standstill.uk",
+      "custom_domain": true
+    }
+  ]
+}
