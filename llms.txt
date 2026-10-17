@@ -8,6 +8,7 @@
 - [試し刷り](https://gazou.aobaworks.com/llms.txt)
 - [Set-Aside](https://aobaworks.com/contract-radar/llms.txt)
 - [編集点](https://aobaworks.com/douga-henshu-note/llms.txt)
+- [Call Window](https://aobaworks.com/eu-funding/llms.txt)
 - [Outlay](https://aobaworks.com/grant-radar/llms.txt)
 - [補助金の時刻表](https://aobaworks.com/hojokin/llms.txt)
 - [公告板](https://aobaworks.com/nyusatsu/llms.txt)
