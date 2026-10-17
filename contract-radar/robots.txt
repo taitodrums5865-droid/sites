@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aobaworks.com/contract-radar/sitemap.xml

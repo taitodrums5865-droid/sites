@@ -1,0 +1,9 @@
+# migrate_domain.py が書く(自分のドメインへ引っ越したサイトの 301)
+/contract-radar/* https://setasidebrief.com/:splat 301
+/contract-radar https://setasidebrief.com/ 301
+/grant-radar/* https://outlaygrants.com/:splat 301
+/grant-radar https://outlaygrants.com/ 301
+/uk-tenders/* https://standstill.uk/:splat 301
+/uk-tenders https://standstill.uk/ 301
+/eu-funding/* https://callwindowgrants.com/:splat 301
+/eu-funding https://callwindowgrants.com/ 301
