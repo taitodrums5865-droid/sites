@@ -66,8 +66,8 @@ if(art){
     var on=null;h2s.forEach(function(x){if(x.getBoundingClientRect().top<120)on=x.id});
     tocA.forEach(function(a){a.classList.toggle('on',a.getAttribute('href')==='#'+on)})})}
   addEventListener('scroll',onScroll,{passive:true});onScroll()}
-/* トップ: 章ごとのタブ(記事ではないページで、h2 が2〜5個) */
-else if(location.pathname.replace(/\/+$/,'').split('/').length<=2&&!d.querySelector('.crumbs')){
+/* トップ: 章ごとのタブ(記事ではないページで、h2 が2〜5個)。v3(2026-10-17)で止めた: 中身を隠すと見比べられない(デジタル庁・NN/g)。全部並べて見せる */
+else if(false&&location.pathname.replace(/\/+$/,'').split('/').length<=2&&!d.querySelector('.crumbs')){
   var hs=[].slice.call(main.querySelectorAll(':scope > h2, :scope > section > h2'));
   if(hs.length>=2&&hs.length<=5){var box=el('div',{'class':'ui-tabs'}),list=el('div',{'class':'ui-tablist',role:'tablist'});box.appendChild(list);
     hs[0].parentNode.insertBefore(box,hs[0]);
@@ -79,4 +79,26 @@ else if(location.pathname.replace(/\/+$/,'').split('/').length<=2&&!d.querySelec
       list.appendChild(b);h.style.display='none';box.appendChild(p);if(h.id&&location.hash==='#'+h.id){b.click()}});
     var nw=hs.map(function(h){return /新しい|new|latest|recent/i.test(h.textContent)}).indexOf(true);if(nw>0&&!location.hash)list.children[nw].click();
     addEventListener('hashchange',function(){hs.forEach(function(h,i){if(h.id&&location.hash==='#'+h.id)list.children[i].click()})});}}
+/* v3(2026-10-17): 表を読みやすく — スマホは1件ずつの箱(USWDS stacked)・金額は右よせ・締め切りに「あと◯日」の印・コードにコピーのボタン */
+(function(){
+  var today=new Date();today.setHours(0,0,0,0);
+  var MON={jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
+  function pd(t){var m=t.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/)||t.match(/(\d{4})-(\d{2})-(\d{2})/);if(m)return new Date(+m[1],m[2]-1,+m[3]);
+    m=t.match(/\b([A-Z][a-z]{2})[a-z]* (\d{1,2}), (\d{4})/);if(m&&MON[m[1].toLowerCase()]!=null)return new Date(+m[3],MON[m[1].toLowerCase()],+m[2]);
+    m=t.match(/\b(\d{1,2}) ([A-Z][a-z]{2})[a-z]* (\d{4})/);if(m&&MON[m[2].toLowerCase()]!=null)return new Date(+m[3],MON[m[2].toLowerCase()],+m[1]);return null}
+  function due(td){var t=td.textContent;if(/あと\d+日|days? left|today|今日/i.test(t))return;var x=pd(t);if(!x)return;var n=Math.round((x-today)/864e5);if(n<0||n>7)return;
+    var b=el('span',{'class':'ui-due '+(n<=0?'ui-due-now':n<=3?'ui-due-soon':'ui-due-week')});
+    b.textContent=ja?(n<=0?'今日まで':'あと'+n+'日'):(n<=0?'Due today':n===1?'1 day left':n+' days left');td.appendChild(b)}
+  var DUE=/deadline|closing|closes|締め切り|締切|期限/i,NUM=/award|value|budget|amount|funding|ceiling|上限額|金額|予算/i;
+  [].forEach.call(main.querySelectorAll('table'),function(tb){
+    var ths=[].slice.call(tb.querySelectorAll('thead th'));
+    if(ths.length){var lab=ths.map(function(h){return h.textContent.trim()});
+      if(ths.length>=3)tb.classList.add('ui-stack');
+      ths.forEach(function(h,i){if(NUM.test(lab[i]))h.classList.add('ui-num')});
+      [].forEach.call(tb.tBodies,function(bd){[].forEach.call(bd.rows,function(r){[].forEach.call(r.cells,function(c,i){if(lab[i]==null)return;c.setAttribute('data-label',lab[i]);
+        if(NUM.test(lab[i]))c.classList.add('ui-num');if(DUE.test(lab[i])){c.classList.add('ui-date');due(c)}})})})}
+    else{[].forEach.call(tb.rows,function(r){var h=r.querySelector('th'),c=r.querySelector('td');if(h&&c&&DUE.test(h.textContent))due(c)})}});
+  [].forEach.call(d.querySelectorAll('pre'),function(p){if(!navigator.clipboard)return;var b=el('button',{type:'button','class':'ui-copy'},ja?'コピー':'Copy');
+    b.onclick=function(){var c=p.querySelector('code')||p;navigator.clipboard.writeText(c.textContent).then(function(){b.textContent=ja?'コピーしました':'Copied';setTimeout(function(){b.textContent=ja?'コピー':'Copy'},1600)})};p.appendChild(b)});
+})();
 })();
