@@ -5,6 +5,7 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [SF-424 Instructions: Field-by-Field Table and Steps (2026)](https://outlaygrants.com/sf-424-instructions-field-by-field-table-and-steps-2026/): SF-424 instructions in plain English: what to type in all 21 fields from your SAM.gov profile, the district format, field 19-21 picks, and common fixes.
 - [How to Write Grants for Nonprofits: Federal Proposal Guide](https://outlaygrants.com/how-to-write-grants-for-nonprofits-federal-proposal-guide/): Learn how to write grants for nonprofits the way federal reviewers score them: needs statement, goals, budget narrative, and Grants.gov submission steps.
 - [Small Business Grants for Women: Federal Options (2026)](https://outlaygrants.com/small-business-grants-for-women-federal-options-2026/): Small business grants for women from the federal government are limited. Learn which SBA programs, SBIR/STTR awards, and WOSB certification apply to you.
 - [How to Apply for Grants for Small Business (2026 Guide)](https://outlaygrants.com/how-to-apply-for-grants-for-small-business-2026-guide/): How to apply for grants for small business in 2026: set up SAM.gov, get your UEI, register on Grants.gov, filter by eligibility, and submit before the deadline.
