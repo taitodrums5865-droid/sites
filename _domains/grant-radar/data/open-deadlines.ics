@@ -3379,21 +3379,6 @@ URL:https://outlaygrants.com/g/357343/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-363920@outlaygrants.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Closes: Easement Restoration and Stewardship
-DESCRIPTION:Natural Resources Conservation Service | Max: $5\,000\,000\nDe
- adline: 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/3
- 63920/\nOfficial notice: https://www.grants.gov/search-results-detail/363
- 920\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-10-20.
-  U.S. government work\; public domain in the United States (17 U.S.C. 105
- ). Unofficial\; always check the official notice.
-URL:https://outlaygrants.com/g/363920/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-362302@outlaygrants.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -3452,6 +3437,21 @@ DESCRIPTION:U.S. Mission to Vietnam | Max: $28\,500\,000\nDeadline: 2026-1
  nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
  ; always check the official notice.
 URL:https://outlaygrants.com/g/364047/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-363920@outlaygrants.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Closes: Easement Restoration and Stewardship
+DESCRIPTION:Natural Resources Conservation Service | Max: $5\,000\,000\nDe
+ adline: 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/3
+ 63920/\nOfficial notice: https://www.grants.gov/search-results-detail/363
+ 920\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-10-20.
+  U.S. government work\; public domain in the United States (17 U.S.C. 105
+ ). Unofficial\; always check the official notice.
+URL:https://outlaygrants.com/g/363920/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3532,6 +3532,21 @@ DESCRIPTION:Bureau of Justice Assistance | Max: $2\,200\,000\nDeadline: 20
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364043/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-363779@outlaygrants.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: Affordable Rural Cooperative (ARC) Energy Program
+DESCRIPTION:Rural Utilities Service | Max: $20\,000\,000\nDeadline: 2026-1
+ 1-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363779/\nOffici
+ al notice: https://www.grants.gov/search-results-detail/363779\nSource: G
+ rants.gov (U.S. federal government)\, retrieved 2026-10-20. U.S. governme
+ nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
+ ; always check the official notice.
+URL:https://outlaygrants.com/g/363779/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3862,6 +3877,22 @@ DESCRIPTION:National Institutes of Health\nDeadline: 2026-12-02 23:59 UTC-
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/359150/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364122@outlaygrants.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: BJA FY 2026 Missing and Unidentified Human Remains (MUHR) 
+ Program
+DESCRIPTION:Bureau of Justice Assistance | Max: $1\,000\,000\nDeadline: 20
+ 26-12-02 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364122/\nOf
+ ficial notice: https://www.grants.gov/search-results-detail/364122\nSourc
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-10-20. U.S. gove
+ rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
+ ial\; always check the official notice.
+URL:https://outlaygrants.com/g/364122/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7972,6 +8003,22 @@ DESCRIPTION:Office of Science | Max: $10\,000\,000\nDeadline: 2027-09-30 2
  k\; public domain in the United States (17 U.S.C. 105). Unofficial\; alwa
  ys check the official notice.
 URL:https://outlaygrants.com/g/363993/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-243973@outlaygrants.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Closes: Center of Excellence for Alternative Jet Fuels and Environ
+ ment
+DESCRIPTION:FAA-COE-AJFE | Max: $20\,000\,000\nDeadline: 2027-09-30 23:59 
+ UTC-05:00\nDetails: https://outlaygrants.com/g/243973/\nOfficial notice: 
+ https://www.grants.gov/search-results-detail/243973\nSource: Grants.gov (
+ U.S. federal government)\, retrieved 2026-10-20. U.S. government work\; p
+ ublic domain in the United States (17 U.S.C. 105). Unofficial\; always ch
+ eck the official notice.
+URL:https://outlaygrants.com/g/243973/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
