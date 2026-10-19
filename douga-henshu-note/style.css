@@ -291,7 +291,7 @@ html[lang=en] .ui-lede{line-height:1.6}
 .ui-lang a{color:var(--head-sub);text-decoration:none;padding:10px 10px;border-radius:6px;min-height:44px;display:inline-flex;align-items:center}
 .ui-lang a:hover{color:var(--head-ink);background:rgba(127,127,127,.14)}
 .ui-lang span[aria-current]{color:var(--head-ink);font-weight:650;padding:10px 6px}
-@media (max-width:700px){body>header .ui-lang{margin-left:auto}body>header .ui-lang~.ui-menu-btn{margin-left:4px}}
+@media (max-width:700px){body>header .ui-lang{margin-left:auto}body>header .ui-lang~.ui-menu-btn{margin-left:4px}.ui-lang span[aria-current]{display:none}.ui-lang a{padding:10px 8px}}
 @media print{.ui-lang{display:none}}
 
 /* 記事のサイト: 読む列は狭く、トップだけ広く(カードを並べる) */
