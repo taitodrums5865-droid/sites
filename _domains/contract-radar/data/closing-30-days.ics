@@ -11,227 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-67fe94037dad444fbdc7cdb328b06978@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Amendment_MSPV Q4 FY26 Open Market
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/67fe94037dad444fbdc7cdb328
- b06978/\nOfficial notice: https://sam.gov/opp/67fe94037dad444fbdc7cdb328b
- 06978/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/67fe94037dad444fbdc7cdb328b06978/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-f409439fa6fe465f9e63a72affc17b5d@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Goodway Steam Cleaner and Floor Spinner
-DESCRIPTION:NATIONAL AERONAUTICS AND SPACE ADMINISTRATION\nDeadline: 2026-
- 10-19 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/f409439fa6fe4
- 65f9e63a72affc17b5d/\nOfficial notice: https://sam.gov/opp/f409439fa6fe46
- 5f9e63a72affc17b5d/view\nSource: SAM.gov Contract Opportunities (U.S. Gen
- eral Services Administration)\, retrieved 2026-10-20. U.S. government wor
- k\; public domain in the United States (17 U.S.C. 105). Unofficial\; alwa
- ys check the official notice.
-URL:https://setasidebrief.com/o/f409439fa6fe465f9e63a72affc17b5d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-d2a38063baff4e02ab19f1c0a4b4b82a@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: RADIAC AND RADCON PROGRAM PROFESSIONAL SUPPORT SERVICES
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-19 14:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/d2a38063baff4e02ab19f1c0a4b4b82a/\nOfficia
- l notice: https://sam.gov/opp/d2a38063baff4e02ab19f1c0a4b4b82a/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/d2a38063baff4e02ab19f1c0a4b4b82a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ba6e07b10e1f4f9cae4478cd8aaa519b@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Community Health Immunization Resources
-DESCRIPTION:INDIAN HEALTH SERVICE\nDeadline: 2026-10-19 17:00 UTC-04:00\nD
- etails: https://setasidebrief.com/o/ba6e07b10e1f4f9cae4478cd8aaa519b/\nOf
- ficial notice: https://sam.gov/opp/ba6e07b10e1f4f9cae4478cd8aaa519b/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-10-20. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/ba6e07b10e1f4f9cae4478cd8aaa519b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-3910179fc1d54252876ef9d84e706c92@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Design-Build to Budget (DB2B) Tactical Unmanned Aerial Veh
- icle (TUAV) Hangar
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-19 14:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/3910179fc1d54252876ef9d84e706c92/\nOfficia
- l notice: https://sam.gov/opp/3910179fc1d54252876ef9d84e706c92/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/3910179fc1d54252876ef9d84e706c92/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-fe522a6aacb8422fa17e10e4d7966a17@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: VEHICLE 5670 UTILITY BODY COLVILLE NATIONAL FOREST
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-10-19 14:00 UTC-07:00\nDetails:
-  https://setasidebrief.com/o/fe522a6aacb8422fa17e10e4d7966a17/\nOfficial 
- notice: https://sam.gov/opp/fe522a6aacb8422fa17e10e4d7966a17/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-10-20. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/fe522a6aacb8422fa17e10e4d7966a17/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-84de556cba1e45e2b2ea4604e032dc23@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: N065--Sources Sought -- Slit Lamp Installation James Lovel
- l FHCC
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/84de556cba1e45e2b2ea4604e0
- 32dc23/\nOfficial notice: https://sam.gov/opp/84de556cba1e45e2b2ea4604e03
- 2dc23/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/84de556cba1e45e2b2ea4604e032dc23/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-49b1e14964de4d44b405d71ccd609ce2@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Design-Build to Budget (DB2B) Tactical Unmanned Aerial Veh
- icle (TUAV) Hangar
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-19 14:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/49b1e14964de4d44b405d71ccd609ce2/\nOfficia
- l notice: https://sam.gov/opp/49b1e14964de4d44b405d71ccd609ce2/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/49b1e14964de4d44b405d71ccd609ce2/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-bdfd76f0dd2141b6b41280a870e56ae9@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Forest-Wide HVAC Repairs\\Upgrades
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-10-19 15:00 UTC-06:00\nDetails:
-  https://setasidebrief.com/o/bdfd76f0dd2141b6b41280a870e56ae9/\nOfficial 
- notice: https://sam.gov/opp/bdfd76f0dd2141b6b41280a870e56ae9/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-10-20. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/bdfd76f0dd2141b6b41280a870e56ae9/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ba72e56b512f4c4fb1f97dda4f4928d6@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Design-Build to Budget (DB2B) Tactical Unmanned Aerial Veh
- icle (TUAV) Hangar
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-19 14:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/ba72e56b512f4c4fb1f97dda4f4928d6/\nOfficia
- l notice: https://sam.gov/opp/ba72e56b512f4c4fb1f97dda4f4928d6/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/ba72e56b512f4c4fb1f97dda4f4928d6/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-35c6be52408641d5bcbc093d514058e4@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: J030--Generator-ATS Maintenance (VA-27-00002745)
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/35c6be52408641d5bcbc093d51
- 4058e4/\nOfficial notice: https://sam.gov/opp/35c6be52408641d5bcbc093d514
- 058e4/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/35c6be52408641d5bcbc093d514058e4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ce8b088ebee14b1090b1375160d95157@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: J030--Generator-ATS Maintenance (VA-27-00002745)
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/ce8b088ebee14b1090b1375160
- d95157/\nOfficial notice: https://sam.gov/opp/ce8b088ebee14b1090b1375160d
- 95157/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/ce8b088ebee14b1090b1375160d95157/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-672b93f86b5b4ea79b4ef15a99b98c10@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: J030--Generator-ATS Maintenance (VA-27-00002745)
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/672b93f86b5b4ea79b4ef15a99
- b98c10/\nOfficial notice: https://sam.gov/opp/672b93f86b5b4ea79b4ef15a99b
- 98c10/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/672b93f86b5b4ea79b4ef15a99b98c10/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-45f61e0290a741a2bba09d66116179bb@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Next Generation Bomb Hoist
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-19 16:00 UTC-05:00\nDetail
- s: https://setasidebrief.com/o/45f61e0290a741a2bba09d66116179bb/\nOfficia
- l notice: https://sam.gov/opp/45f61e0290a741a2bba09d66116179bb/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/45f61e0290a741a2bba09d66116179bb/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-8abf791ce1e64711a5f6795c4813f41f@setasidebrief.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
@@ -39369,6 +39148,38 @@ DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-11-18 13:00 UTC-07:00\nDetail
  \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/27182172882c402e88b15746dc198ffd/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-683101f3a45149109ca2be1291b1897e@setasidebrief.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Closes: B-2 Relay Assembly NSN: 5945-01-442-4318FW
+DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-18 15:00 UTC-06:00\nD
+ etails: https://setasidebrief.com/o/683101f3a45149109ca2be1291b1897e/\nOf
+ ficial notice: https://sam.gov/opp/683101f3a45149109ca2be1291b1897e/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-10-20. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/683101f3a45149109ca2be1291b1897e/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-4bf5d150473446c482dfa84599199311@setasidebrief.com
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Closes: B-2 Relay Assembly NSN: 5945-01-442-4318FW
+DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-18 15:00 UTC-06:00\nD
+ etails: https://setasidebrief.com/o/4bf5d150473446c482dfa84599199311/\nOf
+ ficial notice: https://sam.gov/opp/4bf5d150473446c482dfa84599199311/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-10-20. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/4bf5d150473446c482dfa84599199311/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
