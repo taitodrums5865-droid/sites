@@ -11,67 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-93a27305e95b4dfeaa353a0f3a696e85@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: J012--Fire Suppression Testing
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-19 16:30 U
- TC-04:00\nDetails: https://setasidebrief.com/o/93a27305e95b4dfeaa353a0f3a
- 696e85/\nOfficial notice: https://sam.gov/opp/93a27305e95b4dfeaa353a0f3a6
- 96e85/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-20. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/93a27305e95b4dfeaa353a0f3a696e85/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-8746d43dff6b4c6a9d1a5539cc68727c@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: SET SCREW\, ALTERED
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-19 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/8746d43dff6b4c6a9d1a5539cc68727c/\nOfficia
- l notice: https://sam.gov/opp/8746d43dff6b4c6a9d1a5539cc68727c/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/8746d43dff6b4c6a9d1a5539cc68727c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-347ba1e34cf444e2959f2996f8f1b3a4@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: WASHER\,FLAT
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-19 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/347ba1e34cf444e2959f2996f8f1b3a4/\nOfficia
- l notice: https://sam.gov/opp/347ba1e34cf444e2959f2996f8f1b3a4/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/347ba1e34cf444e2959f2996f8f1b3a4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-faac480bc829409681e87928f1759b7a@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: SET SCREW\, ALTERED
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-19 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/faac480bc829409681e87928f1759b7a/\nOfficia
- l notice: https://sam.gov/opp/faac480bc829409681e87928f1759b7a/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-20. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/faac480bc829409681e87928f1759b7a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-67fe94037dad444fbdc7cdb328b06978@setasidebrief.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
