@@ -5,3 +5,4 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [Capability Statement Example: 5 Sections Buyers Read First](https://setasidebrief.com/capability-statement-example-5-sections-buyers-read-first/): A capability statement example broken into the 5 sections contracting officers check first, with SBA and SAM.gov steps, a sample layout and common fixes.
