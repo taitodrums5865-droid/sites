@@ -1,6 +1,7 @@
 (function(){
-var d=document,ja=(d.documentElement.lang||'').indexOf('ja')===0;
+var d=document,ja=(d.documentElement.lang||'').indexOf('ja')===0,de=(d.documentElement.lang||'').indexOf('de')===0;
 var T=ja?{menu:'メニュー',close:'閉じる',site:'このサイト',topics:'テーマ',toc:'この記事の目次',tocBtn:'目次',top:'上へ',next:'次にやること'}
+     :de?{menu:'Menü',close:'Schließen',site:'Diese Website',topics:'Themen',toc:'Auf dieser Seite',tocBtn:'Inhalt',top:'Nach oben',next:'Nächste Schritte'}
          :{menu:'Menu',close:'Close',site:'This site',topics:'Topics',toc:'In this guide',tocBtn:'Contents',top:'Top',next:'Next steps'};
 function el(t,a,h){var e=d.createElement(t);for(var k in a||{})e.setAttribute(k,a[k]);if(h!=null)e.innerHTML=h;return e}
 var main=d.querySelector('main'),art=d.querySelector('article'),head=d.querySelector('.site-head .wrap')||d.querySelector('body > header'),nav=d.querySelector('.site-nav, .gnav');

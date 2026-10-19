@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://callwindowgrants.com/sitemap.xml
+Sitemap: https://callwindowgrants.com/sitemap-de.xml

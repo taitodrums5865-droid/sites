@@ -31,9 +31,9 @@
 <url><loc>https://standstill.uk/cpv/44/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/77/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/48/</loc><lastmod>2026-10-19</lastmod></url>
-<url><loc>https://standstill.uk/cpv/33/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/42/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/66/</loc><lastmod>2026-10-19</lastmod></url>
+<url><loc>https://standstill.uk/cpv/33/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/64/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/34/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/31/</loc><lastmod>2026-10-19</lastmod></url>
@@ -48,8 +48,8 @@
 <url><loc>https://standstill.uk/cpv/18/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/75/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/09/</loc><lastmod>2026-10-19</lastmod></url>
-<url><loc>https://standstill.uk/cpv/70/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/15/</loc><lastmod>2026-10-19</lastmod></url>
+<url><loc>https://standstill.uk/cpv/70/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/32/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/35/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/63/</loc><lastmod>2026-10-17</lastmod></url>
@@ -57,19 +57,17 @@
 <url><loc>https://standstill.uk/cpv/14/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/24/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/43/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://standstill.uk/cpv/51/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://standstill.uk/cpv/03/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/16/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/65/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://standstill.uk/cpv/33600000/</loc><lastmod>2026-10-19</lastmod></url>
-<url><loc>https://standstill.uk/cpv/85000000/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://standstill.uk/cpv/48000000/</loc><lastmod>2026-10-19</lastmod></url>
+<url><loc>https://standstill.uk/cpv/03/</loc><lastmod>2026-10-19</lastmod></url>
+<url><loc>https://standstill.uk/cpv/51/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/18000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/80000000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/45000000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/77000000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/72000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/50710000/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://standstill.uk/cpv/85000000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/79710000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/80500000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/90500000/</loc><lastmod>2026-10-19</lastmod></url>
@@ -87,7 +85,9 @@
 <url><loc>https://standstill.uk/cpv/73110000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/44000000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/70333000/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://standstill.uk/cpv/48000000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/85100000/</loc><lastmod>2026-10-17</lastmod></url>
+<url><loc>https://standstill.uk/cpv/33600000/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/cpv/55524000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/90910000/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://standstill.uk/cpv/75200000/</loc><lastmod>2026-10-17</lastmod></url>
@@ -126,7 +126,6 @@
 <url><loc>https://standstill.uk/buyer/uk-research-innovation-ukri/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/caerphilly-county-borough-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/derry-city-and-strabane-district-council/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/nhs-england/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/nottingham-city-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/sheffield-city-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/west-sussex-county-council/</loc><lastmod>2026-10-18</lastmod></url>
@@ -135,6 +134,7 @@
 <url><loc>https://standstill.uk/buyer/forestry-commission/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/herefordshire-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/leidos-supply-limited/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/buyer/nhs-england/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/network-rail-infrastructure-limited/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/the-mayor-and-commonalty-and-citizens-of-the-city-of-london/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/united-utilities-water-limited/</loc><lastmod>2026-10-18</lastmod></url>
@@ -155,7 +155,6 @@
 <url><loc>https://standstill.uk/buyer/ipswich-borough-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/leeds-city-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/liverpool-city-council/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/llywodraeth-cymru-welsh-government/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-borough-of-newham/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/maidstone-borough-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/manchester-city-council/</loc><lastmod>2026-10-18</lastmod></url>
@@ -174,7 +173,6 @@
 <url><loc>https://standstill.uk/buyer/yorkshire-purchasing-organisation/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/avon-and-wiltshire-mental-health-partnership-nhs-trust/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/british-film-institute/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/cheshire-west-and-chester-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/city-of-york-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/civil-nuclear-police-authority-cnpa-civil-nuclear-constabula/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/coventry-city-council/</loc><lastmod>2026-10-19</lastmod></url>
@@ -185,7 +183,7 @@
 <url><loc>https://standstill.uk/buyer/isle-of-wight-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/leicestershire-county-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/lincolnshire-county-council/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/liverpool-city-region-combined-authority/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/buyer/llywodraeth-cymru-welsh-government/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-quadrant-housing-trust/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-borough-of-waltham-forest/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/mhra/</loc><lastmod>2026-10-18</lastmod></url>
@@ -194,12 +192,10 @@
 <url><loc>https://standstill.uk/buyer/places-for-people-group-limited/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/stockport-metropolitan-borough-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/stoke-on-trent-city-council/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/the-riverside-group-limited/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/transport-for-london/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/university-of-dundee/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/york-and-north-yorkshire-combined-authority/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/ateb-housing-group-ltd/</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://standstill.uk/buyer/aberystwyth-university/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/affinity-water-limited/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/apex-housing-association/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/birmingham-city-council/</loc><lastmod>2026-10-18</lastmod></url>
@@ -211,6 +207,7 @@
 <url><loc>https://standstill.uk/buyer/burnley-borough-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/cambridge-city-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/centre-for-process-innovation-limited/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/buyer/cheshire-west-and-chester-council/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/cyngor-gwynedd/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/cyngor-sir-ceredigion-county-council/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/department-for-transport/</loc><lastmod>2026-10-18</lastmod></url>
@@ -225,6 +222,7 @@
 <url><loc>https://standstill.uk/buyer/improvement-and-development-agency-for-local-government-idea/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/kier-transportation-limited/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/leicestershire-county-council-trading-as-espo/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/buyer/liverpool-city-region-combined-authority/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-borough-of-hackney/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-borough-of-hillingdon/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/london-borough-of-richmond-upon-thames/</loc><lastmod>2026-10-19</lastmod></url>
@@ -257,6 +255,7 @@
 <url><loc>https://standstill.uk/buyer/the-district-council-of-folkestone-and-hythe/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/the-police-crime-commissioner-for-sussex/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/the-police-and-crime-commissioner-for-derbyshire/</loc><lastmod>2026-10-18</lastmod></url>
+<url><loc>https://standstill.uk/buyer/the-riverside-group-limited/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://standstill.uk/buyer/tower-hamlets/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/ulster-university/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://standstill.uk/buyer/university-of-salford/</loc><lastmod>2026-10-18</lastmod></url>

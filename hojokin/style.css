@@ -287,6 +287,13 @@ html[lang=en] .ui-lede{line-height:1.6}
 .ui-topics a span{font-size:.8125rem;color:var(--sub)}
 .ui-topics a:hover{border-color:var(--accent)}.ui-topics a:hover b{color:var(--accent)}
 
+.ui-lang{display:flex;align-items:center;gap:2px;font-size:.875rem;margin-left:4px;flex:none}
+.ui-lang a{color:var(--head-sub);text-decoration:none;padding:10px 10px;border-radius:6px;min-height:44px;display:inline-flex;align-items:center}
+.ui-lang a:hover{color:var(--head-ink);background:rgba(127,127,127,.14)}
+.ui-lang span[aria-current]{color:var(--head-ink);font-weight:650;padding:10px 6px}
+@media (max-width:700px){body>header .ui-lang{margin-left:auto}body>header .ui-lang~.ui-menu-btn{margin-left:4px}}
+@media print{.ui-lang{display:none}}
+
 /* データのサイト: 広い面 */
 .wrap{max-width:var(--page)}
 body>main:not(.wrap){max-width:var(--page);padding-inline:var(--gutter,16px)}
