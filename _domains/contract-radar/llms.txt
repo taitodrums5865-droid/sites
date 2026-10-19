@@ -5,4 +5,5 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [Total vs Partial Small Business Set Aside: 2026 Checklist](https://setasidebrief.com/total-vs-partial-small-business-set-aside-2026-checklist/): Total vs partial small business set aside explained: FAR rule of two, 50% subcontracting limits, HUBZone price rules, and a step-by-step bid checklist.
 - [Capability Statement Example: 5 Sections Buyers Read First](https://setasidebrief.com/capability-statement-example-5-sections-buyers-read-first/): A capability statement example broken into the 5 sections contracting officers check first, with SBA and SAM.gov steps, a sample layout and common fixes.

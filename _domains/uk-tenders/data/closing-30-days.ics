@@ -11,21 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-0775f0@standstill.uk
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: GWR - Bulk Packed Oils\, Lubricants and Greases
-DESCRIPTION:FIRST GREATER WESTERN LIMITED | Max: £2\,400\,000\nDeadline: 
- 2026-10-19 17:00 UTC\nDetails: https://standstill.uk/o/fts-0775f0/\nOffic
- ial notice: https://www.find-tender.service.gov.uk/Notice/088920-2026\nSo
- urce: Find a Tender and Contracts Finder (UK government)\, retrieved 2026
- -10-20. Contains public sector information licensed under the Open Govern
- ment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0775f0/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-06e5ea@standstill.uk
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
