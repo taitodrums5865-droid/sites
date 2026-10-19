@@ -11,22 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-8abf791ce1e64711a5f6795c4813f41f@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Protective Coatings Requirements Contract
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-10-19 16:30 UTC-05:00\nD
- etails: https://setasidebrief.com/o/8abf791ce1e64711a5f6795c4813f41f/\nOf
- ficial notice: https://sam.gov/opp/8abf791ce1e64711a5f6795c4813f41f/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-10-20. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/8abf791ce1e64711a5f6795c4813f41f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-b916a54d155841e5acd964a0f2f57b1e@setasidebrief.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
