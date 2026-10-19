@@ -5,3 +5,4 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [Horizon Europe Proposal Template Part B: 2026 Scoring Map](https://callwindowgrants.com/horizon-europe-proposal-template-part-b-2026-scoring-map/): Horizon Europe proposal template Part B explained section by section, with the 40-page limit, what evaluators score, the 3.1 tables and common mistakes.
