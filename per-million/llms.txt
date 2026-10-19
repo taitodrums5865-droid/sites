@@ -6,3 +6,4 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [Claude API Pricing vs Max Plan: Break-Even Table for 2026](https://aobaworks.com/per-million/claude-api-pricing-vs-max-plan-break-even-table-for-2026/): Claude API pricing vs Max plan: break-even token volumes for Sonnet 5.5, Opus 5.5 and Haiku 5.5, how Max's new API credits change the math, and steps.
+- [LLM API Pricing Comparison 2026: 5 Providers, Real Costs](https://aobaworks.com/per-million/llm-api-pricing-comparison-2026-5-providers-real-costs/): LLM API pricing comparison for October 2026: OpenAI, Claude, Gemini, Mistral and xAI rates per million tokens, per-task costs, and a monthly bill formula.
