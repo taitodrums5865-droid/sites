@@ -1,0 +1,7 @@
+# Per Million
+
+> LLM API prices per 1M tokens for OpenAI, Anthropic, Gemini, Mistral, xAI and more, with a daily log of price changes and a cost calculator.
+
+Guides are researched from official sources, cite them, and are reviewed regularly.
+
+## Guides

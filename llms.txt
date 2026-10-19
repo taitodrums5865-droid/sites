@@ -12,4 +12,5 @@
 - [Outlay Grants](https://outlaygrants.com/llms.txt)
 - [補助金・助成金検索](https://aobaworks.com/hojokin/llms.txt)
 - [入札情報検索](https://aobaworks.com/nyusatsu/llms.txt)
+- [Per Million](https://aobaworks.com/per-million/llms.txt)
 - [Standstill UK Tenders](https://standstill.uk/llms.txt)

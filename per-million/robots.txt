@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aobaworks.com/per-million/sitemap.xml
