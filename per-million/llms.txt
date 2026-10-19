@@ -5,3 +5,4 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [Claude API Pricing vs Max Plan: Break-Even Table for 2026](https://aobaworks.com/per-million/claude-api-pricing-vs-max-plan-break-even-table-for-2026/): Claude API pricing vs Max plan: break-even token volumes for Sonnet 5.5, Opus 5.5 and Haiku 5.5, how Max's new API credits change the math, and steps.
