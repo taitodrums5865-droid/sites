@@ -11,23 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-060645809b32499b93c9b6eecb34e715@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: FY 2026 Preventive Maintenance Services to the Building Au
- tomation System
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-10-19 10:00 UTC+01:00\nD
- etails: https://setasidebrief.com/o/060645809b32499b93c9b6eecb34e715/\nOf
- ficial notice: https://sam.gov/opp/060645809b32499b93c9b6eecb34e715/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-10-19. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/060645809b32499b93c9b6eecb34e715/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-3250f44577624e03bb2dc6324e60bfd6@setasidebrief.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
