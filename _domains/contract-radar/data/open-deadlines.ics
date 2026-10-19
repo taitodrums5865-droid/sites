@@ -11,39 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-b916a54d155841e5acd964a0f2f57b1e@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: Alaska Range Combat Training Integrated Communications and
-  Support (ARCTICS) II Virtual Industry Day
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-10-19 12:00 UTC-10:00\nD
- etails: https://setasidebrief.com/o/b916a54d155841e5acd964a0f2f57b1e/\nOf
- ficial notice: https://sam.gov/opp/b916a54d155841e5acd964a0f2f57b1e/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-10-20. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/b916a54d155841e5acd964a0f2f57b1e/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-48d136123ab643ac98dd8e45c17fdd7c@setasidebrief.com
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Closes: SPRRA127RA012
-DESCRIPTION:DEFENSE LOGISTICS AGENCY\nDeadline: 2026-10-19 17:00 UTC-05:00
- \nDetails: https://setasidebrief.com/o/48d136123ab643ac98dd8e45c17fdd7c/\
- nOfficial notice: https://sam.gov/opp/48d136123ab643ac98dd8e45c17fdd7c/vi
- ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
- tration)\, retrieved 2026-10-20. U.S. government work\; public domain in 
- the United States (17 U.S.C. 105). Unofficial\; always check the official
-  notice.
-URL:https://setasidebrief.com/o/48d136123ab643ac98dd8e45c17fdd7c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-09ab1622defd4dd3a02b023870f6e613@setasidebrief.com
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
