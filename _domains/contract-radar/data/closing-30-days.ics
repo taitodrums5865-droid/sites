@@ -11,21 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-5eefc2fbf29e4410bf21f4f1a752922b@setasidebrief.com
-DTSTAMP:20261020T000000Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Closes: Belle Fountain Ditch Cleanout Phase 2
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-20 13:30 UTC-05:00\nDetail
- s: https://setasidebrief.com/o/5eefc2fbf29e4410bf21f4f1a752922b/\nOfficia
- l notice: https://sam.gov/opp/5eefc2fbf29e4410bf21f4f1a752922b/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-21. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/5eefc2fbf29e4410bf21f4f1a752922b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-a8c6e1a921d644fa80faa3084f175a2b@setasidebrief.com
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
