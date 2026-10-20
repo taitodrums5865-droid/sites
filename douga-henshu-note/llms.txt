@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [動画編集ソフト買い切り比較【2026年】月額との損益分岐で選ぶ](https://aobaworks.com/douga-henshu-note/douga-henshu-soft-kaikiri-hikaku/): PowerDirector・Filmora・Final Cut Proなど買い切り型の動画編集ソフトを比較。月額(サブスク)と何年使えば総額が逆転するかの計算式と、OS別の選び方をまとめました。
 - [動画編集初心者の独学|つまずく5工程と講座に切り替える判断表](https://aobaworks.com/douga-henshu-note/video-editing-dokugaku-genkai/): 動画編集を初心者が独学で始めるときに必要な、ソフト・パソコン・学ぶ順番をまとめました。挫折しやすい5つの工程と、スクールや講座に切り替える目安は判断表にしています(2026年10月時点の公式情報。確かめきれなかった項目は本文に明記)。
 - [動画編集ソフト無料ロゴなし比較【2026年】OSと画質の早見表](https://aobaworks.com/douga-henshu-note/video-edit-soft-free-no-logo-hikaku/): 動画編集ソフトを無料・ロゴなしで選ぶための比較です。DaVinci Resolve、Clipchamp、iMovie、Shotcut、CapCut、Canvaを、OS・書き出せる画質・ロゴが入る条件で比べ、状況別のおすすめをまとめました。
 - [CapCut無料と有料の違い、料金と制限まとめ](https://aobaworks.com/douga-henshu-note/capcut-free-vs-paid-difference/): CapCut 無料 有料 違いを公式情報で整理しました。無料版で使える範囲、CapCut Proの料金（2026年10月時点）、4K・透かし・AIクレジットの差、7日間無料トライアル、解約方法まで初心者向けに解説します。
