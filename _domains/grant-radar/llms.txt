@@ -20,6 +20,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [Indirect Cost Rate De Minimis: 15% Election in 4 Steps](https://outlaygrants.com/indirect-cost-rate-de-minimis-15-election-in-4-steps/): The indirect cost rate de minimis is now up to 15% of MTDC, not 10%. See who can elect it, how to calculate it, and how to document the election.
 - [UEI Number Lookup: Free SAM.gov Search in 3 Steps](https://outlaygrants.com/uei-number-lookup-free-sam-gov-search-in-3-steps/): UEI number lookup made simple: search any organization's UEI free on SAM.gov with no login, find your own UEI, and know when you need to sign in.
 - [Grants.gov vs SAM.gov: Registration Order in 4 Steps (2026)](https://outlaygrants.com/grants-gov-vs-sam-gov-registration-order-in-4-steps-2026/): Grants.gov vs SAM.gov explained: SAM.gov gives you a UEI and active registration first, then Grants.gov handles applications. Steps, timing, and fixes.
 - [Federal Grant vs Cooperative Agreement: Table + NOFO Steps](https://outlaygrants.com/federal-grant-vs-cooperative-agreement-table-nofo-steps/): Federal grant vs cooperative agreement compared side by side: funding control, reporting burden and eligibility, plus steps to spot the type in any NOFO.
