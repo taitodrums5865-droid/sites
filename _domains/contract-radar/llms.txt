@@ -4,6 +4,23 @@
 
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
+## Data pages (rebuilt daily)
+- [How to Bid on Federal Contracts: 6 Steps for Small Businesses](https://setasidebrief.com/how-to-bid/): How small businesses bid on federal contracts: free SAM.gov registration, NAICS codes, size standards, set-asides and responding to notices.
+- [Federal Contracts Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://setasidebrief.com/closing-soon/): Federal Contracts Closing Soon: 1,515 open; all due within 14 days (soonest Oct 20). Top buyer: Defense Logistics Agency (636). Updated daily from SAM.gov.
+- [Small Business Set-Aside Contracts by Program](https://setasidebrief.com/set-aside/): Open federal contracts reserved for small businesses: total small business, 8(a), WOSB/EDWOSB, SDVOSB, HUBZone and VA veteran-owned set-asides.
+- [Federal Contracts by NAICS Sector](https://setasidebrief.com/naics/): Open federal contract opportunities grouped by NAICS industry sector: construction, manufacturing, professional services, facilities support and more.
+- [Federal Contracts by State](https://setasidebrief.com/state/): Open federal contract opportunities by place of performance: every U.S. state, D.C. and territories, sorted by deadline.
+- [Federal Contract Opportunities by Agency](https://setasidebrief.com/agency/): Open federal contract opportunities grouped by buying department and agency, such as Defense, Veterans Affairs, Agriculture and GSA.
+- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 21, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 3,000 open opportunities. 1,160 clos
+- [Free downloads: deadline calendar, CSV and embed](https://setasidebrief.com/data/): Free downloads of open federal small-business set-aside contract opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next
+
+## About the data
+- Source: [SAM.gov Contract Opportunities (U.S. General Services Administration)](https://sam.gov/)
+- Licence: U.S. government work; public domain in the United States (17 U.S.C. 105)
+- Last data refresh: 2026-10-21
+- Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
+
 ## Guides
+- [Sources Sought Notice: 5-Step Response Template (2026)](https://setasidebrief.com/sources-sought-notice-5-step-response-template-2026/): How to respond to a sources sought notice: find it on SAM.gov, fill a 5-step response template, attach your capability statement and do the deadline math.
 - [Total vs Partial Small Business Set Aside: 2026 Checklist](https://setasidebrief.com/total-vs-partial-small-business-set-aside-2026-checklist/): Total vs partial small business set aside explained: FAR rule of two, 50% subcontracting limits, HUBZone price rules, and a step-by-step bid checklist.
 - [Capability Statement Example: 5 Sections Buyers Read First](https://setasidebrief.com/capability-statement-example-5-sections-buyers-read-first/): A capability statement example broken into the 5 sections contracting officers check first, with SBA and SAM.gov steps, a sample layout and common fixes.
