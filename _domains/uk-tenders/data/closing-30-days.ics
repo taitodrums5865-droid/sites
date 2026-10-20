@@ -20921,4 +20921,19 @@ DESCRIPTION:MHRA | Max: £3\,000\,000\nDeadline: 2026-11-19 14:00 UTC\nDet
 URL:https://standstill.uk/o/fts-0776f0/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-06f580@standstill.uk
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Closes: VRU - Mayor’s Youth Clubs Safety Programme
+DESCRIPTION:Mayor's Office For Policing And Crime | Max: £5\,160\,000\nDe
+ adline: 2026-11-19 17:00 UTC\nDetails: https://standstill.uk/o/fts-06f580
+ /\nOfficial notice: https://www.find-tender.service.gov.uk/Notice/098582-
+ 2026\nSource: Find a Tender and Contracts Finder (UK government)\, retrie
+ ved 2026-10-20. Contains public sector information licensed under the Ope
+ n Government Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-06f580/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
