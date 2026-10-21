@@ -6,23 +6,24 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Data pages (rebuilt daily)
 - [How to Bid for UK Public Sector Tenders: 6 Steps for Small Businesses](https://standstill.uk/how-to-bid/): How small businesses bid for UK public sector tenders: free supplier registration, CPV codes, selection questionnaires, social value and closing dates.
-- [UK Tenders Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-10-21).
-- [UK Tenders for Small Businesses (Oct 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1050 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-10-21).
-- [UK Tenders for Charities (Oct 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 448 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-10-21).
+- [UK Tenders Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-10-22).
+- [UK Tenders for Small Businesses (Oct 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1101 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-10-22).
+- [UK Tenders for Charities (Oct 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 468 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-10-22).
 - [UK Public Sector Tenders by Region](https://standstill.uk/region/): Open UK public sector tenders by region: London, the South East, the North West, Scotland, Wales, Northern Ireland and more.
 - [UK Tenders by CPV Category](https://standstill.uk/cpv/): Open UK public sector tenders grouped by CPV category: construction work, IT services, health and social work, cleaning, transport and more.
 - [UK Public Sector Buyers with Open Tenders](https://standstill.uk/buyer/): UK public sector buyers with the most open tenders: councils, NHS trusts, universities, housing associations and central government.
 - [UK Tenders by Contract Value](https://standstill.uk/value/): Open UK public sector tenders grouped by estimated contract value, from under £25,000 to over £10 million.
-- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 21, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,569 open tenders. 357 close within 7 days and 313 wer
+- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 22, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,643 open tenders. 356 close within 7 days and 388 wer
 - [Free downloads: deadline calendar, CSV and embed](https://standstill.uk/data/): Free downloads of open UK public sector tenders deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site. Sou
 
 ## About the data
 - Source: [Find a Tender and Contracts Finder (UK government)](https://www.find-tender.service.gov.uk/)
 - Licence: Contains public sector information licensed under the Open Government Licence v3.0
-- Last data refresh: 2026-10-21
+- Last data refresh: 2026-10-22
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [Dynamic Purchasing System: 6 SME Steps for 2026](https://standstill.uk/dynamic-purchasing-system-6-sme-steps-for-2026/): Dynamic purchasing system rules changed: how UK SMEs join a dynamic market or legacy DPS, stay a member and bid, with 2026 thresholds and 2029 cut-off.
 - [Contracts Finder vs Find a Tender: 2026 Table and Steps](https://standstill.uk/contracts-finder-vs-find-a-tender-2026-table-and-steps/): Contracts Finder vs Find a Tender in 2026: which UK site lists which contracts, the £12,000/£30,000 and £135,018 thresholds, and how SMEs register and search.
 - [How to Win Government Contracts UK: 7 Steps for SMEs (2026)](https://standstill.uk/how-to-win-government-contracts-uk-7-steps-for-smes-2026/): How to win government contracts in the UK without paid tools: 7 steps using Find a Tender, CPV codes and Contracts Finder, with 2026 thresholds for SMEs.
 - [Framework Agreement How to Get On: 6 SME Steps (2026)](https://standstill.uk/framework-agreement-how-to-get-on-6-sme-steps-2026/): Framework agreement how to get on: 6 steps from Find a Tender registration to call-off wins, plus how open frameworks and dynamic markets reopen for SMEs.
