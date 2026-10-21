@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://setasidebrief.com/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/tag/sam.gov/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://setasidebrief.com/tag/small-business/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/how-to-bid/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://setasidebrief.com/closing-soon/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/set-aside/small-business/</loc><lastmod>2026-10-22</lastmod></url>
@@ -21,22 +22,20 @@
 <url><loc>https://setasidebrief.com/naics/53/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/72/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/11/</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/61/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/42/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/61/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/52/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/22/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/92/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/71/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/21/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/332994/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/541380/</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/562211/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/336413/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/561730/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/335312/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/488190/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/541690/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/236220/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/541380/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/811210/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/238990/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334519/</loc><lastmod>2026-10-22</lastmod></url>
@@ -81,6 +80,7 @@
 <url><loc>https://setasidebrief.com/naics/541330/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/325120/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/238210/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/562211/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/332216/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/561320/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334220/</loc><lastmod>2026-10-20</lastmod></url>
@@ -118,6 +118,7 @@
 <url><loc>https://setasidebrief.com/naics/333515/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/326220/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/336211/</loc><lastmod>2026-10-20</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/332994/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/339991/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/336992/</loc><lastmod>2026-10-17</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/335910/</loc><lastmod>2026-10-20</lastmod></url>
@@ -199,8 +200,8 @@
 <url><loc>https://setasidebrief.com/agency/us-coast-guard/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/department-of-justice/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/general-services-administration/</loc><lastmod>2026-10-22</lastmod></url>
-<url><loc>https://setasidebrief.com/agency/national-aeronautics-and-space-administration/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/department-of-transportation/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://setasidebrief.com/agency/national-aeronautics-and-space-administration/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/federal-prison-system-bureau-of-prisons/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/indian-health-service/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/public-buildings-service/</loc><lastmod>2026-10-22</lastmod></url>

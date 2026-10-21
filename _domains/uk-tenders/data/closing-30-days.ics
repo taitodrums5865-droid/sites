@@ -21445,4 +21445,65 @@ DESCRIPTION:MHRA | Max: £5\,833\,333\nDeadline: 2026-11-20 16:00 UTC\nDet
 URL:https://standstill.uk/o/fts-0785be/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078a5d@standstill.uk
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: Invitation to Tender Window Cleaning Services - Wirral
+DESCRIPTION:WIRRAL COMMUNITY HEALTH AND CARE NHS FOUNDATION TRUST | Max: 
+ £145\,000\nDeadline: 2026-11-20 17:00 UTC\nDetails: https://standstill.u
+ k/o/fts-078a5d/\nOfficial notice: https://www.find-tender.service.gov.uk/
+ Notice/098300-2026\nSource: Find a Tender and Contracts Finder (UK govern
+ ment)\, retrieved 2026-10-21. Contains public sector information licensed
+  under the Open Government Licence v3.0. Unofficial\; always check the of
+ ficial notice.
+URL:https://standstill.uk/o/fts-078a5d/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078699@standstill.uk
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: Procurement of Concierge and Security Services
+DESCRIPTION:LOOK AHEAD CARE AND SUPPORT LIMITED | Max: £10\,000\,000\nDea
+ dline: 2026-11-20 17:00 UTC\nDetails: https://standstill.uk/o/fts-078699/
+ \nOfficial notice: https://www.find-tender.service.gov.uk/Notice/096570-2
+ 026\nSource: Find a Tender and Contracts Finder (UK government)\, retriev
+ ed 2026-10-21. Contains public sector information licensed under the Open
+  Government Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-078699/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078481@standstill.uk
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: Procurement of an HR and Payroll System
+DESCRIPTION:LOOK AHEAD CARE AND SUPPORT LIMITED | Max: £1\,500\,000\nDead
+ line: 2026-11-20 17:00 UTC\nDetails: https://standstill.uk/o/fts-078481/\
+ nOfficial notice: https://www.find-tender.service.gov.uk/Notice/095598-20
+ 26\nSource: Find a Tender and Contracts Finder (UK government)\, retrieve
+ d 2026-10-21. Contains public sector information licensed under the Open 
+ Government Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-078481/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-05cc67@standstill.uk
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: Sheffield City Council E-Bike Hire Scheme
+DESCRIPTION:Sheffield City Council | Max: £9\,000\,000\nDeadline: 2026-11
+ -20 17:00 UTC\nDetails: https://standstill.uk/o/fts-05cc67/\nOfficial not
+ ice: https://www.find-tender.service.gov.uk/Notice/084951-2026\nSource: F
+ ind a Tender and Contracts Finder (UK government)\, retrieved 2026-10-21.
+  Contains public sector information licensed under the Open Government Li
+ cence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-05cc67/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
