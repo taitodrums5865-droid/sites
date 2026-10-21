@@ -11,23 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-09f6d50b904c42ba932f5e77706ebd1d@setasidebrief.com
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Closes: 6505--Sodium Bicarbonate Injection Vial Restricted to Made
-  in America
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-21 14:30 U
- TC-05:00\nDetails: https://setasidebrief.com/o/09f6d50b904c42ba932f5e7770
- 6ebd1d/\nOfficial notice: https://sam.gov/opp/09f6d50b904c42ba932f5e77706
- ebd1d/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-22. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/09f6d50b904c42ba932f5e77706ebd1d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-87350ea39c8e4ae59933ad376b934b4f@setasidebrief.com
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
