@@ -24,6 +24,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [Dynamic Purchasing System: 6 SME Steps for 2026](https://standstill.uk/dynamic-purchasing-system-6-sme-steps-for-2026/): Dynamic purchasing system rules changed: how UK SMEs join a dynamic market or legacy DPS, stay a member and bid, with 2026 thresholds and 2029 cut-off.
+- [Find a Tender Registration: 5 Steps for UK Suppliers 2026](https://standstill.uk/find-a-tender-registration-5-steps-for-uk-suppliers-2026/): Find a Tender registration for UK suppliers in 5 steps: GOV.UK One Login, organisation details, PPON, and how it differs from a Companies House number.
 - [Contracts Finder vs Find a Tender: 2026 Table and Steps](https://standstill.uk/contracts-finder-vs-find-a-tender-2026-table-and-steps/): Contracts Finder vs Find a Tender in 2026: which UK site lists which contracts, the £12,000/£30,000 and £135,018 thresholds, and how SMEs register and search.
 - [How to Win Government Contracts UK: 7 Steps for SMEs (2026)](https://standstill.uk/how-to-win-government-contracts-uk-7-steps-for-smes-2026/): How to win government contracts in the UK without paid tools: 7 steps using Find a Tender, CPV codes and Contracts Finder, with 2026 thresholds for SMEs.
 - [Framework Agreement How to Get On: 6 SME Steps (2026)](https://standstill.uk/framework-agreement-how-to-get-on-6-sme-steps-2026/): Framework agreement how to get on: 6 steps from Find a Tender registration to call-off wins, plus how open frameworks and dynamic markets reopen for SMEs.
