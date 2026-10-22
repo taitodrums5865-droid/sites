@@ -21,6 +21,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [Grants for Nonprofits Without 501c3: 4 Paths Compared](https://outlaygrants.com/grants-for-nonprofits-without-501c3-4-paths-compared/): Grants for nonprofits without 501c3 status: compare fiscal sponsorship, government status, pending Form 1023 and partners, with IRS numbers and steps.
+- [Single Audit Threshold 2026: 3 Steps to Check Your Status](https://outlaygrants.com/single-audit-threshold-2026-3-steps-to-check-your-status/): Single audit threshold 2026: $1,000,000 in federal awards expended. Use this 3-step check, Type A table and FAC deadline to see if you owe one.
 - [Grants.gov Workspace: Create and Submit in 5 Steps (2026)](https://outlaygrants.com/grants-gov-workspace-create-and-submit-in-5-steps-2026/): Grants.gov Workspace in 5 steps: create it from Apply Now, add participants, assign an AOR, run Check Application, Sign and Submit before the deadline.
 - [Indirect Cost Rate De Minimis: 15% Election in 4 Steps](https://outlaygrants.com/indirect-cost-rate-de-minimis-15-election-in-4-steps/): The indirect cost rate de minimis is now up to 15% of MTDC, not 10%. See who can elect it, how to calculate it, and how to document the election.
 - [UEI Number Lookup: Free SAM.gov Search in 3 Steps](https://outlaygrants.com/uei-number-lookup-free-sam-gov-search-in-3-steps/): UEI number lookup made simple: search any organization's UEI free on SAM.gov with no login, find your own UEI, and know when you need to sign in.
