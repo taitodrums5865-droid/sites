@@ -23,6 +23,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [CPV Codes UK: 5 Steps to Pick Codes and Set Alerts 2026](https://standstill.uk/cpv-codes-uk-5-steps-to-pick-codes-and-set-alerts-2026/): CPV codes UK guide for SMEs: how the 8-digit code works, how to shortlist 3-5 codes, and how to set email alerts on Find a Tender and Contracts Finder.
 - [Dynamic Purchasing System: 6 SME Steps for 2026](https://standstill.uk/dynamic-purchasing-system-6-sme-steps-for-2026/): Dynamic purchasing system rules changed: how UK SMEs join a dynamic market or legacy DPS, stay a member and bid, with 2026 thresholds and 2029 cut-off.
 - [Find a Tender Registration: 5 Steps for UK Suppliers 2026](https://standstill.uk/find-a-tender-registration-5-steps-for-uk-suppliers-2026/): Find a Tender registration for UK suppliers in 5 steps: GOV.UK One Login, organisation details, PPON, and how it differs from a Companies House number.
 - [Contracts Finder vs Find a Tender: 2026 Table and Steps](https://standstill.uk/contracts-finder-vs-find-a-tender-2026-table-and-steps/): Contracts Finder vs Find a Tender in 2026: which UK site lists which contracts, the £12,000/£30,000 and £135,018 thresholds, and how SMEs register and search.
