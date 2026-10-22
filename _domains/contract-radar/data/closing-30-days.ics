@@ -11,51 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-1d837a180197436a8c9f6a5a5186613a@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: 49--TEST SET SUBASSEMBL\, IN REPAIR/MODIFICATION OF
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-22 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/1d837a180197436a8c9f6a5a5186613a/\nOfficia
- l notice: https://sam.gov/opp/1d837a180197436a8c9f6a5a5186613a/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-23. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/1d837a180197436a8c9f6a5a5186613a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-a91c6b2429d548f7b269713b614e1e30@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: 61--CABLE ASSEMBLY\,SPEC
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-22 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/a91c6b2429d548f7b269713b614e1e30/\nOfficia
- l notice: https://sam.gov/opp/a91c6b2429d548f7b269713b614e1e30/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-23. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/a91c6b2429d548f7b269713b614e1e30/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-e7ef277f88b645a7bddf228ef2a4302a@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: O-RING
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-22 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/e7ef277f88b645a7bddf228ef2a4302a/\nOfficia
- l notice: https://sam.gov/opp/e7ef277f88b645a7bddf228ef2a4302a/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-23. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/e7ef277f88b645a7bddf228ef2a4302a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-65cc17fc8a744d57998d0623cfe84a85@setasidebrief.com
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
