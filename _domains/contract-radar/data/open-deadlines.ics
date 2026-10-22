@@ -11,57 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-849c9aafb00f4e91a522e63dbb0bb04b@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: Brand Name NI � Various PXI/PXIe Test and Measurement Mo
- dules
-DESCRIPTION:FEDERAL ACQUISITION SERVICE\nDeadline: 2026-10-22 18:00 UTC-04
- :00\nDetails: https://setasidebrief.com/o/849c9aafb00f4e91a522e63dbb0bb04
- b/\nOfficial notice: https://sam.gov/opp/849c9aafb00f4e91a522e63dbb0bb04b
- /view\nSource: SAM.gov Contract Opportunities (U.S. General Services Admi
- nistration)\, retrieved 2026-10-23. U.S. government work\; public domain 
- in the United States (17 U.S.C. 105). Unofficial\; always check the offic
- ial notice.
-URL:https://setasidebrief.com/o/849c9aafb00f4e91a522e63dbb0bb04b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-7c6f792cf82448c8afbb5e6d979c6514@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: J066--Notice of Intent to Sole Source Agilent Mass Spectro
- metry Maintenance
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-22 16:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/7c6f792cf82448c8afbb5e6d97
- 9c6514/\nOfficial notice: https://sam.gov/opp/7c6f792cf82448c8afbb5e6d979
- c6514/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-23. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/7c6f792cf82448c8afbb5e6d979c6514/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-16a994df8abc43f6a0cb038a8b37008f@setasidebrief.com
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Closes: J066--Notice of Intent to Sole Source Agilent Mass Spectro
- metry Maintenance
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-22 16:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/16a994df8abc43f6a0cb038a8b
- 37008f/\nOfficial notice: https://sam.gov/opp/16a994df8abc43f6a0cb038a8b3
- 7008f/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-23. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/16a994df8abc43f6a0cb038a8b37008f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-b17e9e4b171c412a9b3cffc3e29a9e30@setasidebrief.com
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022

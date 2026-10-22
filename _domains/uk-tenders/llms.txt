@@ -13,7 +13,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - [UK Tenders by CPV Category](https://standstill.uk/cpv/): Open UK public sector tenders grouped by CPV category: construction work, IT services, health and social work, cleaning, transport and more.
 - [UK Public Sector Buyers with Open Tenders](https://standstill.uk/buyer/): UK public sector buyers with the most open tenders: councils, NHS trusts, universities, housing associations and central government.
 - [UK Tenders by Contract Value](https://standstill.uk/value/): Open UK public sector tenders grouped by estimated contract value, from under £25,000 to over £10 million.
-- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 23, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,661 open tenders. 377 close within 7 days and 375 wer
+- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 23, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,661 open tenders. 378 close within 7 days and 375 wer
 - [Free downloads: deadline calendar, CSV and embed](https://standstill.uk/data/): Free downloads of open UK public sector tenders deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site. Sou
 
 ## About the data
@@ -24,6 +24,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [CPV Codes UK: 5 Steps to Pick Codes and Set Alerts 2026](https://standstill.uk/cpv-codes-uk-5-steps-to-pick-codes-and-set-alerts-2026/): CPV codes UK guide for SMEs: how the 8-digit code works, how to shortlist 3-5 codes, and how to set email alerts on Find a Tender and Contracts Finder.
+- [Most Advantageous Tender: 5 Steps and a Scoring Example](https://standstill.uk/most-advantageous-tender-5-steps-and-a-scoring-example/): Most advantageous tender (MAT) explained for UK SMEs: how it differs from MEAT under the Procurement Act 2023, a worked scoring example and 5 bid steps.
 - [Dynamic Purchasing System: 6 SME Steps for 2026](https://standstill.uk/dynamic-purchasing-system-6-sme-steps-for-2026/): Dynamic purchasing system rules changed: how UK SMEs join a dynamic market or legacy DPS, stay a member and bid, with 2026 thresholds and 2029 cut-off.
 - [Find a Tender Registration: 5 Steps for UK Suppliers 2026](https://standstill.uk/find-a-tender-registration-5-steps-for-uk-suppliers-2026/): Find a Tender registration for UK suppliers in 5 steps: GOV.UK One Login, organisation details, PPON, and how it differs from a Companies House number.
 - [Contracts Finder vs Find a Tender: 2026 Table and Steps](https://standstill.uk/contracts-finder-vs-find-a-tender-2026-table-and-steps/): Contracts Finder vs Find a Tender in 2026: which UK site lists which contracts, the £12,000/£30,000 and £135,018 thresholds, and how SMEs register and search.
