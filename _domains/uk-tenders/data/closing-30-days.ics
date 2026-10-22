@@ -22251,4 +22251,19 @@ DESCRIPTION:Fleet Town Council | Max: £10\,000\,000\nDeadline: 2026-11-21
 URL:https://standstill.uk/o/fts-078bec/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078d66@standstill.uk
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Closes: Port of Dover - IT Professional Resource Framework
+DESCRIPTION:Dover Harbour Board | Max: £3\,000\,000\nDeadline: 2026-11-21
+  17:00 UTC\nDetails: https://standstill.uk/o/fts-078d66/\nOfficial notice
+ : https://www.find-tender.service.gov.uk/Notice/099744-2026\nSource: Find
+  a Tender and Contracts Finder (UK government)\, retrieved 2026-10-23. Co
+ ntains public sector information licensed under the Open Government Licen
+ ce v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-078d66/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
