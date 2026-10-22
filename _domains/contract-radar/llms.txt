@@ -21,6 +21,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [RFQ vs RFP: 5 FAR Clues and What to Submit (2026)](https://setasidebrief.com/rfq-vs-rfp-5-far-clues-and-what-to-submit-2026/): RFQ vs RFP in federal contracting: the FAR clauses, thresholds and solicitation wording that show which one you're reading, and exactly what to submit.
 - [SBA Size Standards by NAICS: 2026 Table, Steps & Appeals](https://setasidebrief.com/sba-size-standards-by-naics-2026-table-steps-appeals/): SBA size standards by NAICS code: current caps for 20+ codes, how to pick a code when you span industries, and how it decides set-aside eligibility.
 - [SAM.gov Registration Guide: 7 Steps From UEI to Active](https://setasidebrief.com/sam-gov-registration-guide-7-steps-from-uei-to-active/): A SAM.gov registration guide for first-time small business bidders: UEI, entity validation, notarized letter rules, the free process and when to renew.
 - [SDVOSB Set Aside Requirements: 2026 Eligibility Checklist](https://setasidebrief.com/sdvosb-set-aside-requirements-2026-eligibility-checklist/): SDVOSB set aside requirements for 2026: the 51% unconditional ownership test, control rules, VetCert certification, and how VA and FAR set-asides differ.
