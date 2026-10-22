@@ -5,12 +5,12 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Data pages (rebuilt daily)
-- [Federal Grants Closing Soon (Oct 2026): Deadlines Coming Up](https://outlaygrants.com/closing-soon/): Federal Grants Closing Soon: 200 open; 200 close within 30 days (soonest Oct 24, 2026). Median max award $900,000. Free, updated daily from Grants.gov.
-- [Federal Grants Open Now (Oct 2026): All Opportunities by Deadline](https://outlaygrants.com/open-now/): Federal Grants Open Now: 1,456 open; 203 close within 30 days (soonest Oct 24, 2026). Median max award $750,000. Free, updated daily from Grants.gov.
-- [Federal Grants Over $1 Million: Open Now (Oct 2026)](https://outlaygrants.com/over-1-million/): Federal Grants Over $1 Million: 291 open; 68 close within 30 days (soonest Oct 26, 2026). Median max award $3,500,000. Free, updated daily from Grants.gov.
-- [Federal Grants by Agency](https://outlaygrants.com/agency/): Open U.S. federal grants grouped by the agency that offers them (74 agencies with 2+ open grants), with counts. Updated daily from Grants.gov.
+- [Federal Grants Closing Soon (Oct 2026): Deadlines Coming Up](https://outlaygrants.com/closing-soon/): Federal Grants Closing Soon: 200 open; 200 close within 30 days (soonest Oct 24, 2026). Median max award $875,000. Free, updated daily from Grants.gov.
+- [Federal Grants Open Now (Oct 2026): All Opportunities by Deadline](https://outlaygrants.com/open-now/): Federal Grants Open Now: 1,458 open; 204 close within 30 days (soonest Oct 24, 2026). Median max award $750,000. Free, updated daily from Grants.gov.
+- [Federal Grants Over $1 Million: Open Now (Oct 2026)](https://outlaygrants.com/over-1-million/): Federal Grants Over $1 Million: 292 open; 68 close within 30 days (soonest Oct 26, 2026). Median max award $3,475,000. Free, updated daily from Grants.gov.
+- [Federal Grants by Agency](https://outlaygrants.com/agency/): Open U.S. federal grants grouped by the agency that offers them (75 agencies with 2+ open grants), with counts. Updated daily from Grants.gov.
 - [Federal Grants by Category](https://outlaygrants.com/category/): Open U.S. federal grants grouped by funding category (23 categories), with the number of open opportunities in each. Updated daily from Grants.gov.
-- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Oct 23, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,466 open grants. 18 close within 7 days and 41 were posted in the l
+- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Oct 23, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,468 open grants. 18 close within 7 days and 43 were posted in the l
 - [Free downloads: deadline calendar, CSV and embed](https://outlaygrants.com/data/): Free downloads of open federal grant opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site.
 
 ## About the data
@@ -20,6 +20,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [Grants for Nonprofits Without 501c3: 4 Paths Compared](https://outlaygrants.com/grants-for-nonprofits-without-501c3-4-paths-compared/): Grants for nonprofits without 501c3 status: compare fiscal sponsorship, government status, pending Form 1023 and partners, with IRS numbers and steps.
 - [Grants.gov Workspace: Create and Submit in 5 Steps (2026)](https://outlaygrants.com/grants-gov-workspace-create-and-submit-in-5-steps-2026/): Grants.gov Workspace in 5 steps: create it from Apply Now, add participants, assign an AOR, run Check Application, Sign and Submit before the deadline.
 - [Indirect Cost Rate De Minimis: 15% Election in 4 Steps](https://outlaygrants.com/indirect-cost-rate-de-minimis-15-election-in-4-steps/): The indirect cost rate de minimis is now up to 15% of MTDC, not 10%. See who can elect it, how to calculate it, and how to document the election.
 - [UEI Number Lookup: Free SAM.gov Search in 3 Steps](https://outlaygrants.com/uei-number-lookup-free-sam-gov-search-in-3-steps/): UEI number lookup made simple: search any organization's UEI free on SAM.gov with no login, find your own UEI, and know when you need to sign in.

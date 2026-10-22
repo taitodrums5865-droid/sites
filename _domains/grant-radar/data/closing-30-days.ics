@@ -2680,6 +2680,22 @@ URL:https://outlaygrants.com/g/364067/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grant-radar-364143@outlaygrants.com
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Closes: OVC and OVW FY 2026 Victim Services for Angel Families Pro
+ gram – Invited Notice of Funding Opportunity
+DESCRIPTION:Office for Victims of Crime | Max: $500\,000\nDeadline: 2026-1
+ 1-16 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364143/\nOffici
+ al notice: https://www.grants.gov/search-results-detail/364143\nSource: G
+ rants.gov (U.S. federal government)\, retrieved 2026-10-23. U.S. governme
+ nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
+ ; always check the official notice.
+URL:https://outlaygrants.com/g/364143/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grant-radar-357305@outlaygrants.com
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261117
