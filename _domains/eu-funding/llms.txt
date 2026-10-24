@@ -20,6 +20,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [EU Funding and Tenders Portal Helpdesk: Ticket in 5 Steps](https://callwindowgrants.com/eu-funding-and-tenders-portal-helpdesk-ticket-in-5-steps/): How to use the EU Funding and Tenders Portal helpdesk: open an IT ticket in 5 steps, what to include, response times, and when to call your NCP instead.
 - [EIC Pathfinder 2026: Deadlines, 3 Challenges & 7 Steps](https://callwindowgrants.com/eic-pathfinder-2026-deadlines-3-challenges-7-steps/): EIC Pathfinder 2026 explained. Open closed 12 May, Challenges close 28 October 2026, with a €262M budget, 3 topics, page limits and steps to submit.
 - [EU Funding and Tenders Portal My Proposals: Status Table](https://callwindowgrants.com/eu-funding-and-tenders-portal-my-proposals-status-table/): What each status in EU Funding and Tenders Portal My Proposals means, where to find your ESR and result letters, and what to do next, with menu paths.
 - [EU Funding and Tenders Portal Two Factor Authentication 2026](https://callwindowgrants.com/eu-funding-and-tenders-portal-two-factor-authentication-2026/): EU Funding and Tenders Portal two factor authentication setup: EU Login app, passkey and security key in 5 steps, plus lost-phone recovery and fixes for 2026.
