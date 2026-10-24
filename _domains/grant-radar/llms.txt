@@ -5,18 +5,18 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Data pages (rebuilt daily)
-- [Federal Grants Closing Soon (Oct 2026): Deadlines Coming Up](https://outlaygrants.com/closing-soon/): Federal Grants Closing Soon: 200 open; 200 close within 30 days (soonest Oct 24, 2026). Median max award $875,000. Free, updated daily from Grants.gov.
-- [Federal Grants Open Now (Oct 2026): All Opportunities by Deadline](https://outlaygrants.com/open-now/): Federal Grants Open Now: 1,458 open; 204 close within 30 days (soonest Oct 24, 2026). Median max award $750,000. Free, updated daily from Grants.gov.
+- [Federal Grants Closing Soon (Oct 2026): Deadlines Coming Up](https://outlaygrants.com/closing-soon/): Federal Grants Closing Soon: 200 open; 200 close within 30 days (soonest Oct 26, 2026). Median max award $900,000. Free, updated daily from Grants.gov.
+- [Federal Grants Open Now (Oct 2026): All Opportunities by Deadline](https://outlaygrants.com/open-now/): Federal Grants Open Now: 1,457 open; 205 close within 30 days (soonest Oct 26, 2026). Median max award $750,000. Free, updated daily from Grants.gov.
 - [Federal Grants Over $1 Million: Open Now (Oct 2026)](https://outlaygrants.com/over-1-million/): Federal Grants Over $1 Million: 292 open; 68 close within 30 days (soonest Oct 26, 2026). Median max award $3,475,000. Free, updated daily from Grants.gov.
 - [Federal Grants by Agency](https://outlaygrants.com/agency/): Open U.S. federal grants grouped by the agency that offers them (75 agencies with 2+ open grants), with counts. Updated daily from Grants.gov.
 - [Federal Grants by Category](https://outlaygrants.com/category/): Open U.S. federal grants grouped by funding category (23 categories), with the number of open opportunities in each. Updated daily from Grants.gov.
-- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Oct 23, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,468 open grants. 18 close within 7 days and 43 were posted in the l
+- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Oct 25, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,458 open grants. 35 close within 7 days and 35 were posted in the l
 - [Free downloads: deadline calendar, CSV and embed](https://outlaygrants.com/data/): Free downloads of open federal grant opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site.
 
 ## About the data
 - Source: [Grants.gov (U.S. federal government)](https://www.grants.gov/)
 - Licence: U.S. government work; public domain in the United States (17 U.S.C. 105)
-- Last data refresh: 2026-10-23
+- Last data refresh: 2026-10-25
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides

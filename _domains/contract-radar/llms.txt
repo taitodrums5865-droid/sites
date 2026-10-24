@@ -6,21 +6,22 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Data pages (rebuilt daily)
 - [How to Bid on Federal Contracts: 6 Steps for Small Businesses](https://setasidebrief.com/how-to-bid/): How small businesses bid on federal contracts: free SAM.gov registration, NAICS codes, size standards, set-asides and responding to notices.
-- [Federal Contracts Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://setasidebrief.com/closing-soon/): Federal Contracts Closing Soon: 1,493 open; all due within 14 days (soonest Oct 22). Top buyer: Defense Logistics Agency (648). Updated daily from SAM.gov.
+- [Federal Contracts Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://setasidebrief.com/closing-soon/): Federal Contracts Closing Soon: 1,456 open; all due within 14 days (soonest Oct 24). Top buyer: Defense Logistics Agency (534). Updated daily from SAM.gov.
 - [Small Business Set-Aside Contracts by Program](https://setasidebrief.com/set-aside/): Open federal contracts reserved for small businesses: total small business, 8(a), WOSB/EDWOSB, SDVOSB, HUBZone and VA veteran-owned set-asides.
 - [Federal Contracts by NAICS Sector](https://setasidebrief.com/naics/): Open federal contract opportunities grouped by NAICS industry sector: construction, manufacturing, professional services, facilities support and more.
 - [Federal Contracts by State](https://setasidebrief.com/state/): Open federal contract opportunities by place of performance: every U.S. state, D.C. and territories, sorted by deadline.
 - [Federal Contract Opportunities by Agency](https://setasidebrief.com/agency/): Open federal contract opportunities grouped by buying department and agency, such as Defense, Veterans Affairs, Agriculture and GSA.
-- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 23, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 2,964 open opportunities. 1,191 clos
+- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 25, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 3,000 open opportunities. 1,322 clos
 - [Free downloads: deadline calendar, CSV and embed](https://setasidebrief.com/data/): Free downloads of open federal small-business set-aside contract opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next
 
 ## About the data
 - Source: [SAM.gov Contract Opportunities (U.S. General Services Administration)](https://sam.gov/)
 - Licence: U.S. government work; public domain in the United States (17 U.S.C. 105)
-- Last data refresh: 2026-10-23
+- Last data refresh: 2026-10-25
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [How to Bid on Government Contracts: 7 Steps, 2026 Costs](https://setasidebrief.com/how-to-bid-on-government-contracts-7-steps-2026-costs/): How to bid on government contracts in 2026: register free in SAM.gov, find set-asides, and submit a compliant bid, with state portal fees and official links.
 - [RFQ vs RFP: 5 FAR Clues and What to Submit (2026)](https://setasidebrief.com/rfq-vs-rfp-5-far-clues-and-what-to-submit-2026/): RFQ vs RFP in federal contracting: the FAR clauses, thresholds and solicitation wording that show which one you're reading, and exactly what to submit.
 - [SBA Size Standards by NAICS: 2026 Table, Steps & Appeals](https://setasidebrief.com/sba-size-standards-by-naics-2026-table-steps-appeals/): SBA size standards by NAICS code: current caps for 20+ codes, how to pick a code when you span industries, and how it decides set-aside eligibility.
 - [SAM.gov Registration Guide: 7 Steps From UEI to Active](https://setasidebrief.com/sam-gov-registration-guide-7-steps-from-uei-to-active/): A SAM.gov registration guide for first-time small business bidders: UEI, entity validation, notarized letter rules, the free process and when to renew.
