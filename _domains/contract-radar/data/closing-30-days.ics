@@ -11,22 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-d4884d2689b24ecc966a003fbe041b7d@setasidebrief.com
-DTSTAMP:20261024T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Closes: Notice of Intent to renew Lease # LNC60404
-DESCRIPTION:PUBLIC BUILDINGS SERVICE\nDeadline: 2026-10-24 17:00 UTC-04:00
- \nDetails: https://setasidebrief.com/o/d4884d2689b24ecc966a003fbe041b7d/\
- nOfficial notice: https://sam.gov/opp/d4884d2689b24ecc966a003fbe041b7d/vi
- ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
- tration)\, retrieved 2026-10-25. U.S. government work\; public domain in 
- the United States (17 U.S.C. 105). Unofficial\; always check the official
-  notice.
-URL:https://setasidebrief.com/o/d4884d2689b24ecc966a003fbe041b7d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-6849d182e4f14dc7814e6abebbb7e18a@setasidebrief.com
 DTSTAMP:20261024T000000Z
 DTSTART;VALUE=DATE:20261024
@@ -39137,6 +39121,21 @@ DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
  \, retrieved 2026-10-25. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/fa6caccedd494afc8ef5e07230fdaaac/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-8581e290317c452c8d4456a25d512180@setasidebrief.com
+DTSTAMP:20261024T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Closes: Coos Bay Pier Utilities
+DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-11-23 13:00 UTC-08:00\nDetail
+ s: https://setasidebrief.com/o/8581e290317c452c8d4456a25d512180/\nOfficia
+ l notice: https://sam.gov/opp/8581e290317c452c8d4456a25d512180/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-10-25. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/8581e290317c452c8d4456a25d512180/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
