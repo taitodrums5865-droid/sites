@@ -11,22 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-6849d182e4f14dc7814e6abebbb7e18a@setasidebrief.com
-DTSTAMP:20261024T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Closes: BPA Call Order Exceeding $20\,000 Synopsis Requisition 117
- 4637
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-10-24 17:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/6849d182e4f14dc7814e6abebbb7e18a/\nOfficial 
- notice: https://sam.gov/opp/6849d182e4f14dc7814e6abebbb7e18a/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-10-25. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/6849d182e4f14dc7814e6abebbb7e18a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-c4a4dbef83a746e7a1508d0d410edcd9@setasidebrief.com
 DTSTAMP:20261024T000000Z
 DTSTART;VALUE=DATE:20261025
