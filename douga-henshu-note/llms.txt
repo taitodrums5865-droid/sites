@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [DaVinci Resolve無料版と有料版の違い|比較表で選ぶ](https://aobaworks.com/douga-henshu-note/davinci-resolve-free-vs-studio-differenc/): davinci resolve 無料版と有料版(Studio)の違いを公式情報で比較。書き出し上限のUHD 60fps、AIやノイズ除去などStudio限定の機能、透かしが出る条件、40,980円のセール期間、乗り換えが必要になる条件をまとめました。
 - [動画編集スクール比較|料金表と無料体験で聞くべき8つの質問](https://aobaworks.com/douga-henshu-note/video-editing-school-comparison/): 動画編集スクールを料金形態・オンラインと通学・給付金・案件紹介で比較。2026年10月時点の公式料金表と、無料体験で聞くべき8つの質問、契約後8日間のクーリング・オフまで初心者向けにまとめました。
 - [CapCut保存方法|スマホ・PCの画質設定とSNS別の早見表](https://aobaworks.com/douga-henshu-note/capcut-save-method-quality/): capcut 保存方法を、スマホ・iPhone・PCの書き出し手順で説明します。画質を落とさない解像度・フレームレート・ビットレートの選び方、無料版と有料版の違い、YouTube・TikTok・Instagram向けの設定も表にしました。
 - [動画編集ソフト買い切り比較【2026年】月額との損益分岐で選ぶ](https://aobaworks.com/douga-henshu-note/douga-henshu-soft-kaikiri-hikaku/): PowerDirector・Filmora・Final Cut Proなど買い切り型の動画編集ソフトを比較。月額(サブスク)と何年使えば総額が逆転するかの計算式と、OS別の選び方をまとめました。
