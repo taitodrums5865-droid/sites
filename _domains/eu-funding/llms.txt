@@ -20,6 +20,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [EU Funding and Tenders Portal Participant Register: 5 Steps](https://callwindowgrants.com/eu-funding-and-tenders-portal-participant-register-5-steps/): How the EU Funding and Tenders Portal Participant Register works: PIC vs register, the 6-step wizard, LEAR appointment, validation documents and role updates.
 - [EU Funding and Tenders Portal Helpdesk: Ticket in 5 Steps](https://callwindowgrants.com/eu-funding-and-tenders-portal-helpdesk-ticket-in-5-steps/): How to use the EU Funding and Tenders Portal helpdesk: open an IT ticket in 5 steps, what to include, response times, and when to call your NCP instead.
 - [Horizon Europe Health Calls 2027: 17 Topics, Dates, Budgets](https://callwindowgrants.com/horizon-europe-health-calls-2027-17-topics-dates-budgets/): Horizon Europe health calls 2027: all 17 Cluster 1 topics in one table with budgets, 17 Feb and 16 Sep 2027 deadlines, page limits and steps to apply.
 - [EIC Pathfinder Challenges 2026: Deadlines & 7 Steps](https://callwindowgrants.com/eic-pathfinder-2026-deadlines-3-challenges-7-steps/): EIC Pathfinder Challenges 2026: Open call closed 12 May; Challenges close 28 October, €262M budget across 3 topics, page limits and 7 steps to apply.
