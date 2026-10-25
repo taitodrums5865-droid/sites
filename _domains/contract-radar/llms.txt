@@ -11,7 +11,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - [Federal Contracts by NAICS Sector](https://setasidebrief.com/naics/): Open federal contract opportunities grouped by NAICS industry sector: construction, manufacturing, professional services, facilities support and more.
 - [Federal Contracts by State](https://setasidebrief.com/state/): Open federal contract opportunities by place of performance: every U.S. state, D.C. and territories, sorted by deadline.
 - [Federal Contract Opportunities by Agency](https://setasidebrief.com/agency/): Open federal contract opportunities grouped by buying department and agency, such as Defense, Veterans Affairs, Agriculture and GSA.
-- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 25, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 2,997 open opportunities. 1,324 clos
+- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 25, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 2,997 open opportunities. 1,326 clos
 - [Free downloads: deadline calendar, CSV and embed](https://setasidebrief.com/data/): Free downloads of open federal small-business set-aside contract opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next
 
 ## About the data
