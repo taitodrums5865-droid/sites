@@ -5,6 +5,7 @@
 Guides are researched from official sources, cite them, and are reviewed regularly.
 
 ## Guides
+- [Cheapest LLM API for Coding (2026): Cost-per-Task Table](https://aobaworks.com/per-million/cheapest-llm-api-for-coding-2026-cost-per-task-table/): Cheapest LLM API for coding in 2026, ranked by real cost per coding task with caching: 7 models, two worked examples, free tiers and EU options.
 - [LLM Cost Calculator Python: Build One in 5 Steps (2026)](https://aobaworks.com/per-million/llm-cost-calculator-python-build-one-in-5-steps-2026/): Build an LLM cost calculator in Python with October 2026 OpenAI, Claude and Gemini prices, token counting, per-call cost and a monthly spend tracker.
 - [Prompt Caching Cost 2026: Discount Table + Savings Formula](https://aobaworks.com/per-million/prompt-caching-cost-2026-discount-table-savings-formula/): Prompt caching cost compared for OpenAI, Claude, Gemini and Bedrock: cache read/write rates, break-even hit rates and a dollar savings formula.
 - [Gemini API Pricing Free Tier 2026: Limits and Cost Math](https://aobaworks.com/per-million/gemini-api-pricing-free-tier-2026-limits-and-cost-math/): Gemini API pricing free tier explained: which models are free, how RPM/TPM/RPD caps work, and the cost math for when your usage moves into paid billing.
