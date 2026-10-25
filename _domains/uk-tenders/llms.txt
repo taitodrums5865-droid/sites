@@ -13,7 +13,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - [UK Tenders by CPV Category](https://standstill.uk/cpv/): Open UK public sector tenders grouped by CPV category: construction work, IT services, health and social work, cleaning, transport and more.
 - [UK Public Sector Buyers with Open Tenders](https://standstill.uk/buyer/): UK public sector buyers with the most open tenders: councils, NHS trusts, universities, housing associations and central government.
 - [UK Tenders by Contract Value](https://standstill.uk/value/): Open UK public sector tenders grouped by estimated contract value, from under £25,000 to over £10 million.
-- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 25, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,646 open tenders. 365 close within 7 days and 385 wer
+- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Oct 25, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,646 open tenders. 367 close within 7 days and 382 wer
 - [Free downloads: deadline calendar, CSV and embed](https://standstill.uk/data/): Free downloads of open UK public sector tenders deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site. Sou
 
 ## About the data
