@@ -24,6 +24,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [Competitive Flexible Procedure: 6 SME Steps (2026)](https://standstill.uk/competitive-flexible-procedure-6-sme-steps-2026/): How the competitive flexible procedure works under the Procurement Act 2023: stages, minimum timescales, supplier limits and a 6-step SME bid checklist.
+- [Tender Writing Examples: 5 UK SME Answer Templates 2026](https://standstill.uk/tender-writing-examples-5-uk-sme-answer-templates-2026/): Tender writing examples for UK SMEs: 5 annotated quality, price and social value answers mapped to scoring criteria, with steps, costs and common mistakes.
 - [Cyber Essentials Public Sector Tender: 5 Steps and Costs](https://standstill.uk/cyber-essentials-public-sector-tender-5-steps-and-costs/): Cyber Essentials for a public sector tender: which contracts need it under PPN 014, costs from £320 + VAT, timelines, and how to evidence it in your SQ.
 - [Procurement Act 2023 Thresholds: 2026 Table and 5 SME Steps](https://standstill.uk/procurement-act-2023-thresholds-2026-table-and-5-sme-steps/): Procurement Act 2023 thresholds from 1 January 2026 in one table, plus a 5-step SME checklist to see which notices, timescales and rules apply.
 - [CPV Codes UK: 5 Steps to Pick Codes and Set Alerts 2026](https://standstill.uk/cpv-codes-uk-5-steps-to-pick-codes-and-set-alerts-2026/): CPV codes UK guide for SMEs: how the 8-digit code works, how to shortlist 3-5 codes, and how to set email alerts on Find a Tender and Contracts Finder.
