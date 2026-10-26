@@ -1,0 +1,324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aobaworks.com//補助金・助成金検索//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:締め切りが近い人材育成の補助金・助成金(補
+ 助金・助成金検索)
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a0W5h00000UcDDXEA3@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:締め切り: 東京都広域団体認定訓練助成金
+DESCRIPTION:締め切り 2026年10月30日 23:59\n地域 東京都\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0W5h00000UcDDXEA3/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0W5h00000UcDDXEA3/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003aUAjUAM@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:締め切り: 東京都若者世代職場定着促進助成金（
+ 令和８年度第６回申請受付）
+DESCRIPTION:締め切り 2026年10月31日 17:15\n地域 東京都\n上限
+ 額 126万円\nhttps://aobaworks.com/hojokin/s/a0WfQ000003aUAjUAM/\n出典
+ :Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003aUAjUAM/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003aZqLUAU@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:締め切り: 成田空港の次代を担う若者の奨学金返
+ 還支援事業補助金
+DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 全国\n上限額 
+ 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
+ WfQ000003aZqLUAU/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
+ の情報を補助金・助成金検索が編集・加工。申請の前
+ に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003aZqLUAU/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXvUMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:締め切り: 令和８年度東京都医療ＤＸ人材育成支
+ 援事業
+DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 東京都\n上限
+ 額 50万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDXvUMAX/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXvUMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDX1KMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:締め切り: 中小企業人材確保のための奨学金返還
+ 支援事業【令和８年度企業登録】
+DESCRIPTION:締め切り 2026年12月17日 17:00\n地域 東京都\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WJ200000CDX1KMAX/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDX1KMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDYC7MAP@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:締め切り: 【令和８年度】ＰＣＢ汚染変圧器高効
+ 率化補助金
+DESCRIPTION:締め切り 2026年12月18日 15:00\n地域 全国\n上限額 
+ 100万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDYC7MAP/\n出典:J
+ グランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・助
+ 成金検索が編集・加工。申請の前に公式ページで確か
+ めてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYC7MAP/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDddbMAD@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:締め切り: 【福岡県宗像市】令和8年度 宗像市がん
+ ばる中小企業者応援補助金
+DESCRIPTION:締め切り 2026年12月25日 11:00\n地域 福岡県\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WJ200000CDddbMAD/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDddbMAD/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDdfpMAD@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:締め切り: 令和８年度　観光産業の活性化促進事
+ 業補助金
+DESCRIPTION:締め切り 2026年12月25日 23:59\n地域 東京都\n上限
+ 額 2\,500万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDdfpMAD/\n出
+ 典:Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金
+ ・助成金検索が編集・加工。申請の前に公式ページで
+ 確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdfpMAD/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDK7NMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:締め切り: 中小企業の外国人従業員に対する研修
+ 等支援助成金（一般コース）
+DESCRIPTION:締め切り 2027年1月14日 23:59\n地域 東京都\n上限
+ 額 25万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDK7NMAX/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDK7NMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDK7OMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:締め切り: 中小企業の外国人従業員に対する研修
+ 等支援助成金（ウクライナ避難民採用企業コース）
+DESCRIPTION:締め切り 2027年1月14日 23:59\n地域 東京都\n上限
+ 額 50万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDK7OMAX/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDK7OMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDe4iMAD@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:締め切り: 令和8年度 中小企業の外国人従業員に対
+ する研修等支援助成金（一般コース）
+DESCRIPTION:締め切り 2027年1月14日 23:59\n地域 東京都\n上限
+ 額 25万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDe4iMAD/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDe4iMAD/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXRpMAP@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:締め切り: 令和７年度（補正）　商用車等の電動
+ 化促進事業（建設機械）
+DESCRIPTION:締め切り 2027年1月29日 17:00\n地域 全国\n上限額 1
+ 43\,100万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDXRpMAP/\n出典
+ :Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXRpMAP/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDY1VMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:締め切り: 【長野県茅野市】製造業等労務環境改
+ 善・競争力強化促進補助金
+DESCRIPTION:締め切り 2027年2月28日 23:59\n地域 長野県\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WJ200000CDY1VMAX/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY1VMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDYnpMAH@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:締め切り: 令和8年度 バス事業者人材開発支援奨励
+ 金
+DESCRIPTION:締め切り 2027年2月28日 23:59\n地域 東京都\n上限
+ 額 190万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDYnpMAH/\n出典
+ :Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYnpMAH/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXEmMAP@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:締め切り: 令和８年度スキルアップ支援事業
+DESCRIPTION:締め切り 2027年3月1日 00:00\n地域 東京都\n上限額
+  250万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDXEmMAP/\n出典:J
+ グランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・助
+ 成金検索が編集・加工。申請の前に公式ページで確か
+ めてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXEmMAP/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXMiMAP@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:締め切り: 令和８年度資格取得サポート助成金
+DESCRIPTION:締め切り 2027年3月1日 00:00\n地域 東京都\n上限額
+  100万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDXMiMAP/\n出典:J
+ グランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・助
+ 成金検索が編集・加工。申請の前に公式ページで確か
+ めてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXMiMAP/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXENMA5@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:締め切り: 民放ラジオ難聴解消支援事業（令和８
+ 年度公募）
+DESCRIPTION:締め切り 2027年3月31日 12:00\n地域 全国\n上限額 
+ 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
+ WJ200000CDXENMA5/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
+ の情報を補助金・助成金検索が編集・加工。申請の前
+ に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXENMA5/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDY1uMAH@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:締め切り: 【長野県茅野市】インターンシップ等
+ 促進事業補助金
+DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 長野県\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WJ200000CDY1uMAH/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY1uMAH/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDOsKMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:締め切り: 携帯電話等エリア整備事業
+DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額 
+ 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
+ WJ200000CDOsKMAX/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
+ の情報を補助金・助成金検索が編集・加工。申請の前
+ に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDOsKMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDY2OMAX@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:締め切り: 令和8年度職場内障害者サポーター事業
+DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 東京都\n上限
+ 額 24万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDY2OMAX/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY2OMAX/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0W2x000003QZLqEAO@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:締め切り: 電波遮へい対策事業（トンネル）
+DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額 
+ 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
+ W2x000003QZLqEAO/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
+ の情報を補助金・助成金検索が編集・加工。申請の前
+ に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0W2x000003QZLqEAO/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003n4bqUAA@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:締め切り: 令和８年度臨床研修費等補助金（歯科
+ 医師）
+DESCRIPTION:締め切り 2027年7月31日 23:59\n地域 東京都\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WfQ000003n4bqUAA/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003n4bqUAA/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0W5h00000UbQnXEAV@aobaworks.com
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+SUMMARY:締め切り: 東京都中小企業障害者雇用支援助成金
+DESCRIPTION:締め切り 2029年3月31日 23:59\n地域 東京都\n上限
+ 額 198万円\nhttps://aobaworks.com/hojokin/s/a0W5h00000UbQnXEAV/\n出典
+ :Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0W5h00000UbQnXEAV/
+END:VEVENT
+END:VCALENDAR
