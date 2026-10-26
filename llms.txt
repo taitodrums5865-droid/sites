@@ -1,16 +1,6 @@
-# aobaworks
+# Aoba Works
 
-> 仕事・AI・補助金・入札などを、公式の情報をもとにまとめた独立のサイト群です。
+> 公式の情報と公開データをもとに、調べものに役立つウェブサイトを運営しています。
 
-## Sites
-- [AIツール比較](https://shigoto.aobaworks.com/llms.txt)
-- [Unattended](https://en.aobaworks.com/llms.txt)
-- [画像生成AI比較](https://gazou.aobaworks.com/llms.txt)
-- [Set-Aside Brief](https://setasidebrief.com/llms.txt)
-- [動画編集ソフト比較](https://aobaworks.com/douga-henshu-note/llms.txt)
-- [Call Window EU Grants](https://callwindowgrants.com/llms.txt)
-- [Outlay Grants](https://outlaygrants.com/llms.txt)
-- [補助金・助成金検索](https://aobaworks.com/hojokin/llms.txt)
-- [入札情報検索](https://aobaworks.com/nyusatsu/llms.txt)
-- [Per Million](https://aobaworks.com/per-million/llms.txt)
-- [Standstill UK Tenders](https://standstill.uk/llms.txt)
+- [運営者について](https://aobaworks.com/about/)
+- [プライバシーポリシー](https://aobaworks.com/privacy/)
