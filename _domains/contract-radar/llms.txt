@@ -7,12 +7,12 @@ Guides are researched from official sources, cite them, and are reviewed regular
 ## Data pages (rebuilt daily)
 - [How to Bid on Federal Contracts: 6 Steps for Small Businesses](https://setasidebrief.com/how-to-bid/): How small businesses bid on federal contracts: free SAM.gov registration, NAICS codes, size standards, set-asides and responding to notices.
 - [CMMC Levels and Requirements: Level 1, 2 and 3 Compared](https://setasidebrief.com/cmmc/): CMMC Level 1, 2 and 3 compared: FCI vs CUI, 15 vs 110 requirements, self vs C3PAO vs DIBCAC assessments, SPRS affirmations and phase-in dates.
-- [Federal Contracts Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://setasidebrief.com/closing-soon/): 1,467 open federal contract bids due within 14 days, soonest first (next deadline Oct 27). Free, no sign-up, updated daily from SAM.gov public data.
+- [Federal Contracts Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://setasidebrief.com/closing-soon/): 1,477 open federal contract bids due within 14 days, soonest first (next deadline Oct 27). Free, no sign-up, updated daily from SAM.gov public data.
 - [Small Business Set-Aside Contracts by Program](https://setasidebrief.com/set-aside/): Open federal contracts reserved for small businesses: total small business, 8(a), WOSB/EDWOSB, SDVOSB, HUBZone and VA veteran-owned set-asides.
 - [Federal Contracts by NAICS Sector](https://setasidebrief.com/naics/): Open federal contract opportunities grouped by NAICS industry sector: construction, manufacturing, professional services, facilities support and more.
 - [Federal Contracts by State](https://setasidebrief.com/state/): Open federal contract opportunities by place of performance: every U.S. state, D.C. and territories, sorted by deadline.
 - [Federal Contract Opportunities by Agency](https://setasidebrief.com/agency/): Open federal contract opportunities grouped by buying department and agency, such as Defense, Veterans Affairs, Agriculture and GSA.
-- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 28, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 2,986 open opportunities. 1,208 clos
+- [Weekly stats: federal small-business set-aside contract opportunities](https://setasidebrief.com/stats/): As of Oct 28, 2026, our daily copy of SAM.gov Contract Opportunities (U.S. General Services Administration) lists 2,994 open opportunities. 1,228 clos
 - [Free downloads: deadline calendar, CSV and embed](https://setasidebrief.com/data/): Free downloads of open federal small-business set-aside contract opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next
 
 ## About the data
@@ -22,6 +22,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [NAICS Code for Construction: 2026 Size Table and Steps](https://setasidebrief.com/naics-code-for-construction-2026-size-table-and-steps/): The NAICS code for construction depends on your trade. Compare 236, 237 and 238 codes, SBA size limits and steps to pick the code that keeps you eligible.
 - [HUBZone Map 2026: Address Check Steps and Expiry Dates](https://setasidebrief.com/hubzone-map-2026-address-check-steps-and-expiry-dates/): How to use the SBA HUBZone map in 2026: check an address, spot expired redesignated areas, read your result, and find HUBZone set-asides on SAM.gov.
 - [Small Business Set Aside 51 Rule: 2026 Pass/Fail Checklist](https://setasidebrief.com/small-business-set-aside-51-rule-2026-pass-fail-checklist/): The small business set aside 51 rule is really two rules: 51% ownership/control and the 50% limit on subcontracting. See both, plus a 2026 checklist.
 - [How to Bid on Government Contracts: 7 Steps, 2026 Costs](https://setasidebrief.com/how-to-bid-on-government-contracts-7-steps-2026-costs/): How to bid on government contracts in 2026: register free in SAM.gov, find set-asides, and submit a compliant bid, with state portal fees and official links.
