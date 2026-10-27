@@ -2005,22 +2005,6 @@ URL:https://outlaygrants.com/g/364076/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-364074@outlaygrants.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
- ian Cooperative Ecosystem Studies Unit
-DESCRIPTION:Geological Survey | Max: $35\,000\nDeadline: 2026-11-14 23:59 
- UTC-05:00\nDetails: https://outlaygrants.com/g/364074/\nOfficial notice: 
- https://www.grants.gov/search-results-detail/364074\nSource: Grants.gov (
- U.S. federal government)\, retrieved 2026-10-28. U.S. government work\; p
- ublic domain in the United States (17 U.S.C. 105). Unofficial\; always ch
- eck the official notice.
-URL:https://outlaygrants.com/g/364074/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-364078@outlaygrants.com
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -2162,6 +2146,22 @@ DESCRIPTION:Geological Survey | Max: $360\,000\nDeadline: 2026-11-14 23:59
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364084/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364074@outlaygrants.com
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
+ ian Cooperative Ecosystem Studies Unit
+DESCRIPTION:Geological Survey | Max: $35\,000\nDeadline: 2026-11-14 23:59 
+ UTC-05:00\nDetails: https://outlaygrants.com/g/364074/\nOfficial notice: 
+ https://www.grants.gov/search-results-detail/364074\nSource: Grants.gov (
+ U.S. federal government)\, retrieved 2026-10-28. U.S. government work\; p
+ ublic domain in the United States (17 U.S.C. 105). Unofficial\; always ch
+ eck the official notice.
+URL:https://outlaygrants.com/g/364074/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3167,6 +3167,22 @@ DESCRIPTION:National Institute of Justice | Max: $1\,000\,000\nDeadline: 2
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364062/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364158@outlaygrants.com
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
+ m Selection Grant
+DESCRIPTION:Bureau of Human Resources | Max: $85\,855\nDeadline: 2026-11-2
+ 3 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364158/\nOfficial 
+ notice: https://www.grants.gov/search-results-detail/364158\nSource: Gran
+ ts.gov (U.S. federal government)\, retrieved 2026-10-28. U.S. government 
+ work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
+ lways check the official notice.
+URL:https://outlaygrants.com/g/364158/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
