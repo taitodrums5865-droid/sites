@@ -11,69 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-e55ed50dc44f404aa3cefb25a68cc7eb@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: Dock-side (DS): USCGC WAESCHE Quarter 2 FY27 Repair
-DESCRIPTION:US COAST GUARD\nDeadline: 2026-10-27 14:30 UTC-07:00\nDetails:
-  https://setasidebrief.com/o/e55ed50dc44f404aa3cefb25a68cc7eb/\nOfficial 
- notice: https://sam.gov/opp/e55ed50dc44f404aa3cefb25a68cc7eb/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-10-28. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/e55ed50dc44f404aa3cefb25a68cc7eb/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-40d2761d2d2f442ab1cadc0a2f2d6d64@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: J046--Reverse Osmosis PM
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-10-27 15:00 U
- TC-07:00\nDetails: https://setasidebrief.com/o/40d2761d2d2f442ab1cadc0a2f
- 2d6d64/\nOfficial notice: https://sam.gov/opp/40d2761d2d2f442ab1cadc0a2f2
- d6d64/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-10-28. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/40d2761d2d2f442ab1cadc0a2f2d6d64/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-c624d84a32954491bf01ae54adc87641@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: 26-SIMACQ-E30-0034 Cell Phone Repeaters Removal and Replac
- ement
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-27 15:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/c624d84a32954491bf01ae54adc87641/\nOfficia
- l notice: https://sam.gov/opp/c624d84a32954491bf01ae54adc87641/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-28. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/c624d84a32954491bf01ae54adc87641/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ffb2ba56e3204bc8827838747d4af048@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: 26-SIMACQ-E30-0034 Cell Phone Repeaters Removal and Replac
- ement
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-27 15:00 UTC-07:00\nDetail
- s: https://setasidebrief.com/o/ffb2ba56e3204bc8827838747d4af048/\nOfficia
- l notice: https://sam.gov/opp/ffb2ba56e3204bc8827838747d4af048/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-28. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/ffb2ba56e3204bc8827838747d4af048/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-a4f7255b992b42aab6c29fac5573016d@setasidebrief.com
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
