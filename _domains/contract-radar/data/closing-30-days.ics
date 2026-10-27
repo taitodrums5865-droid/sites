@@ -11,52 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-cbe51730b5a147dea9a060650aaa7aa1@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: Law Enforcement Investigative Database Subscription
-DESCRIPTION:US IMMIGRATION AND CUSTOMS ENFORCEMENT\nDeadline: 2026-10-27 1
- 5:30 UTC-05:00\nDetails: https://setasidebrief.com/o/cbe51730b5a147dea9a0
- 60650aaa7aa1/\nOfficial notice: https://sam.gov/opp/cbe51730b5a147dea9a06
- 0650aaa7aa1/view\nSource: SAM.gov Contract Opportunities (U.S. General Se
- rvices Administration)\, retrieved 2026-10-28. U.S. government work\; pub
- lic domain in the United States (17 U.S.C. 105). Unofficial\; always chec
- k the official notice.
-URL:https://setasidebrief.com/o/cbe51730b5a147dea9a060650aaa7aa1/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-488f3d520b5945ea9b738ceff317900e@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: Synopsis -Solid Wood Hangers B+4 West Point FY 27
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-27 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/488f3d520b5945ea9b738ceff317900e/\nOfficia
- l notice: https://sam.gov/opp/488f3d520b5945ea9b738ceff317900e/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-28. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/488f3d520b5945ea9b738ceff317900e/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-34544b6105344f509b0f4cdc26ac590f@setasidebrief.com
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Closes: Cadet Cufflinks West Point FY27
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-27 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/34544b6105344f509b0f4cdc26ac590f/\nOfficia
- l notice: https://sam.gov/opp/34544b6105344f509b0f4cdc26ac590f/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-28. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/34544b6105344f509b0f4cdc26ac590f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-667d104580594002b2950c833cd77f87@setasidebrief.com
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
