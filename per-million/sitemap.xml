@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://aobaworks.com/per-million/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/claude-api-pricing-vs-deepseek-2026-cost-per-task-table/</loc><lastmod>2026-10-28</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/cheapest-llm-api-for-coding-2026-cost-per-task-table/</loc><lastmod>2026-10-26</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/llm-cost-calculator-python-build-one-in-5-steps-2026/</loc><lastmod>2026-10-23</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/prompt-caching-cost-2026-discount-table-savings-formula/</loc><lastmod>2026-10-23</lastmod></url>
@@ -10,10 +11,13 @@
 <url><loc>https://aobaworks.com/per-million/cheapest-llm-api-in-2026-real-cost-per-1m-tokens-table/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/claude-api-pricing-vs-max-plan-break-even-table-for-2026/</loc><lastmod>2026-10-20</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/llm-api-pricing-comparison-2026-5-providers-real-costs/</loc><lastmod>2026-10-20</lastmod></url>
-<url><loc>https://aobaworks.com/per-million/tag/api-pricing/</loc><lastmod>2026-10-26</lastmod></url>
-<url><loc>https://aobaworks.com/per-million/tag/claude/</loc><lastmod>2026-10-26</lastmod></url>
-<url><loc>https://aobaworks.com/per-million/tag/llm-api-pricing/</loc><lastmod>2026-10-26</lastmod></url>
-<url><loc>https://aobaworks.com/per-million/tag/openai/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/api-pricing/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/batch-api/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/deepseek/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/llm-api-pricing/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/llm-pricing/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/openai/</loc><lastmod>2026-10-28</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/prompt-caching/</loc><lastmod>2026-10-28</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/models/</loc><lastmod>2026-10-28</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/provider/anthropic/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/provider/cohere/</loc><lastmod>2026-10-19</lastmod></url>
@@ -36,7 +40,7 @@
 <url><loc>https://aobaworks.com/per-million/deprecations/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/how-pricing-works/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/alerts/</loc><lastmod>2026-10-28</lastmod></url>
-<url><loc>https://aobaworks.com/per-million/tag/</loc><lastmod>2026-10-26</lastmod></url>
+<url><loc>https://aobaworks.com/per-million/tag/</loc><lastmod>2026-10-28</lastmod></url>
 <url><loc>https://aobaworks.com/per-million/about/</loc></url>
 <url><loc>https://aobaworks.com/per-million/privacy/</loc></url>
 </urlset>
