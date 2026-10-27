@@ -22,6 +22,7 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://aobaworks.com/douga-henshu-note/sitemap.xml
+Sitemap: https://aobaworks.com/federal-entry-jobs/sitemap.xml
 Sitemap: https://aobaworks.com/hojokin/sitemap.xml
 Sitemap: https://aobaworks.com/nyusatsu/sitemap.xml
 Sitemap: https://aobaworks.com/per-million/sitemap.xml
