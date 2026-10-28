@@ -23,6 +23,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Guides
 - [CAGE Code Lookup: 4 Steps to Find or Request One](https://setasidebrief.com/cage-code-lookup-4-steps-to-find-or-request-one/): CAGE code lookup made practical: search SAM.gov or DLA by name, trace codes from part numbers, and know when SAM assigns one or you request it from DLA.
+- [Subcontracting Government Contracts: 6 Steps to Get Started](https://setasidebrief.com/subcontracting-government-contracts-6-steps-to-get-started/): Subcontracting government contracts in 2026: find primes with FAR 52.219-9 plans, use SBA SubNet and Small Business Search, and avoid common sub mistakes.
 - [NAICS Code for Construction: 2026 Size Table and Steps](https://setasidebrief.com/naics-code-for-construction-2026-size-table-and-steps/): The NAICS code for construction depends on your trade. Compare 236, 237 and 238 codes, SBA size limits and steps to pick the code that keeps you eligible.
 - [NAICS Code for Consulting: 2026 Size Table and Steps](https://setasidebrief.com/naics-code-for-consulting-2026-size-table-and-steps/): NAICS code for consulting: match 541611, 541613, 541618, 541690, 541512 or 541990 to your service, with each SBA size standard and SAM.gov steps.
 - [HUBZone Map 2026: Address Check Steps and Expiry Dates](https://setasidebrief.com/hubzone-map-2026-address-check-steps-and-expiry-dates/): How to use the SBA HUBZone map in 2026: check an address, spot expired redesignated areas, read your result, and find HUBZone set-asides on SAM.gov.
