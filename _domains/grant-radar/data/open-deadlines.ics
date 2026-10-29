@@ -4631,6 +4631,55 @@ URL:https://outlaygrants.com/g/357273/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grant-radar-358954@outlaygrants.com
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Closes: Genomic Data Generation Center for the Gabriella Miller Ki
+ ds First Pediatric Research Program (U24 Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health | Max: $3\,500\,000\nDeadline: 2
+ 027-01-08 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358954/\nO
+ fficial notice: https://www.grants.gov/search-results-detail/358954\nSour
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-10-30. U.S. gov
+ ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
+ cial\; always check the official notice.
+URL:https://outlaygrants.com/g/358954/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-358960@outlaygrants.com
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Closes: Gabriella Miller Kids First Training and Outreach Core (U2
+ 4 Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health | Max: $900\,000\nDeadline: 2027
+ -01-08 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358960/\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/358960\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-10-30. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://outlaygrants.com/g/358960/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-358959@outlaygrants.com
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Closes: Single Source: Continued Development of the Gabriella Mill
+ er Kids First Pediatric Data Resource Center (U2C Clinical Trial Not Allo
+ wed)
+DESCRIPTION:National Institutes of Health | Max: $3\,200\,000\nDeadline: 2
+ 027-01-08 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358959/\nO
+ fficial notice: https://www.grants.gov/search-results-detail/358959\nSour
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-10-30. U.S. gov
+ ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
+ cial\; always check the official notice.
+URL:https://outlaygrants.com/g/358959/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grant-radar-361164@outlaygrants.com
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20270111
@@ -10865,6 +10914,22 @@ DESCRIPTION:DOC NOAA - ERA Production\nDeadline: 2028-09-30 23:59 UTC-05:0
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://outlaygrants.com/g/364099/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364142@outlaygrants.com
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:Closes: FY 2026 - 2028 Broad Agency Announcement (BAA)\, National 
+ Ocean Service
+DESCRIPTION:DOC NOAA - ERA Production | Max: $100\nDeadline: 2028-09-30 23
+ :59 UTC-05:00\nDetails: https://outlaygrants.com/g/364142/\nOfficial noti
+ ce: https://www.grants.gov/search-results-detail/364142\nSource: Grants.g
+ ov (U.S. federal government)\, retrieved 2026-10-30. U.S. government work
+ \; public domain in the United States (17 U.S.C. 105). Unofficial\; alway
+ s check the official notice.
+URL:https://outlaygrants.com/g/364142/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
