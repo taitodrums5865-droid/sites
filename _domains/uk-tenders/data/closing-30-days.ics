@@ -11,67 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-078113@standstill.uk
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: SA242 Penallta Road Bridge Strengthening
-DESCRIPTION:Caerphilly County Borough Council | Max: £600\,000\nDeadline:
-  2026-10-30 14:00 UTC\nDetails: https://standstill.uk/o/fts-078113/\nOffi
- cial notice: https://www.find-tender.service.gov.uk/Notice/093972-2026\nS
- ource: Find a Tender and Contracts Finder (UK government)\, retrieved 202
- 6-10-30. Contains public sector information licensed under the Open Gover
- nment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-078113/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-077f9c@standstill.uk
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: Framework for the Supply and Delivery of Bulk Fuel
-DESCRIPTION:Pembrokeshire County Council | Max: £13\,500\,000\nDeadline: 
- 2026-10-30 14:00 UTC\nDetails: https://standstill.uk/o/fts-077f9c/\nOffic
- ial notice: https://www.find-tender.service.gov.uk/Notice/093293-2026\nSo
- urce: Find a Tender and Contracts Finder (UK government)\, retrieved 2026
- -10-30. Contains public sector information licensed under the Open Govern
- ment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-077f9c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-0778b4@standstill.uk
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: The management of Solent Meads golf course
-DESCRIPTION:Bournemouth\, Christchurch and Poole Council | Max: £5\,000\,
- 000\nDeadline: 2026-10-30 14:00 UTC\nDetails: https://standstill.uk/o/fts
- -0778b4/\nOfficial notice: https://www.find-tender.service.gov.uk/Notice/
- 099899-2026\nSource: Find a Tender and Contracts Finder (UK government)\,
-  retrieved 2026-10-30. Contains public sector information licensed under 
- the Open Government Licence v3.0. Unofficial\; always check the official 
- notice.
-URL:https://standstill.uk/o/fts-0778b4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-06dc24@standstill.uk
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: Christmas Light Trail for Sir Harold Hillier Gardens
-DESCRIPTION:Hampshire County Council | Max: £15\,000\,000\nDeadline: 2026
- -10-30 14:00 UTC\nDetails: https://standstill.uk/o/fts-06dc24/\nOfficial 
- notice: https://www.find-tender.service.gov.uk/Notice/092509-2026\nSource
- : Find a Tender and Contracts Finder (UK government)\, retrieved 2026-10-
- 30. Contains public sector information licensed under the Open Government
-  Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-06dc24/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-cf-38055f41-45d2-47fb-a9c4-23b1f22aa963@standstill.uk
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030

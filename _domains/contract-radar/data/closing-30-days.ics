@@ -11,52 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-bcfa9888ec904aa2845ba76c65395b45@setasidebrief.com
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: LTBMU Parking Lot Snow Removal and Ice Mitigation Services
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-10-30 10:00 UTC-04:00\nDetails:
-  https://setasidebrief.com/o/bcfa9888ec904aa2845ba76c65395b45/\nOfficial 
- notice: https://sam.gov/opp/bcfa9888ec904aa2845ba76c65395b45/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-10-30. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/bcfa9888ec904aa2845ba76c65395b45/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ccb223b31e874b3583ccd571108d366a@setasidebrief.com
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: MARSOC Special Operations Medical Training Services IDIQ
-DESCRIPTION:US SPECIAL OPERATIONS COMMAND (USSOCOM)\nDeadline: 2026-10-30 
- 10:00 UTC-04:00\nDetails: https://setasidebrief.com/o/ccb223b31e874b3583c
- cd571108d366a/\nOfficial notice: https://sam.gov/opp/ccb223b31e874b3583cc
- d571108d366a/view\nSource: SAM.gov Contract Opportunities (U.S. General S
- ervices Administration)\, retrieved 2026-10-30. U.S. government work\; pu
- blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
- ck the official notice.
-URL:https://setasidebrief.com/o/ccb223b31e874b3583ccd571108d366a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-de8788b2aac3414db01a122f0a059951@setasidebrief.com
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Closes: 8th Knoxville MEPS Noon Meals
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-10-30 10:00 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/de8788b2aac3414db01a122f0a059951/\nOfficia
- l notice: https://sam.gov/opp/de8788b2aac3414db01a122f0a059951/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-30. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/de8788b2aac3414db01a122f0a059951/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-d39e792a469845d29d0f26a8c0fa4b4f@setasidebrief.com
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
