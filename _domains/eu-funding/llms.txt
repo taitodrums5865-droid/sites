@@ -21,6 +21,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [HORIZON-CL6-2027-02-CLIMATE-01-two-stage: Dates, €5.5M Table](https://callwindowgrants.com/horizon-cl6-2027-02-climate-01-two-stage-dates-5-5m-table/): HORIZON-CL6-2027-02-CLIMATE-01-two-stage: stage 1 deadline 8 April 2027, stage 2 deadline 14 Sept 2027, €11M for 2 projects, page limits and steps.
 - [How to Apply for EU Funding: 7 Steps to Portal Submission](https://callwindowgrants.com/how-to-apply-for-eu-funding-7-steps-to-portal-submission/): How to apply for EU funding in 7 steps: find a call, check eligibility, get a PIC, build a consortium and submit on the Funding & Tenders Portal by 17:00.
 - [Horizon Europe CSA Proposal Template: 7 Differences From RIA](https://callwindowgrants.com/horizon-europe-csa-proposal-template-7-differences-from-ria/): Horizon Europe CSA proposal template vs RIA: a section-by-section map of what changes in the 25-page CSA Part B, the 100% funding rate, TRL and impact.
 - [EU Funding and Tenders Portal Participant Register: 5 Steps](https://callwindowgrants.com/eu-funding-and-tenders-portal-participant-register-5-steps/): How the EU Funding and Tenders Portal Participant Register works: PIC vs register, the 6-step wizard, LEAR appointment, validation documents and role updates.
