@@ -24,6 +24,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [How to Win Council Tenders: 7 Steps and 2026 Thresholds](https://standstill.uk/how-to-win-council-tenders-7-steps-and-2026-thresholds/): How to win council tenders in 2026: 7 steps for UK SMEs and VCSEs, covering supplier portals, Meet the Buyer, the £30,000 notice rule and social value.
 - [Find NHS Tenders: 5 Steps, CPV Codes and Buyer Names 2026](https://standstill.uk/find-nhs-tenders-5-steps-cpv-codes-and-buyer-names-2026/): Find NHS tenders faster: the CPV codes, NHS buyer names, frameworks and portals (Find a Tender, Atamis, SAP Ariba, Jaggaer) that UK SMEs can filter on in 2026.
 - [Dynamic Markets Procurement Act 2023: 6 SME Steps](https://standstill.uk/dynamic-markets-procurement-act-2023-6-sme-steps/): Dynamic markets under the Procurement Act 2023 replaced the DPS. See how SMEs and charities find UK13 notices, meet membership conditions and join in 6 steps.
 - [Tender No Bid Response: 5 UK Steps and a Wording Template](https://standstill.uk/tender-no-bid-response-5-uk-steps-and-a-wording-template/): Tender no bid response guide for UK SMEs: how to decline on Atamis or Jaggaer, what to write, framework rules, and when saying no protects future bids.
