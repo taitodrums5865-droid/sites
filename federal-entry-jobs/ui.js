@@ -1,8 +1,8 @@
 (function(){
 var d=document,ja=(d.documentElement.lang||'').indexOf('ja')===0,de=(d.documentElement.lang||'').indexOf('de')===0;
-var T=ja?{menu:'メニュー',close:'閉じる',site:'このサイト',topics:'テーマ',toc:'この記事の目次',tocBtn:'目次',top:'上へ',next:'次にやること'}
-     :de?{menu:'Menü',close:'Schließen',site:'Diese Website',topics:'Themen',toc:'Auf dieser Seite',tocBtn:'Inhalt',top:'Nach oben',next:'Nächste Schritte'}
-         :{menu:'Menu',close:'Close',site:'This site',topics:'Topics',toc:'In this guide',tocBtn:'Contents',top:'Top',next:'Next steps'};
+var T=ja?{menu:'メニュー',close:'閉じる',site:'このサイト',topics:'テーマ',toc:'この記事の目次',tocBtn:'目次',top:'上へ',next:'次にやること',left:'残り約#分'}
+     :de?{menu:'Menü',close:'Schließen',site:'Diese Website',topics:'Themen',toc:'Auf dieser Seite',tocBtn:'Inhalt',top:'Nach oben',next:'Nächste Schritte',left:'noch ca. # Min.'}
+         :{menu:'Menu',close:'Close',site:'This site',topics:'Topics',toc:'In this guide',tocBtn:'Contents',top:'Top',next:'Next steps',left:'about # min left'};
 function el(t,a,h){var e=d.createElement(t);for(var k in a||{})e.setAttribute(k,a[k]);if(h!=null)e.innerHTML=h;return e}
 var main=d.querySelector('main'),art=d.querySelector('article'),head=d.querySelector('.site-head .wrap')||d.querySelector('body > header'),nav=d.querySelector('.site-nav, .gnav');
 if(!main)return;
@@ -16,7 +16,7 @@ var tocSec=sec(T.toc,tocLinks);if(tocSec){tocSec.id='ui-toc';dr.appendChild(tocS
 var s1=sec(T.site,nav?[].slice.call(nav.querySelectorAll('a')):[]);if(s1)dr.appendChild(s1);
 var s2=sec(T.topics,[].slice.call(d.querySelectorAll('.pills a, .tags a')).slice(0,16));if(s2)dr.appendChild(s2);
 d.body.appendChild(scrim);d.body.appendChild(dr);
-function open(at){d.body.classList.add('ui-open');dr.setAttribute('aria-hidden','false');x.focus();if(at){var t=d.getElementById(at);if(t)dr.scrollTop=t.offsetTop-10}}
+function open(at){d.body.classList.add('ui-open');dr.setAttribute('aria-hidden','false');x.focus();dr.scrollTop=0;if(at){var t=d.getElementById(at),o=t&&t.querySelector('a.on');if(o)dr.scrollTop=Math.max(0,o.offsetTop-dr.clientHeight/3);else if(t&&t.offsetTop>dr.clientHeight/2)dr.scrollTop=t.offsetTop-10}}
 function close(){d.body.classList.remove('ui-open');dr.setAttribute('aria-hidden','true')}
 scrim.onclick=close;x.onclick=close;dr.addEventListener('click',function(e){if(e.target.tagName==='A')close()});
 d.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
@@ -57,15 +57,20 @@ if(art){
   var nb=null;if(nextH){if(!nextH.id)nextH.id='next-steps';nb=el('a',{'class':'ui-next',href:'#'+nextH.id},T.next);fab.appendChild(nb)}
   var tb=null;if(tocSec){tb=el('button',{type:'button'},T.tocBtn);tb.onclick=function(){open('ui-toc')};fab.appendChild(tb)}
   d.body.appendChild(fab);
-  var tocA=tocSec?[].slice.call(tocSec.querySelectorAll('a')):[];
-  if(tocSec&&tocLinks.length>=3){var side=el('nav',{'class':'ui-side','aria-label':T.toc});side.appendChild(el('p',null,T.toc));var ol=el('ol');
+  var tocA=tocSec?[].slice.call(tocSec.querySelectorAll('a')):[],side=null,sideH=null,tocH=tocSec?tocSec.querySelector('h2'):null;
+  var mt=(art.querySelector('.meta')||{}).textContent||'',mm=mt.match(/(\d+)\s*(?:min read|分で読め|Min\.? Lesezeit)/),mins=mm?+mm[1]:0,lastLeft=-1,lastOn=null,lastY=scrollY;
+  if(tocSec&&tocLinks.length>=3){side=el('nav',{'class':'ui-side','aria-label':T.toc});sideH=el('p',null,T.toc);side.appendChild(sideH);var ol=el('ol');
     tocLinks.forEach(function(a){var li=el('li'),b=el('a',{href:a.getAttribute('href')});b.textContent=a.textContent.trim();li.appendChild(b);ol.appendChild(li)});side.appendChild(ol);d.body.appendChild(side);
     tocA=tocA.concat([].slice.call(ol.querySelectorAll('a')))}
   var tick=false;function onScroll(){if(tick)return;tick=true;requestAnimationFrame(function(){tick=false;
     var r=art.getBoundingClientRect(),h=art.offsetHeight-innerHeight,p=Math.min(1,Math.max(0,-r.top/(h>0?h:1)));
     var showNext=!!nb&&p>.45&&nextH.getBoundingClientRect().top>innerHeight;if(nb)nb.classList.toggle('show',showNext);if(tb)tb.style.display=showNext?'none':'';
     var on=null;h2s.forEach(function(x){if(x.getBoundingClientRect().top<120)on=x.id});
-    tocA.forEach(function(a){a.classList.toggle('on',a.getAttribute('href')==='#'+on)})})}
+    if(on!==lastOn){lastOn=on;tocA.forEach(function(a){a.classList.toggle('on',a.getAttribute('href')==='#'+on)});
+      var so=side&&side.querySelector('a.on');if(so&&side.scrollHeight>side.clientHeight)side.scrollTop=Math.max(0,so.offsetTop-side.clientHeight/3)}
+    if(mins){var left=Math.max(1,Math.ceil(mins*(1-p)));if(left!==lastLeft){lastLeft=left;var lt=T.toc+' · '+T.left.replace('#',left);if(sideH)sideH.textContent=lt;if(tocH)tocH.textContent=lt}}
+    if(side)side.classList.toggle('ui-off',r.bottom<innerHeight*.6);
+    var y=scrollY;fab.classList.toggle('ui-tuck',y>lastY+4&&y>400&&!showNext);if(Math.abs(y-lastY)>4)lastY=y})}
   addEventListener('scroll',onScroll,{passive:true});onScroll()}
 /* トップ: 章ごとのタブ(記事ではないページで、h2 が2〜5個)。v3(2026-10-17)で止めた: 中身を隠すと見比べられない(デジタル庁・NN/g)。全部並べて見せる */
 else if(false&&location.pathname.replace(/\/+$/,'').split('/').length<=2&&!d.querySelector('.crumbs')){

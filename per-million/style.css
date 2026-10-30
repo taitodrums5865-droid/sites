@@ -98,6 +98,12 @@ body > header{position:relative;padding-right:120px}body > header .ui-menu-btn{p
 .ui-side p{font-weight:700;color:var(--sub);margin:0 0 6px;font-size:.8125rem}.ui-side ol{list-style:none;padding:0;margin:0}.ui-side li{margin:0}
 .ui-side a{display:block;padding:5px 0;color:var(--sub);text-decoration:none;line-height:1.4}.ui-side a:hover,.ui-side a.on{color:var(--accent)}.ui-side a.on{font-weight:700}
 .ui-fab button{display:none}}
+@media (min-width:1240px){.ui-side{width:min(260px,calc(50vw - 48px - var(--col,44rem) / 2));overscroll-behavior:contain}}
+/* スマホの表: 読み上げ用の題(caption)が横にはみ出して、ページ全体が横に動いていた(2026-10-30) */
+@media (max-width:640px){table.ui-stack caption.ui-cap-sr{position:absolute;width:1px;height:1px;overflow:hidden}
+  article table.ui-stack td:first-child{position:static;box-shadow:none}}
+.ui-side.ui-off{opacity:0;visibility:hidden}.ui-fab.ui-tuck{transform:translateY(calc(100% + 24px));opacity:0;pointer-events:none}
+@media (prefers-reduced-motion:no-preference){.ui-side{transition:opacity .2s,visibility .2s}.ui-fab{transition:transform .2s ease-out,opacity .2s}}
 @media (prefers-reduced-motion:reduce){.ui-drawer,.ui-scrim{transition:none}html{scroll-behavior:auto}}
 @media print{.ui-bar,.ui-fab,.ui-drawer,.ui-scrim,.ui-menu-btn{display:none}}
 
