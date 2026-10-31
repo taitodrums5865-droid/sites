@@ -35306,4 +35306,38 @@ DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-30 00:00 UTC-04:00\nDetail
 URL:https://setasidebrief.com/o/bf2622928d8b4719adfb1e2b97c801a3/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-e53c26f62de2461f996e6874c5c71028@setasidebrief.com
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Y1DA--561-26-103 Upgrade Electrical and Plumbing in Buildi
+ ng 18B
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-30 09:45 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/e53c26f62de2461f996e6874c5
+ c71028/\nOfficial notice: https://sam.gov/opp/e53c26f62de2461f996e6874c5c
+ 71028/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-10-31. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/e53c26f62de2461f996e6874c5c71028/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-19f010e25796424d91f6ed51b4876106@setasidebrief.com
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Y1DA--561-26-103 Upgrade Electrical and Plumbing in Buildi
+ ng 18B
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-30 09:45 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/19f010e25796424d91f6ed51b4
+ 876106/\nOfficial notice: https://sam.gov/opp/19f010e25796424d91f6ed51b48
+ 76106/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-10-31. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/19f010e25796424d91f6ed51b4876106/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
