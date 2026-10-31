@@ -6,9 +6,9 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Data pages (rebuilt daily)
 - [How to Bid for UK Public Sector Tenders: 6 Steps for Small Businesses](https://standstill.uk/how-to-bid/): How small businesses bid for UK public sector tenders: free supplier registration, CPV codes, selection questionnaires, social value and closing dates.
-- [UK Tenders Closing Soon (Oct 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-10-31).
-- [UK Tenders for Small Businesses (Oct 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1072 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-10-31).
-- [UK Tenders for Charities (Oct 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 465 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-10-31).
+- [UK Tenders Closing Soon (Nov 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-10-31).
+- [UK Tenders for Small Businesses (Nov 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1072 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-10-31).
+- [UK Tenders for Charities (Nov 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 465 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-10-31).
 - [UK Public Sector Tenders by Region](https://standstill.uk/region/): Open UK public sector tenders by region: London, the South East, the North West, Scotland, Wales, Northern Ireland and more.
 - [UK Tenders by CPV Category](https://standstill.uk/cpv/): Open UK public sector tenders grouped by CPV category: construction work, IT services, health and social work, cleaning, transport and more.
 - [UK Public Sector Buyers with Open Tenders](https://standstill.uk/buyer/): UK public sector buyers with the most open tenders: councils, NHS trusts, universities, housing associations and central government.

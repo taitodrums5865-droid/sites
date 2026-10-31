@@ -22241,4 +22241,67 @@ DESCRIPTION:Westmorland and Furness Council | Max: £206\,500\,000\nDeadli
 URL:https://standstill.uk/o/fts-0793b6/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-065a78@standstill.uk
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Pulse Oximetry\, Capnography and Related Monitoring Techno
+ logies
+DESCRIPTION:SUPPLY CHAIN COORDINATION LIMITED | Max: £250\,000\,000\nDead
+ line: 2026-11-30 15:00 UTC\nDetails: https://standstill.uk/o/fts-065a78/\
+ nOfficial notice: https://www.find-tender.service.gov.uk/Notice/100013-20
+ 26\nSource: Find a Tender and Contracts Finder (UK government)\, retrieve
+ d 2026-10-31. Contains public sector information licensed under the Open 
+ Government Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-065a78/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-061262@standstill.uk
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Diagnostic and Capital Equipment and Related Accessories a
+ nd Services
+DESCRIPTION:SUPPLY CHAIN COORDINATION LIMITED | Max: £4\,325\,783\,082\nD
+ eadline: 2026-11-30 15:00 UTC\nDetails: https://standstill.uk/o/fts-06126
+ 2/\nOfficial notice: https://www.find-tender.service.gov.uk/Notice/091367
+ -2026\nSource: Find a Tender and Contracts Finder (UK government)\, retri
+ eved 2026-10-31. Contains public sector information licensed under the Op
+ en Government Licence v3.0. Unofficial\; always check the official notice
+ .
+URL:https://standstill.uk/o/fts-061262/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078b7c@standstill.uk
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: IT0043 Flooding Term Commission 2027-2031
+DESCRIPTION:Falkirk Council | Max: £1\,400\,000\nDeadline: 2026-11-30 16:
+ 00 UTC\nDetails: https://standstill.uk/o/fts-078b7c/\nOfficial notice: ht
+ tps://www.find-tender.service.gov.uk/Notice/098828-2026\nSource: Find a T
+ ender and Contracts Finder (UK government)\, retrieved 2026-10-31. Contai
+ ns public sector information licensed under the Open Government Licence v
+ 3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-078b7c/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-050df9@standstill.uk
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: British Gurkas Nepal White Fleet Vehicle Replacement
+DESCRIPTION:Ministry of Defence | Max: £1\,910\,833\nDeadline: 2026-11-30
+  16:00 UTC\nDetails: https://standstill.uk/o/fts-050df9/\nOfficial notice
+ : https://www.find-tender.service.gov.uk/Notice/083509-2026\nSource: Find
+  a Tender and Contracts Finder (UK government)\, retrieved 2026-10-31. Co
+ ntains public sector information licensed under the Open Government Licen
+ ce v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-050df9/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

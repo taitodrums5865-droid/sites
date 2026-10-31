@@ -11,75 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-75e3a4d9fbf74104b1821f7c173f7b57@setasidebrief.com
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Closes: Medicaid Data Analysis for Bacterial Respiratory Pathogens
-  and Information Systems
-DESCRIPTION:CENTERS FOR DISEASE CONTROL AND PREVENTION\nDeadline: 2026-10-
- 31 11:00 UTC-04:00\nDetails: https://setasidebrief.com/o/75e3a4d9fbf74104
- b1821f7c173f7b57/\nOfficial notice: https://sam.gov/opp/75e3a4d9fbf74104b
- 1821f7c173f7b57/view\nSource: SAM.gov Contract Opportunities (U.S. Genera
- l Services Administration)\, retrieved 2026-10-31. U.S. government work\;
-  public domain in the United States (17 U.S.C. 105). Unofficial\; always 
- check the official notice.
-URL:https://setasidebrief.com/o/75e3a4d9fbf74104b1821f7c173f7b57/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-9159d10417af4fbaadfa29cd3a874d00@setasidebrief.com
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Closes: Acoustic Testing for the IM-272A/WDQ Air Particle Detector
-  and isolation valves
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-10-31 11:00 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/9159d10417af4fbaadfa29cd3a874d00/\nOfficia
- l notice: https://sam.gov/opp/9159d10417af4fbaadfa29cd3a874d00/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-10-31. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/9159d10417af4fbaadfa29cd3a874d00/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-aaf217f0c2f84e0ead12a66f45aa1f2d@setasidebrief.com
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Closes: Architect & Engineering Services\, Indefinite-Delivery\, I
- ndefinite-Quantity (IDIQ) Multiple Award (A&E) Contracts needed for new c
- onstruction\, renovation\, alteration and repairs required by Federal Pri
-DESCRIPTION:FEDERAL PRISON INDUSTRIES\, INC\nDeadline: 2026-10-31 11:00 UT
- C-04:00\nDetails: https://setasidebrief.com/o/aaf217f0c2f84e0ead12a66f45a
- a1f2d/\nOfficial notice: https://sam.gov/opp/aaf217f0c2f84e0ead12a66f45aa
- 1f2d/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
- Administration)\, retrieved 2026-10-31. U.S. government work\; public dom
- ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
- fficial notice.
-URL:https://setasidebrief.com/o/aaf217f0c2f84e0ead12a66f45aa1f2d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-632fdf6f4e5c45d3b7cc58c26ff2d914@setasidebrief.com
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Closes: Architect & Engineering Services\, Indefinite-Delivery\, I
- ndefinite-Quantity (IDIQ) Multiple Award (A&E) Contracts needed for new c
- onstruction\, renovation\, alteration and repairs required by Federal Pri
-DESCRIPTION:FEDERAL PRISON INDUSTRIES\, INC\nDeadline: 2026-10-31 11:00 UT
- C-04:00\nDetails: https://setasidebrief.com/o/632fdf6f4e5c45d3b7cc58c26ff
- 2d914/\nOfficial notice: https://sam.gov/opp/632fdf6f4e5c45d3b7cc58c26ff2
- d914/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
- Administration)\, retrieved 2026-10-31. U.S. government work\; public dom
- ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
- fficial notice.
-URL:https://setasidebrief.com/o/632fdf6f4e5c45d3b7cc58c26ff2d914/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-5fd4d49f532d4a8881eeebc34e86929e@setasidebrief.com
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -35338,6 +35269,55 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-30 09:45 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/19f010e25796424d91f6ed51b4876106/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-bf980e13286649b7a1ed1898b4d44b95@setasidebrief.com
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Aviation Operations Center (AOC)- Building Engineer Report
+  (BER)
+DESCRIPTION:DRUG ENFORCEMENT ADMINISTRATION\nDeadline: 2026-11-30 10:00 UT
+ C-05:00\nDetails: https://setasidebrief.com/o/bf980e13286649b7a1ed1898b4d
+ 44b95/\nOfficial notice: https://sam.gov/opp/bf980e13286649b7a1ed1898b4d4
+ 4b95/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
+ Administration)\, retrieved 2026-10-31. U.S. government work\; public dom
+ ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
+ fficial notice.
+URL:https://setasidebrief.com/o/bf980e13286649b7a1ed1898b4d44b95/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-5510f42ee5fb4fdf9cb2231e98f4f2b9@setasidebrief.com
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Workmen�s Compensation
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-11-30 10:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/5510f42ee5fb4fdf9cb2231e98f4f2b9/\nOf
+ ficial notice: https://sam.gov/opp/5510f42ee5fb4fdf9cb2231e98f4f2b9/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-10-31. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/5510f42ee5fb4fdf9cb2231e98f4f2b9/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-4a8041a3553c4a4c8509984ee373c306@setasidebrief.com
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: Q702--Santa Maria IOTA
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-30 10:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/4a8041a3553c4a4c8509984ee3
+ 73c306/\nOfficial notice: https://sam.gov/opp/4a8041a3553c4a4c8509984ee37
+ 3c306/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-10-31. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/4a8041a3553c4a4c8509984ee373c306/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
