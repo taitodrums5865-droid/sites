@@ -38557,4 +38557,20 @@ DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-12-01 14:00 UTC-05:00\nDetail
 URL:https://setasidebrief.com/o/43c5368ae19544698532c616a5ebc327/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-522e75c1e42c4865a7665b3ee470ab6e@setasidebrief.com
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: Currency Labels
+DESCRIPTION:BUREAU OF ENGRAVING AND PRINTING\nDeadline: 2026-12-01 15:30 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/522e75c1e42c4865a7665b3ee4
+ 70ab6e/\nOfficial notice: https://sam.gov/opp/522e75c1e42c4865a7665b3ee47
+ 0ab6e/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-02. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/522e75c1e42c4865a7665b3ee470ab6e/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
