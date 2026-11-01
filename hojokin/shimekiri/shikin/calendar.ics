@@ -239,19 +239,6 @@ DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 愛知県\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYW1MAP/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDOsKMAX@aobaworks.com
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:締め切り: 携帯電話等エリア整備事業
-DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額 
- 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
- WJ200000CDOsKMAX/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
- の情報を補助金・助成金検索が編集・加工。申請の前
- に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDOsKMAX/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0W2x000003QZLqEAO@aobaworks.com
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270331
@@ -263,21 +250,6 @@ DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額
  の情報を補助金・助成金検索が編集・加工。申請の前
  に公式ページで確かめてください。
 URL:https://aobaworks.com/hojokin/s/a0W2x000003QZLqEAO/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WJ200000CDaTOMA1@aobaworks.com
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270602
-SUMMARY:締め切り: 【令和8年度】地域医療確保に係る緊急
- ・臨時支援事業支援金及び急性期医療臨時支援事業支
- 援金
-DESCRIPTION:締め切り 2027年6月1日 00:00\n地域 東京都\n上限額
-  1\,558\,900万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDaTOMA1/\n
- 出典:Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助
- 金・助成金検索が編集・加工。申請の前に公式ページ
- で確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDaTOMA1/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDbosMAD@aobaworks.com

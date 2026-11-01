@@ -63,20 +63,6 @@ DESCRIPTION:締め切り 2026年11月30日 12:00\n地域 全国\n上限額
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDa1gMAD/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDYEGMA5@aobaworks.com
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:締め切り: 【令和８年度】働き方改革推進支援助
- 成金
-DESCRIPTION:締め切り 2026年11月30日 17:00\n地域 全国\n上限額 
- 1\,370万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDYEGMA5/\n出典:
- Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
- 助成金検索が編集・加工。申請の前に公式ページで確
- かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYEGMA5/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDderMAD@aobaworks.com
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -380,19 +366,6 @@ DESCRIPTION:締め切り 2027年3月31日 23:45\n地域 埼玉県\n上限
  助成金検索が編集・加工。申請の前に公式ページで確
  かめてください。
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXqMMAX/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WJ200000CDOsKMAX@aobaworks.com
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
-SUMMARY:締め切り: 携帯電話等エリア整備事業
-DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額 
- 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/s/a0
- WJ200000CDOsKMAX/\n出典:Jグランツ(https://www.jgrants-portal.go.jp/)
- の情報を補助金・助成金検索が編集・加工。申請の前
- に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDOsKMAX/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDY2OMAX@aobaworks.com
