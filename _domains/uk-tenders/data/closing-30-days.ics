@@ -22556,4 +22556,19 @@ DESCRIPTION:MAG AIRPORT LIMITED | Max: £1\,000\,000\nDeadline: 2026-11-30
 URL:https://standstill.uk/o/fts-0594ef/
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-07950c@standstill.uk
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: CBC-2063-T-SM E-Cigarette Service
+DESCRIPTION:Central Bedfordshire Council\nDeadline: 2026-12-01 10:00 UTC\n
+ Details: https://standstill.uk/o/fts-07950c/\nOfficial notice: https://ww
+ w.find-tender.service.gov.uk/Notice/103469-2026\nSource: Find a Tender an
+ d Contracts Finder (UK government)\, retrieved 2026-11-01. Contains publi
+ c sector information licensed under the Open Government Licence v3.0. Uno
+ fficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-07950c/
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
