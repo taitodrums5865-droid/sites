@@ -6,6 +6,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Data pages (rebuilt daily)
 - [How to Bid for UK Public Sector Tenders: 6 Steps for Small Businesses](https://standstill.uk/how-to-bid/): How small businesses bid for UK public sector tenders: free supplier registration, CPV codes, selection questionnaires, social value and closing dates.
+- [Contracts in standstill now](https://standstill.uk/standstill-now/): 312 UK public contract awards are inside the Procurement Act 2023 standstill period today, with the date each one ends. Updated daily from Find a Tender award
 - [UK Tenders Closing Soon (Nov 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-11-01).
 - [UK Tenders for Small Businesses (Nov 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1081 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-11-01).
 - [UK Tenders for Charities (Nov 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 470 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-11-01).
