@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [Final Cut Pro買い切りとサブスクどっち|損益分岐表](https://aobaworks.com/douga-henshu-note/final-cut-pro-buyout-vs-subscription/): Final Cut Proは買い切りとサブスクどっちが得か、買い切り50,000円とCreator Studio月額1,780円・年額17,800円で計算。何か月で逆転するか、年数別の総額とサブスク限定機能を表にしました。
 - [動画編集ソフトの料金比較|買い切り・年額・月額を5年分まで計算](https://aobaworks.com/douga-henshu-note/douga-henshu-soft-ryokin-hikaku/): 動画編集ソフトの料金を比較。Premiere Pro・Final Cut Pro・DaVinci Resolve Studio・Filmora・PowerDirector・CapCut Proを公式価格で並べ、2・3・5年の合計と逆転する年を計算しました。
 - [Filmora料金プラン【2026年】年額と買い切りの損益分岐](https://aobaworks.com/douga-henshu-note/filmora-ryokin-plan/): Filmoraの料金プランを公式の値で整理。ベーシック年間・アドバンス年間・永続ライセンスの差、買い切りが何年で得になるかの計算式、無料アップデートの範囲、AIクレジット、学割、返金と自動更新の止め方までまとめました。
 - [動画編集ソフト有料比較【2026年】料金表と独学の目安で選ぶ](https://aobaworks.com/douga-henshu-note/video-editing-paid-comparison/): 動画編集ソフトの有料版を比較。Premiere Pro・Final Cut Pro・DaVinci Resolve Studio・Filmora・CapCut Proの料金を3年分の合計で並べ、機能差と、独学で使いこなせるか講座が必要かの判断表もまとめました。
