@@ -11,69 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-078294@standstill.uk
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Closes: Supply and Delivery of Fire Doorsets
-DESCRIPTION:Northern Ireland Housing Executive | Max: £950\,000\nDeadline
- : 2026-11-02 15:00 UTC\nDetails: https://standstill.uk/o/fts-078294/\nOff
- icial notice: https://www.find-tender.service.gov.uk/Notice/094685-2026\n
- Source: Find a Tender and Contracts Finder (UK government)\, retrieved 20
- 26-11-02. Contains public sector information licensed under the Open Gove
- rnment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-078294/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-051b2c@standstill.uk
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Closes: Medical Pulp and Associated Products 2027
-DESCRIPTION:SUPPLY CHAIN COORDINATION LIMITED | Max: £120\,000\,000\nDead
- line: 2026-11-02 15:00 UTC\nDetails: https://standstill.uk/o/fts-051b2c/\
- nOfficial notice: https://www.find-tender.service.gov.uk/Notice/093984-20
- 26\nSource: Find a Tender and Contracts Finder (UK government)\, retrieve
- d 2026-11-02. Contains public sector information licensed under the Open 
- Government Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-051b2c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-078007@standstill.uk
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Closes: DFE - Energy Group - Site inspections for the closure of t
- he Non-Domestic RHI Scheme
-DESCRIPTION:Department for the Economy (DfE) - Energy Group | Max: £750\,
- 000\nDeadline: 2026-11-02 15:00 UTC\nDetails: https://standstill.uk/o/fts
- -078007/\nOfficial notice: https://www.find-tender.service.gov.uk/Notice/
- 093478-2026\nSource: Find a Tender and Contracts Finder (UK government)\,
-  retrieved 2026-11-02. Contains public sector information licensed under 
- the Open Government Licence v3.0. Unofficial\; always check the official 
- notice.
-URL:https://standstill.uk/o/fts-078007/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-077cc7@standstill.uk
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Closes: DoF - Collaborative Arrangement - Provision of Metered Ele
- ctricity 2027-2030
-DESCRIPTION:Department of Finance | Max: £400\,000\,000\nDeadline: 2026-1
- 1-02 15:00 UTC\nDetails: https://standstill.uk/o/fts-077cc7/\nOfficial no
- tice: https://www.find-tender.service.gov.uk/Notice/092008-2026\nSource: 
- Find a Tender and Contracts Finder (UK government)\, retrieved 2026-11-02
- . Contains public sector information licensed under the Open Government L
- icence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-077cc7/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-cf-8d07b9c0-9c13-4015-9674-3cf6487bd135@standstill.uk
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
