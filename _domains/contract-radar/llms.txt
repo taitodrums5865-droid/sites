@@ -22,6 +22,9 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [GovWin vs HigherGov vs GovSpend: 2026 Price Table](https://setasidebrief.com/federal-opportunity-search-tools-compared/): GovWin vs HigherGov vs GovSpend and free SAM.gov: published prices, demo-only tools, set-aside filters and a fair one-NAICS trial method.
+- [Govcon CRM Compared: 5 Tools, Pricing Table, Free Setup](https://setasidebrief.com/govcon-crm-capture-software-compared/): Govcon CRM options compared: Unanet, GovDash, TechnoMile, Salesforce and HubSpot pricing status, a free SAM.gov spreadsheet setup, and when to pay.
+- [Government Contract Proposal Software: Prices for 6 Tools](https://setasidebrief.com/government-proposal-software-compared/): Government contract proposal software compared: verified prices, quote-only tools, fit for 1-5 person firms, free options, a one-solicitation trial plan.
 - [SDVOSB Set Asides: 2026 Bid Checklist and VA vs FAR Table](https://setasidebrief.com/sdvosb-set-asides-2026-bid-checklist-and-va-vs-far-table/): SDVOSB set asides explained: how they differ from VetCert certification and VOSB status, VA vs FAR rules, the 5% goal, and steps to find live bids.
 - [How to Get Government Contracts for Cleaning: 7 Steps 2026](https://setasidebrief.com/how-to-get-government-contracts-for-cleaning-7-steps-2026/): How to get government contracts for cleaning: NAICS 561720 size standard, SAM.gov set-aside filters, SCA wage rules and Missouri bids in 7 steps.
 - [CAGE Code Lookup: 4 Steps to Find or Request One](https://setasidebrief.com/cage-code-lookup-4-steps-to-find-or-request-one/): CAGE code lookup made practical: search SAM.gov or DLA by name, trace codes from part numbers, and know when SAM assigns one or you request it from DLA.
