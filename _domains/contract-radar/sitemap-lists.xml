@@ -28,7 +28,7 @@
 <url><loc>https://setasidebrief.com/naics/51/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/53/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/48-49/</loc><lastmod>2026-11-03</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/11/</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/11/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/72/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/42/</loc><lastmod>2026-10-31</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/52/</loc><lastmod>2026-11-01</lastmod></url>
@@ -38,9 +38,6 @@
 <url><loc>https://setasidebrief.com/naics/92/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/21/</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/44-45/</loc><lastmod>2026-11-01</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/339112/</loc><lastmod>2026-10-31</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/333998/</loc><lastmod>2026-11-03</lastmod></url>
-<url><loc>https://setasidebrief.com/naics/541380/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/562910/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/561720/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334220/</loc><lastmod>2026-11-03</lastmod></url>
@@ -49,6 +46,7 @@
 <url><loc>https://setasidebrief.com/naics/336411/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/336413/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/531120/</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/339112/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/561621/</loc><lastmod>2026-11-01</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/332994/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/561210/</loc><lastmod>2026-11-03</lastmod></url>
@@ -72,6 +70,7 @@
 <url><loc>https://setasidebrief.com/naics/622110/</loc><lastmod>2026-11-01</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334511/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/481211/</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/541380/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/237990/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/541715/</loc><lastmod>2026-11-01</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/541990/</loc><lastmod>2026-11-03</lastmod></url>
@@ -120,6 +119,7 @@
 <url><loc>https://setasidebrief.com/naics/334412/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334416/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/332996/</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://setasidebrief.com/naics/333998/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334417/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/332999/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/naics/334310/</loc><lastmod>2026-11-03</lastmod></url>
@@ -215,8 +215,8 @@
 <url><loc>https://setasidebrief.com/agency/agricultural-marketing-service/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/indian-health-service/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/department-of-commerce/</loc><lastmod>2026-11-03</lastmod></url>
-<url><loc>https://setasidebrief.com/agency/national-aeronautics-and-space-administration/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/department-of-energy/</loc><lastmod>2026-11-03</lastmod></url>
+<url><loc>https://setasidebrief.com/agency/national-aeronautics-and-space-administration/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/federal-highway-administration/</loc><lastmod>2026-11-01</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/environmental-protection-agency/</loc><lastmod>2026-11-03</lastmod></url>
 <url><loc>https://setasidebrief.com/agency/bureau-of-indian-affairs/</loc><lastmod>2026-11-01</lastmod></url>
