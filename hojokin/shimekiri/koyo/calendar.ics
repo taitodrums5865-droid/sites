@@ -161,20 +161,6 @@ DESCRIPTION:締め切り 2026年12月25日 11:00\n地域 福岡県\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDddbMAD/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDVm7MAH@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:締め切り: 令和７年度病院勤務者勤務環境改善事
- 業・救急医療体制強化事業
-DESCRIPTION:締め切り 2026年12月31日 23:59\n地域 東京都\n上限
- 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
- s/a0WJ200000CDVm7MAH/\n出典:Jグランツ(https://www.jgrants-portal.go.
- jp/)の情報を補助金・助成金検索が編集・加工。申請の
- 前に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDVm7MAH/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDYq2MAH@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270128
@@ -434,20 +420,6 @@ DESCRIPTION:締め切り 2027年3月31日 23:59\n地域 全国\n上限額
  の情報を補助金・助成金検索が編集・加工。申請の前
  に公式ページで確かめてください。
 URL:https://aobaworks.com/hojokin/s/a0W2x000003QZLqEAO/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003l6UrUAI@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
-SUMMARY:締め切り: 令和８年度　医療分野における業務効
- 率化・職場環境改善支援事業
-DESCRIPTION:締め切り 2027年5月31日 23:59\n地域 東京都\n上限
- 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
- s/a0WfQ000003l6UrUAI/\n出典:Jグランツ(https://www.jgrants-portal.go.
- jp/)の情報を補助金・助成金検索が編集・加工。申請の
- 前に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WfQ000003l6UrUAI/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ2000000pSPQMA2@aobaworks.com

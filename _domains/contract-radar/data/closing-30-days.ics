@@ -11,246 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-7a54ae4c8b2047b9bbdd21602e4add91@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: MSG cook services
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-11-03 16:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/7a54ae4c8b2047b9bbdd21602e4add91/\nOf
- ficial notice: https://sam.gov/opp/7a54ae4c8b2047b9bbdd21602e4add91/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/7a54ae4c8b2047b9bbdd21602e4add91/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-b15e402daf0d475cb2cf2e24e1504907@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Commercial Lease Vehicles
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-03 14:00 UTC-07:00\nD
- etails: https://setasidebrief.com/o/b15e402daf0d475cb2cf2e24e1504907/\nOf
- ficial notice: https://sam.gov/opp/b15e402daf0d475cb2cf2e24e1504907/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/b15e402daf0d475cb2cf2e24e1504907/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-a5622f26b1fb45f2810c39d6907158b5@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: TX FW LGA 10(5) Steve Thompson Wildlife Drive
-DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-11-03 14:00 UTC
- -07:00\nDetails: https://setasidebrief.com/o/a5622f26b1fb45f2810c39d69071
- 58b5/\nOfficial notice: https://sam.gov/opp/a5622f26b1fb45f2810c39d690715
- 8b5/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-04. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/a5622f26b1fb45f2810c39d6907158b5/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-4874e11508e5431db2b481b7c8833a95@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Commercial Lease Vehicles
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-03 14:00 UTC-07:00\nD
- etails: https://setasidebrief.com/o/4874e11508e5431db2b481b7c8833a95/\nOf
- ficial notice: https://sam.gov/opp/4874e11508e5431db2b481b7c8833a95/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/4874e11508e5431db2b481b7c8833a95/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-23ff29f17b7349988e1844b35098ea29@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: TX FW LGA 10(5) Steve Thompson Wildlife Drive
-DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-11-03 14:00 UTC
- -07:00\nDetails: https://setasidebrief.com/o/23ff29f17b7349988e1844b35098
- ea29/\nOfficial notice: https://sam.gov/opp/23ff29f17b7349988e1844b35098e
- a29/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-04. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/23ff29f17b7349988e1844b35098ea29/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-9f32ed0bae644a1e9514d81009e55d0b@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Bearing Assembly
-DESCRIPTION:US COAST GUARD\nDeadline: 2026-11-03 16:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/9f32ed0bae644a1e9514d81009e55d0b/\nOfficial 
- notice: https://sam.gov/opp/9f32ed0bae644a1e9514d81009e55d0b/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-04. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/9f32ed0bae644a1e9514d81009e55d0b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-0abf28bc5f5c4bf69faa3f1da4a2e481@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: H112--Annual/Sem-i annual fire smoke inspections and auto 
- door services l EKH
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-03 15:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/0abf28bc5f5c4bf69faa3f1da4
- a2e481/\nOfficial notice: https://sam.gov/opp/0abf28bc5f5c4bf69faa3f1da4a
- 2e481/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-04. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/0abf28bc5f5c4bf69faa3f1da4a2e481/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-8eb99bd2d62a4aa1a966494f74e9c418@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: H112--Annual/Sem-i annual fire smoke inspections and auto 
- door services l EKH
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-03 15:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/8eb99bd2d62a4aa1a966494f74
- e9c418/\nOfficial notice: https://sam.gov/opp/8eb99bd2d62a4aa1a966494f74e
- 9c418/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-04. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/8eb99bd2d62a4aa1a966494f74e9c418/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-4d4e44ac287e4d4381e6ee13582a920c@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: RFP: N00383-27-R-B063\; Navy Repair LTC
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-03 16:00 UTC-05:00\nDetail
- s: https://setasidebrief.com/o/4d4e44ac287e4d4381e6ee13582a920c/\nOfficia
- l notice: https://sam.gov/opp/4d4e44ac287e4d4381e6ee13582a920c/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-04. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/4d4e44ac287e4d4381e6ee13582a920c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-66cd690713844ea4be6e141f37786f8b@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: TX FW LGA 10(5) Steve Thompson Wildlife Drive
-DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-11-03 14:00 UTC
- -07:00\nDetails: https://setasidebrief.com/o/66cd690713844ea4be6e141f3778
- 6f8b/\nOfficial notice: https://sam.gov/opp/66cd690713844ea4be6e141f37786
- f8b/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-04. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/66cd690713844ea4be6e141f37786f8b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-feea12a77455408e9e35bdad978f6569@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: TX FW LGA 10(5) Steve Thompson Wildlife Drive
-DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-11-03 14:00 UTC
- -07:00\nDetails: https://setasidebrief.com/o/feea12a77455408e9e35bdad978f
- 6569/\nOfficial notice: https://sam.gov/opp/feea12a77455408e9e35bdad978f6
- 569/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-04. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/feea12a77455408e9e35bdad978f6569/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-bb0c679c8fae4ebbb2426a183c3d73a5@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Aircraft Coatings and Sealants OO-ALC
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-03 15:00 UTC-06:00\nD
- etails: https://setasidebrief.com/o/bb0c679c8fae4ebbb2426a183c3d73a5/\nOf
- ficial notice: https://sam.gov/opp/bb0c679c8fae4ebbb2426a183c3d73a5/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/bb0c679c8fae4ebbb2426a183c3d73a5/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-d812d84270e241508a0722643b8a26a2@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Aircraft Coatings and Sealants OO-ALC
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-03 15:00 UTC-06:00\nD
- etails: https://setasidebrief.com/o/d812d84270e241508a0722643b8a26a2/\nOf
- ficial notice: https://sam.gov/opp/d812d84270e241508a0722643b8a26a2/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/d812d84270e241508a0722643b8a26a2/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-e2be98df3e8b40d0b42b42e32ca32bd5@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: Aircraft Coatings and Sealants OO-ALC
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-03 15:00 UTC-06:00\nD
- etails: https://setasidebrief.com/o/e2be98df3e8b40d0b42b42e32ca32bd5/\nOf
- ficial notice: https://sam.gov/opp/e2be98df3e8b40d0b42b42e32ca32bd5/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-04. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/e2be98df3e8b40d0b42b42e32ca32bd5/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-c3e08369fdde494b9eee7035768c2845@setasidebrief.com
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Closes: TX FW LGA 10(5) Steve Thompson Wildlife Drive
-DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-11-03 14:00 UTC
- -07:00\nDetails: https://setasidebrief.com/o/c3e08369fdde494b9eee7035768c
- 2845/\nOfficial notice: https://sam.gov/opp/c3e08369fdde494b9eee7035768c2
- 845/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-04. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/c3e08369fdde494b9eee7035768c2845/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-a9ce1157724c4208b6aa76ba7dbe7ced@setasidebrief.com
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
@@ -38759,6 +38519,22 @@ DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-03 14:00 UTC-06:00\nDe
  United States (17 U.S.C. 105). Unofficial\; always check the official not
  ice.
 URL:https://setasidebrief.com/o/9865dbb2af9b4dcbb83a6a83b9c9b26c/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-2b837be052b445a38d16fde3f091d59b@setasidebrief.com
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Closes: Engineering and Technical Services for Support Equipment D
+ epartment at NAWCADLKE
+DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-12-03 16:00 UTC-05:00\nDetail
+ s: https://setasidebrief.com/o/2b837be052b445a38d16fde3f091d59b/\nOfficia
+ l notice: https://sam.gov/opp/2b837be052b445a38d16fde3f091d59b/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-11-04. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/2b837be052b445a38d16fde3f091d59b/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

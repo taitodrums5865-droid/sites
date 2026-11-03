@@ -727,6 +727,19 @@ DESCRIPTION:締め切り 2026年11月30日 23:45\n地域 静岡県\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYsRMAX/
 END:VEVENT
 BEGIN:VEVENT
+UID:a0WfQ000003ot1BUAQ@aobaworks.com
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:締め切り: 東京都商店街防災力向上緊急支援事業
+DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 東京都\n上限
+ 額 30万円\nhttps://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/\n出典:
+ Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
+ 助成金検索が編集・加工。申請の前に公式ページで確
+ かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/
+END:VEVENT
+BEGIN:VEVENT
 UID:a0WJ200000CDeYeMAL@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -865,19 +878,6 @@ DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 東京都\n上限
  助成金検索が編集・加工。申請の前に公式ページで確
  かめてください。
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXvUMAX/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003ot1BUAQ@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:締め切り: 東京都商店街防災力向上緊急支援事業
-DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 東京都\n上限
- 額 30万円\nhttps://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/\n出典:
- Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
- 助成金検索が編集・加工。申請の前に公式ページで確
- かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDdNtMAL@aobaworks.com
@@ -1397,6 +1397,20 @@ DESCRIPTION:締め切り 2026年12月31日 23:59\n地域 東京都\n上限
 URL:https://aobaworks.com/hojokin/s/a0WfQ000003ePpBUAU/
 END:VEVENT
 BEGIN:VEVENT
+UID:a0WJ200000CDVm7MAH@aobaworks.com
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:締め切り: 令和７年度病院勤務者勤務環境改善事
+ 業・救急医療体制強化事業
+DESCRIPTION:締め切り 2026年12月31日 23:59\n地域 東京都\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WJ200000CDVm7MAH/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WJ200000CDVm7MAH/
+END:VEVENT
+BEGIN:VEVENT
 UID:a0WJ200000CDaTCMA1@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261231
@@ -1422,20 +1436,6 @@ DESCRIPTION:締め切り 2026年12月31日 23:59\n地域 全国\n上限額
  の情報を補助金・助成金検索が編集・加工。申請の前
  に公式ページで確かめてください。
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDY7KMAX/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WJ200000CDVm7MAH@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:締め切り: 令和７年度病院勤務者勤務環境改善事
- 業・救急医療体制強化事業
-DESCRIPTION:締め切り 2026年12月31日 23:59\n地域 東京都\n上限
- 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
- s/a0WJ200000CDVm7MAH/\n出典:Jグランツ(https://www.jgrants-portal.go.
- jp/)の情報を補助金・助成金検索が編集・加工。申請の
- 前に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDVm7MAH/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe4nMAD@aobaworks.com
@@ -3109,6 +3109,20 @@ DESCRIPTION:締め切り 2027年5月31日 19:00\n地域 東京都\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdL9MAL/
 END:VEVENT
 BEGIN:VEVENT
+UID:a0WfQ000003l6UrUAI@aobaworks.com
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:締め切り: 令和８年度　医療分野における業務効
+ 率化・職場環境改善支援事業
+DESCRIPTION:締め切り 2027年5月31日 23:59\n地域 東京都\n上限
+ 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
+ s/a0WfQ000003l6UrUAI/\n出典:Jグランツ(https://www.jgrants-portal.go.
+ jp/)の情報を補助金・助成金検索が編集・加工。申請の
+ 前に公式ページで確かめてください。
+URL:https://aobaworks.com/hojokin/s/a0WfQ000003l6UrUAI/
+END:VEVENT
+BEGIN:VEVENT
 UID:a0WfQ000003MWE2UAO@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270531
@@ -3134,20 +3148,6 @@ DESCRIPTION:締め切り 2027年5月31日 23:59\n地域 東京都\n上限
  ・助成金検索が編集・加工。申請の前に公式ページで
  確かめてください。
 URL:https://aobaworks.com/hojokin/s/a0W2x000005iqyXEAQ/
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003l6UrUAI@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20270531
-DTEND;VALUE=DATE:20270601
-SUMMARY:締め切り: 令和８年度　医療分野における業務効
- 率化・職場環境改善支援事業
-DESCRIPTION:締め切り 2027年5月31日 23:59\n地域 東京都\n上限
- 額 記載なし(公式ページで確認)\nhttps://aobaworks.com/hojokin/
- s/a0WfQ000003l6UrUAI/\n出典:Jグランツ(https://www.jgrants-portal.go.
- jp/)の情報を補助金・助成金検索が編集・加工。申請の
- 前に公式ページで確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WfQ000003l6UrUAI/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDaTOMA1@aobaworks.com

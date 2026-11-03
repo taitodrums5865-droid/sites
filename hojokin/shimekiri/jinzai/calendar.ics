@@ -175,19 +175,6 @@ DESCRIPTION:締め切り 2027年2月28日 23:59\n地域 東京都\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYnpMAH/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDXEmMAP@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270302
-SUMMARY:締め切り: 令和８年度スキルアップ支援事業
-DESCRIPTION:締め切り 2027年3月1日 00:00\n地域 東京都\n上限額
-  250万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDXEmMAP/\n出典:J
- グランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・助
- 成金検索が編集・加工。申請の前に公式ページで確か
- めてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXEmMAP/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDXMiMAP@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270301

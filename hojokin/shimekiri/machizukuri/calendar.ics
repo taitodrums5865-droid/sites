@@ -79,19 +79,6 @@ DESCRIPTION:締め切り 2026年11月30日 23:45\n地域 静岡県\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDYsRMAX/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WfQ000003ot1BUAQ@aobaworks.com
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:締め切り: 東京都商店街防災力向上緊急支援事業
-DESCRIPTION:締め切り 2026年11月30日 23:59\n地域 東京都\n上限
- 額 30万円\nhttps://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/\n出典:
- Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金・
- 助成金検索が編集・加工。申請の前に公式ページで確
- かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WfQ000003ot1BUAQ/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDYC7MAP@aobaworks.com
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261218
