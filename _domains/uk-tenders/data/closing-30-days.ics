@@ -11,39 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-cf-13509e61-6f75-4b1f-9629-849d795ce5db@standstill.uk
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Closes: A66 Northern Trans Pennine Project(NTP) - Carleton Underpa
- ss Structure (Precast Concrete Beams)
-DESCRIPTION:KIER TRANSPORTATION LIMITED | Max: £10\,000\,000\nDeadline: 2
- 026-11-05 17:00 UTC\nDetails: https://standstill.uk/o/cf-13509e61-6f75-4b
- 1f-9629-849d795ce5db/\nOfficial notice: https://www.contractsfinder.servi
- ce.gov.uk/Notice/4c524e77-8367-468b-8207-d0ec14413839\nSource: Find a Ten
- der and Contracts Finder (UK government)\, retrieved 2026-11-05. Contains
-  public sector information licensed under the Open Government Licence v3.
- 0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/cf-13509e61-6f75-4b1f-9629-849d795ce5db/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-06657a@standstill.uk
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Closes: Fire Safety Products and Associated Services
-DESCRIPTION:Kent County Council trading as Procurement Services | Max: £1
- 20\,000\,000\nDeadline: 2026-11-05 17:00 UTC\nDetails: https://standstill
- .uk/o/fts-06657a/\nOfficial notice: https://www.find-tender.service.gov.u
- k/Notice/094259-2026\nSource: Find a Tender and Contracts Finder (UK gove
- rnment)\, retrieved 2026-11-05. Contains public sector information licens
- ed under the Open Government Licence v3.0. Unofficial\; always check the 
- official notice.
-URL:https://standstill.uk/o/fts-06657a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-0785f1@standstill.uk
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
