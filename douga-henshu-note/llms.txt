@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [動画編集ソフトadobe料金|Premiere料金表と損益分岐](https://aobaworks.com/douga-henshu-note/adobe-premiere-pro-price/): 動画編集ソフト adobe 料金を公式ページで確認。Premiere単体とCreative Cloud Proの月額・年額、学生・法人価格、解約料、買い切りソフトと何か月目で逆転するかを2026年11月6日時点の表で示します。
 - [PowerDirector 365 料金|更新後と買い切り総額表](https://aobaworks.com/douga-henshu-note/powerdirector-365-price-renewal/): PowerDirector 365の料金を公式ページで確認しました。年額6,700円(通常9,280円)と更新時の請求額、買い切り版16,980円との差を、1年から5年までの総額表にまとめています。自動更新の止め方も載せています。
 - [Final Cut Pro買い切りとサブスクどっち|損益分岐表](https://aobaworks.com/douga-henshu-note/final-cut-pro-buyout-vs-subscription/): Final Cut Proは買い切りとサブスクどっちが得か、買い切り50,000円とCreator Studio月額1,780円・年額17,800円で計算。何か月で逆転するか、年数別の総額とサブスク限定機能を表にしました。
 - [動画編集ソフトの料金比較|買い切り・年額・月額を5年分まで計算](https://aobaworks.com/douga-henshu-note/douga-henshu-soft-ryokin-hikaku/): 動画編集ソフトの料金を比較。Premiere Pro・Final Cut Pro・DaVinci Resolve Studio・Filmora・PowerDirector・CapCut Proを公式価格で並べ、2・3・5年の合計と逆転する年を計算しました。
