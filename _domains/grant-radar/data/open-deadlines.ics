@@ -3003,21 +3003,6 @@ URL:https://outlaygrants.com/g/364149/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-364026@outlaygrants.com
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: Silicon Carbide Cladding Lead Test Rod Development-Phase 1
-DESCRIPTION:Idaho Field Office | Max: $62\,500\,000\nDeadline: 2026-12-07 
- 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364026/\nOfficial no
- tice: https://www.grants.gov/search-results-detail/364026\nSource: Grants
- .gov (U.S. federal government)\, retrieved 2026-11-07. U.S. government wo
- rk\; public domain in the United States (17 U.S.C. 105). Unofficial\; alw
- ays check the official notice.
-URL:https://outlaygrants.com/g/364026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-364230@outlaygrants.com
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261207
@@ -3223,6 +3208,21 @@ DESCRIPTION:Geological Survey | Max: $200\,000\nDeadline: 2026-12-07 23:59
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364235/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364026@outlaygrants.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: Silicon Carbide Cladding Lead Test Rod Development-Phase 1
+DESCRIPTION:Idaho Field Office | Max: $62\,500\,000\nDeadline: 2026-12-07 
+ 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364026/\nOfficial no
+ tice: https://www.grants.gov/search-results-detail/364026\nSource: Grants
+ .gov (U.S. federal government)\, retrieved 2026-11-07. U.S. government wo
+ rk\; public domain in the United States (17 U.S.C. 105). Unofficial\; alw
+ ays check the official notice.
+URL:https://outlaygrants.com/g/364026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5182,6 +5182,21 @@ URL:https://outlaygrants.com/g/362954/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grant-radar-364243@outlaygrants.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Closes: Major Research Instrumentation Program: (MRI)
+DESCRIPTION:U.S. National Science Foundation | Max: $4\,000\,000\nDeadline
+ : 2027-01-29 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364243/
+ \nOfficial notice: https://www.grants.gov/search-results-detail/364243\nS
+ ource: Grants.gov (U.S. federal government)\, retrieved 2026-11-07. U.S. 
+ government work\; public domain in the United States (17 U.S.C. 105). Uno
+ fficial\; always check the official notice.
+URL:https://outlaygrants.com/g/364243/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grant-radar-363833@outlaygrants.com
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20270131
@@ -6346,22 +6361,6 @@ URL:https://outlaygrants.com/g/358552/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-363906@outlaygrants.com
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
-SUMMARY:Closes: Fiscal Year (FY) 2027 Department of War Multidisciplinary 
- Research Program of the University Research Initiative (MURI)
-DESCRIPTION:Office of Naval Research | Max: $7\,500\,000\nDeadline: 2027-0
- 4-09 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363906/\nOffici
- al notice: https://www.grants.gov/search-results-detail/363906\nSource: G
- rants.gov (U.S. federal government)\, retrieved 2026-11-07. U.S. governme
- nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
- ; always check the official notice.
-URL:https://outlaygrants.com/g/363906/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-363899@outlaygrants.com
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20270409
@@ -6391,6 +6390,22 @@ DESCRIPTION:Dept of the Army -- Materiel Command | Max: $7\,500\,000\nDead
  .S. government work\; public domain in the United States (17 U.S.C. 105).
   Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363905/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-363906@outlaygrants.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Closes: Fiscal Year (FY) 2027 Department of War Multidisciplinary 
+ Research Program of the University Research Initiative (MURI)
+DESCRIPTION:Office of Naval Research | Max: $7\,500\,000\nDeadline: 2027-0
+ 4-09 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363906/\nOffici
+ al notice: https://www.grants.gov/search-results-detail/363906\nSource: G
+ rants.gov (U.S. federal government)\, retrieved 2026-11-07. U.S. governme
+ nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
+ ; always check the official notice.
+URL:https://outlaygrants.com/g/363906/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9723,22 +9738,6 @@ URL:https://outlaygrants.com/g/357946/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-357813@outlaygrants.com
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20280107
-DTEND;VALUE=DATE:20280108
-SUMMARY:Closes: NIH Research Project Grant (Parent R01 Clinical Trial Requ
- ired)
-DESCRIPTION:National Institutes of Health\nDeadline: 2028-01-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357813/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357813\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-07. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357813/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-357947@outlaygrants.com
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20280107
@@ -9913,6 +9912,22 @@ DESCRIPTION:National Institutes of Health\nDeadline: 2028-01-07 23:59 UTC-
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/357807/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-357813@outlaygrants.com
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:Closes: NIH Research Project Grant (Parent R01 Clinical Trial Requ
+ ired)
+DESCRIPTION:National Institutes of Health\nDeadline: 2028-01-07 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/357813/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/357813\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-07. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/357813/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
