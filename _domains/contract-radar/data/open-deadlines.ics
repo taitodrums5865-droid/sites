@@ -11,21 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-5f4e2c6085a240c0967711129fd224e7@setasidebrief.com
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Closes: CGC DILIGENCE TUG SERVICES
-DESCRIPTION:US COAST GUARD\nDeadline: 2026-11-07 12:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/5f4e2c6085a240c0967711129fd224e7/\nOfficial 
- notice: https://sam.gov/opp/5f4e2c6085a240c0967711129fd224e7/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-08. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/5f4e2c6085a240c0967711129fd224e7/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-72ac1d6483a84189a8625c834224d604@setasidebrief.com
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
