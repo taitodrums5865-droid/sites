@@ -11,21 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-0785e6@standstill.uk
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Closes: Grounds and hedges maintenance
-DESCRIPTION:Halstead Parish Council | Max: £28\,000\nDeadline: 2026-11-08
-  17:00 UTC\nDetails: https://standstill.uk/o/fts-0785e6/\nOfficial notice
- : https://www.find-tender.service.gov.uk/Notice/096551-2026\nSource: Find
-  a Tender and Contracts Finder (UK government)\, retrieved 2026-11-08. Co
- ntains public sector information licensed under the Open Government Licen
- ce v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0785e6/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-077ce2@standstill.uk
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
@@ -23282,6 +23267,21 @@ DESCRIPTION:Government Commercial Agency | Max: £36\,250\,000\,000\nDeadl
   2026-11-08. Contains public sector information licensed under the Open G
  overnment Licence v3.0. Unofficial\; always check the official notice.
 URL:https://standstill.uk/o/fts-05a83e/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-07b62a@standstill.uk
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Closes: UKRI-6233 Vulcan 20-20 WP 19 VTA1 Shield Door
+DESCRIPTION:UK Research & Innovation (UKRI) | Max: £600\,000\nDeadline: 2
+ 026-12-08 17:00 UTC\nDetails: https://standstill.uk/o/fts-07b62a/\nOffici
+ al notice: https://www.find-tender.service.gov.uk/Notice/105583-2026\nSou
+ rce: Find a Tender and Contracts Finder (UK government)\, retrieved 2026-
+ 11-08. Contains public sector information licensed under the Open Governm
+ ent Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-07b62a/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

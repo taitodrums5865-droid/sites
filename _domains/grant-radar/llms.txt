@@ -11,13 +11,13 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - [New Federal Grants by Category](https://outlaygrants.com/new/): Federal grants newly posted on Grants.gov in the last 30 days, grouped by category, with counts. Free, updated daily from Grants.gov.
 - [Federal Grants by Agency](https://outlaygrants.com/agency/): Open U.S. federal grants grouped by the agency that offers them (78 agencies with 2+ open grants), with counts. Updated daily from Grants.gov.
 - [Federal Grants by Category](https://outlaygrants.com/category/): Open U.S. federal grants grouped by funding category (22 categories), with the number of open opportunities in each. Updated daily from Grants.gov.
-- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Nov 8, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,460 open grants. 56 close within 7 days and 52 were posted in the la
+- [Weekly stats: federal grant opportunities](https://outlaygrants.com/stats/): As of Nov 9, 2026, our daily copy of Grants.gov (U.S. federal government) lists 1,460 open grants. 56 close within 7 days and 52 were posted in the la
 - [Free downloads: deadline calendar, CSV and embed](https://outlaygrants.com/data/): Free downloads of open federal grant opportunities deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site.
 
 ## About the data
 - Source: [Grants.gov (U.S. federal government)](https://www.grants.gov/)
 - Licence: U.S. government work; public domain in the United States (17 U.S.C. 105)
-- Last data refresh: 2026-11-08
+- Last data refresh: 2026-11-09
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides

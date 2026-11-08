@@ -11,23 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-75a8c42d59b8400fa6a5296fd3a6b12a@setasidebrief.com
-DTSTAMP:20261108T000000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Closes: R425--Temporary Operations and Maintenance Staffing Servic
- es for Skilled Trades Louisville VA Medical Center\, Kentucky
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-08 11:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/75a8c42d59b8400fa6a5296fd3
- a6b12a/\nOfficial notice: https://sam.gov/opp/75a8c42d59b8400fa6a5296fd3a
- 6b12a/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-09. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/75a8c42d59b8400fa6a5296fd3a6b12a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-84f32e1c8818494684404de747d60fa2@setasidebrief.com
 DTSTAMP:20261108T000000Z
 DTSTART;VALUE=DATE:20261108
