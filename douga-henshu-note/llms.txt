@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [clipchamp 4k 無料|無料は1080pまで・4K料金表](https://aobaworks.com/douga-henshu-note/clipchamp-4k-free/): clipchamp 4k 無料で書き出せるかを、Microsoft公式ヘルプで確かめました。無料版は1080pまで、4KはMicrosoft 365 Personal・Family・Premiumで解放。年額・月額の料金表と手順、無料で足りる人の目安つき。
 - [Premiere Pro 学生 料金|2年目と卒業後の差額表](https://aobaworks.com/douga-henshu-note/premiere-pro-student-price/): Premiere Pro 学生 料金を公式で確認。1年目22,560円、2年目以降月4,180円の学生版と単体プランの3年総額を比べ、対象条件、卒業後の価格、切り替え時期まで表で整理します。
 - [動画編集ソフトadobe料金|Premiere料金表と損益分岐](https://aobaworks.com/douga-henshu-note/adobe-premiere-pro-price/): 動画編集ソフト adobe 料金を公式ページで確認。Premiere単体とCreative Cloud Proの月額・年額、学生・法人価格、解約料、買い切りソフトと何か月目で逆転するかを2026年11月6日時点の表で示します。
 - [PowerDirector 365 料金|更新後と買い切り総額表](https://aobaworks.com/douga-henshu-note/powerdirector-365-price-renewal/): PowerDirector 365の料金を公式ページで確認しました。年額6,700円(通常9,280円)と更新時の請求額、買い切り版16,980円との差を、1年から5年までの総額表にまとめています。自動更新の止め方も載せています。
