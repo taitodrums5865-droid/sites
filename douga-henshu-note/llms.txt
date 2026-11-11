@@ -22,5 +22,5 @@
 - [動画編集ソフト無料ロゴなし比較【2026年】OSと画質の早見表](https://aobaworks.com/douga-henshu-note/video-edit-soft-free-no-logo-hikaku/): 動画編集ソフトを無料・ロゴなしで選ぶための比較です。DaVinci Resolve、Clipchamp、iMovie、Shotcut、CapCut、Canvaを、OS・書き出せる画質・ロゴが入る条件で比べ、状況別のおすすめをまとめました。
 - [CapCut無料版と有料版を比較|料金・制限](https://aobaworks.com/douga-henshu-note/capcut-free-vs-paid-difference/): CapCut無料版と有料版（Pro）を比較。2026年10月時点の料金、4K書き出し・透かしの有無、AIクレジット数を公式情報に基づき表で解説。無料版で十分な人の目安もわかります。
 - [動画編集パソコンのスペック目安|解像度・ソフト別の早見表](https://aobaworks.com/douga-henshu-note/video-editing-pc-spec-guide/): 動画編集パソコンのスペックの目安を、フルHD・4Kの解像度別とCapCut・DaVinci Resolve・Premiere Pro・Final Cut Proのソフト別に整理。自分のパソコンで編集できるか、確かめる手順もまとめました。
-- [DaVinci Resolve無料版の使い方|導入から書き出しまで](https://aobaworks.com/douga-henshu-note/davinci-resolve-free-how-to-start/): DaVinci Resolve無料版の使い方を初心者向けに解説。Studio版との違い、パソコンの目安、インストール、読み込み・カット・書き出しまでの操作順を順番に紹介し、つまずきやすい所の直し方も載せています。
+- [DaVinci Resolve無料版の使い方|導入から書き出しまで](https://aobaworks.com/douga-henshu-note/davinci-resolve-free-how-to-start/): DaVinci Resolve無料版の使い方を初心者向けに説明します。Studio版との違い(2026年11月時点の価格)、Resolve 21の動作環境、インストール、読み込み・カット・書き出しの操作順を順番に紹介し、つまずきやすい所の直し方も載せています。
 - [動画編集 無料ソフトの透かし|消える条件を主要ソフトで比較](https://aobaworks.com/douga-henshu-note/video-editor-free-watermark-conditions/): 無料の動画編集ソフトで透かしを付けずに書き出す方法を、DaVinci Resolve・Clipchamp・CapCut・Filmoraなどの公式情報で比較。透かしが付く条件と外す方法、書き出し前のチェックリストを解説します。
