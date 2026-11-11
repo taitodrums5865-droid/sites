@@ -21,6 +21,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [How to Find Federal Grants: 5 Steps on Grants.gov (2026)](https://outlaygrants.com/how-to-find-federal-grants-5-steps-on-grants-gov-2026/): How to find federal grants on Grants.gov in 5 steps: filter by eligibility, funding instrument, posted and closing dates, and agency, then check each NOFO.
 - [NOFO Meaning: How to Read a Federal Grant Notice in 5 Steps](https://outlaygrants.com/nofo-meaning-how-to-read-a-federal-grant-notice-in-5-steps/): NOFO meaning: Notice of Funding Opportunity. Read any federal grant notice in 5 steps: eligibility, deadline, award size and review criteria, in order.
 - [Grants.gov Grant Alerts: Email Setup in 4 Steps](https://outlaygrants.com/grants-gov-grant-alerts-email-setup-in-4-steps/): Set up free daily grant alerts on Grants.gov in 4 steps, filter by agency, eligibility and deadline, and catch the changes email alerts miss.
 - [Small Business Grants for Startups: 5 Federal Options (2026)](https://outlaygrants.com/small-business-grants-for-startups-5-federal-options-2026/): Small business grants for startups that accept pre-revenue applicants: SBIR/STTR Phase I amounts, eligibility table, SAM.gov steps and state options.
