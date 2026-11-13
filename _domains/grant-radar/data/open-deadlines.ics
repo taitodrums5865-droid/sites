@@ -713,22 +713,6 @@ URL:https://outlaygrants.com/g/364061/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-364143@outlaygrants.com
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: OVC and OVW FY 2026 Victim Services for Angel Families Pro
- gram – Invited Notice of Funding Opportunity
-DESCRIPTION:Office for Victims of Crime | Max: $500\,000\nDeadline: 2026-1
- 1-16 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364143/\nOffici
- al notice: https://www.grants.gov/search-results-detail/364143\nSource: G
- rants.gov (U.S. federal government)\, retrieved 2026-11-14. U.S. governme
- nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
- ; always check the official notice.
-URL:https://outlaygrants.com/g/364143/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-364067@outlaygrants.com
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -1435,6 +1419,21 @@ DESCRIPTION:Bureau of Justice Assistance | Max: $4\,000\,000\nDeadline: 20
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364037/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-363847@outlaygrants.com
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Closes: State Recreational Boating Safety (RBS) Grant Program
+DESCRIPTION:United States Coast Guard  | Max: $12\,000\,000\nDeadline: 202
+ 6-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363847/\nOff
+ icial notice: https://www.grants.gov/search-results-detail/363847\nSource
+ : Grants.gov (U.S. federal government)\, retrieved 2026-11-14. U.S. gover
+ nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
+ al\; always check the official notice.
+URL:https://outlaygrants.com/g/363847/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3410,6 +3409,22 @@ DESCRIPTION:Department of Housing and Urban Development | Max: $816\,750\n
  4. U.S. government work\; public domain in the United States (17 U.S.C. 1
  05). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/361994/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364143@outlaygrants.com
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Closes: OVC and OVW FY 2026 Victim Services for Angel Families Pro
+ gram – Invited Notice of Funding Opportunity
+DESCRIPTION:Office for Victims of Crime | Max: $500\,000\nDeadline: 2027-0
+ 1-06 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364143/\nOffici
+ al notice: https://www.grants.gov/search-results-detail/364143\nSource: G
+ rants.gov (U.S. federal government)\, retrieved 2026-11-14. U.S. governme
+ nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
+ ; always check the official notice.
+URL:https://outlaygrants.com/g/364143/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
