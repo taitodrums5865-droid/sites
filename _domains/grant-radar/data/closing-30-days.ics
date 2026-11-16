@@ -12,7 +12,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:grant-radar-358179@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Small Resea
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358569@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Applied Mathematics
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-342959@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Astronomy and Astrophysics Research Grants
@@ -58,7 +58,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-350018@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Plasma Physics
@@ -73,7 +73,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362836@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Special Program Announcement for Office of Naval Research 
@@ -89,7 +89,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362857@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: DoW Joint Warfighter Medical\, Military Medical Research a
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364009@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Fiscal Year 2026 Wildlife Crossings Pilot Program
@@ -120,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364042@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Internet Crimes Against Children On-Line Chi
@@ -137,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364040@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Expanding Youth Access to Community-Based Tr
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364041@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Family Treatment Court Program
@@ -170,7 +170,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364044@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Juvenile Justice System Enhancements
@@ -186,7 +186,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364060@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Justice System Resp
@@ -202,7 +202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364059@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Human Trafficking
@@ -217,7 +217,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364061@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: NIJ FY 2026 Crime and Justice Research
@@ -232,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364067@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: Fiscal Year 2027 Counter Unmanned Aircraft Systems (C-UAS)
@@ -248,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364035@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Emergency Planning for Juvenile Justice Resi
@@ -265,7 +265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364056@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Strategies to Support Children Exposed to Vi
@@ -282,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364058@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Mentoring for Youth Impacted by Opioids and 
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364057@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: OJJDP FY 2026 Opioid Affected Youth Initiative
@@ -315,7 +315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364049@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Closes: NIJ FY 2026 Evaluation of the Effectiveness of the Bureau 
@@ -332,181 +332,181 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357305@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Feasibility Clinical Trials of Mind and Body Interventions
   for NCCIH High Priority Research Topics (R34 Clinical Trial Required)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357305/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357305\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357305/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/357305\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/357305\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357305
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357303@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Investigator Initiated Clinical Trials of Complementary an
  d Integrative Interventions Delivered Remotely or via mHealth (R01 Clinic
  al Trial Required)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357303/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357303\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357303/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/357303\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/357303\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357303
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357301@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: NCCIH Multi-Site Feasibility Clinical Trials of Mind and B
  ody Interventions (R01 Clinical Trial Required)
 DESCRIPTION:National Institutes of Health | Max: $350\,000\nDeadline: 2026
- -11-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/357301/\nOffi
- cial notice: https://www.grants.gov/search-results-detail/357301\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://outlaygrants.com/g/357301/
+ -11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-de
+ tail/357301\nOfficial notice: https://www.grants.gov/search-results-detai
+ l/357301\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-1
+ 1-16. U.S. government work\; public domain in the United States (17 U.S.C
+ . 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357301
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357375@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Prevention and Intervention Approaches for Fetal Alcohol S
  pectrum Disorders (R61/R33 Clinical Trial Optional)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357375/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357375\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357375/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/357375\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/357375\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357375
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357205@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Secondary Analysis and Integration of Existing Data to Elu
  cidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)
 DESCRIPTION:National Institutes of Health | Max: $200\,000\nDeadline: 2026
- -11-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/357205/\nOffi
- cial notice: https://www.grants.gov/search-results-detail/357205\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://outlaygrants.com/g/357205/
+ -11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-de
+ tail/357205\nOfficial notice: https://www.grants.gov/search-results-detai
+ l/357205\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-1
+ 1-16. U.S. government work\; public domain in the United States (17 U.S.C
+ . 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357205
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362843@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Tribal Broadband Connectivity Program
 DESCRIPTION:DOC NIST ERA\nDeadline: 2026-11-17 23:59 UTC-05:00\nDetails: h
- ttps://outlaygrants.com/g/362843/\nOfficial notice: https://www.grants.go
- v/search-results-detail/362843\nSource: Grants.gov (U.S. federal governme
- nt)\, retrieved 2026-11-16. U.S. government work\; public domain in the U
- nited States (17 U.S.C. 105). Unofficial\; always check the official noti
- ce.
-URL:https://outlaygrants.com/g/362843/
+ ttps://www.grants.gov/search-results-detail/362843\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/362843\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://www.grants.gov/search-results-detail/362843
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362842@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Native Entities Grant Program
 DESCRIPTION:DOC NIST ERA\nDeadline: 2026-11-17 23:59 UTC-05:00\nDetails: h
- ttps://outlaygrants.com/g/362842/\nOfficial notice: https://www.grants.go
- v/search-results-detail/362842\nSource: Grants.gov (U.S. federal governme
- nt)\, retrieved 2026-11-16. U.S. government work\; public domain in the U
- nited States (17 U.S.C. 105). Unofficial\; always check the official noti
- ce.
-URL:https://outlaygrants.com/g/362842/
+ ttps://www.grants.gov/search-results-detail/362842\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/362842\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://www.grants.gov/search-results-detail/362842
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-360627@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Single Source for the Continuation of the Physiology of th
  e Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/360627/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/360627\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-16. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/360627/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/360627\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/360627\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/360627
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364020@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: Small Business Innovation Research and Small Business Tech
  nology Transfer Programs Phase II
 DESCRIPTION:National Institute of Food and Agriculture | Max: $650\,000\nD
- eadline: 2026-11-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/
- 364020/\nOfficial notice: https://www.grants.gov/search-results-detail/36
- 4020\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-16
- . U.S. government work\; public domain in the United States (17 U.S.C. 10
- 5). Unofficial\; always check the official notice.
-URL:https://outlaygrants.com/g/364020/
+ eadline: 2026-11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/sear
+ ch-results-detail/364020\nOfficial notice: https://www.grants.gov/search-
+ results-detail/364020\nSource: Grants.gov (U.S. federal government)\, ret
+ rieved 2026-11-16. U.S. government work\; public domain in the United Sta
+ tes (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/364020
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364197@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: OJP FY 2026 Special Attorneys Program Round 11
 DESCRIPTION:Bureau of Justice Assistance | Max: $3\,000\,000\nDeadline: 20
- 26-11-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364197/\nOf
- ficial notice: https://www.grants.gov/search-results-detail/364197\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. gove
- rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
- ial\; always check the official notice.
-URL:https://outlaygrants.com/g/364197/
+ 26-11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-
+ detail/364197\nOfficial notice: https://www.grants.gov/search-results-det
+ ail/364197\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
+ -11-16. U.S. government work\; public domain in the United States (17 U.S
+ .C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/364197
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359966@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Closes: National Science Foundation Translation to Practice (NSF T
  TP)
 DESCRIPTION:U.S. National Science Foundation | Max: $2\,000\,000\nDeadline
- : 2026-11-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/359966/
- \nOfficial notice: https://www.grants.gov/search-results-detail/359966\nS
- ource: Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. 
- government work\; public domain in the United States (17 U.S.C. 105). Uno
- fficial\; always check the official notice.
-URL:https://outlaygrants.com/g/359966/
+ : 2026-11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-resu
+ lts-detail/359966\nOfficial notice: https://www.grants.gov/search-results
+ -detail/359966\nSource: Grants.gov (U.S. federal government)\, retrieved 
+ 2026-11-16. U.S. government work\; public domain in the United States (17
+  U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/359966
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358181@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Research (R
@@ -522,7 +522,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358176@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Exploratory
@@ -538,7 +538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362961@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DOW Combat Readiness – Medical Research Program Translat
@@ -554,7 +554,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362524@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Orthopaedic\, Clinical Research Award
@@ -569,7 +569,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362849@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Rare Cancers Idea Development Award
@@ -584,7 +584,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362520@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Orthopaedic\, Applied Research Award
@@ -599,7 +599,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362850@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Rare Cancers Resource and Community Development Award
@@ -614,7 +614,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363670@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Breast Cancer\, Breakthrough Award Levels 1 and 2
@@ -629,7 +629,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363671@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Breast Cancer\, Clinical Research Extension Award
@@ -644,7 +644,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363758@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DARRP Restoration Implementation Grants (2026)
@@ -659,7 +659,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361604@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: National Science Foundation Fostering Interdisciplinary Ne
@@ -676,7 +676,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363712@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant
@@ -692,7 +692,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357256@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: NIH StrokeNet Clinical Trials and Biomarker Studies for St
@@ -709,7 +709,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357343@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Seamless Early-Stage Clinical Drug Development (Phase 1 to
@@ -726,7 +726,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362302@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Clinical Trial Award
@@ -741,7 +741,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362304@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Investigator Initiated Research Award
@@ -756,7 +756,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362305@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Translational Research Award
@@ -771,7 +771,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364132@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: FY27 Small Business Development Center State of Kansas Net
@@ -787,7 +787,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364047@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Improved quality of life of persons with disabilities in p
@@ -803,7 +803,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363920@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Easement Restoration and Stewardship
@@ -818,7 +818,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363856@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: F26AS00030 Cooperative Endangered Species Conservation Fun
@@ -834,7 +834,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363047@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Preschool Development Grant Birth Through Five (PDG B-5) S
@@ -850,7 +850,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362644@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Native American Affairs: Fiscal Year 2025 Colorado River B
@@ -866,7 +866,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364043@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: BJA FY 2026 Residential Substance Abuse Treatment for Stat
@@ -882,7 +882,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363779@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Affordable Rural Cooperative (ARC) Energy Program
@@ -897,7 +897,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364136@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Unlocking New Levels of Output and Capacity for Key Subsur
@@ -913,7 +913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364135@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Unlocking New Levels of Output and Capacity for Key Subsur
@@ -929,7 +929,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364037@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: BJA FY 2026 Justice Reinvestment Initiative: Strengthening
@@ -945,7 +945,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363847@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: State Recreational Boating Safety (RBS) Grant Program
@@ -960,7 +960,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358090@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: HEAL Initiative: Pain Research Enhancement Program (PREP) 
@@ -976,7 +976,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364062@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: NIJ FY 2026 Research on Gender Dysphoria and Violent Crime
@@ -991,7 +991,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364159@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
@@ -1007,7 +1007,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364162@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
@@ -1023,7 +1023,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364161@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
@@ -1039,7 +1039,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364158@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
@@ -1055,7 +1055,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364155@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
@@ -1071,7 +1071,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364154@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
@@ -1087,7 +1087,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364048@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on School Safety
@@ -1102,7 +1102,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359168@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Technology Pr
@@ -1118,7 +1118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359169@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): Discovery\, Validati
@@ -1134,7 +1134,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361817@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Data Coordina
@@ -1151,7 +1151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-351124@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Closes: Competing Revisions to Existing NIH Single Project Researc
@@ -1167,7 +1167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364063@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Closes: SMART FY26 Support for Adam Walsh Act Implementation Grant
@@ -1183,7 +1183,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364166@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Closes: FY27 Northeast Corridor Cooperative Agreement to the Natio
@@ -1199,7 +1199,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364167@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Closes: FY27 National Network Cooperative Agreement to the Nationa
@@ -1215,7 +1215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363992@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: F26AS00023 FY2026 Prescott Marine Mammal Rescue and Respon
@@ -1231,7 +1231,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358100@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Advanced Nuclear Energy Licensing Cost-Share Grant Program
@@ -1246,7 +1246,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364138@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research on the Abuse\, Neglect\, and Exploita
@@ -1262,7 +1262,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364140@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Violent Crime: Gang
@@ -1278,7 +1278,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364181@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Colo
@@ -1294,7 +1294,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364182@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Paci
@@ -1310,7 +1310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364183@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -1326,7 +1326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364184@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
@@ -1342,7 +1342,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364185@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -1358,7 +1358,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364186@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawaiʻi
@@ -1374,7 +1374,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364177@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1390,7 +1390,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364178@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Cali
@@ -1406,7 +1406,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364179@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Ches
@@ -1422,7 +1422,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364180@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1438,7 +1438,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364139@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Drones as First Res
@@ -1454,7 +1454,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364187@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
@@ -1470,7 +1470,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-345738@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: National Center for Construction Safety and Health Researc
@@ -1486,7 +1486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-278447@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Computational Mathematics
@@ -1501,7 +1501,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358689@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Archaeology Program Senior Research Awards
@@ -1516,7 +1516,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363815@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Accelerating Scale-up and Pre-piloting of Emerging Chemica
@@ -1532,7 +1532,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363929@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: John H. Prescott Marine Mammal Rescue Assistance Grant
@@ -1547,7 +1547,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364029@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: OVC FY 2026 Specialized Human Trafficking Assistance: Task
@@ -1563,7 +1563,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-347331@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Archaeometry (AMTRY)
@@ -1578,7 +1578,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364097@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: OJP FY 2026 Integrity in American Elections Grant Program
@@ -1593,7 +1593,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363240@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: ROSES25: A.14 Atmosphere
@@ -1608,7 +1608,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359150@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Maximizing the Scientific Value of Data Generated by the E
@@ -1626,7 +1626,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364190@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -1642,7 +1642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364191@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Rock
@@ -1658,7 +1658,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364192@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1674,7 +1674,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364193@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
@@ -1690,7 +1690,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364122@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: BJA FY 2026 Missing and Unidentified Human Remains (MUHR) 
@@ -1706,7 +1706,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356724@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
@@ -1722,7 +1722,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356723@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
@@ -1738,7 +1738,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363846@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Hispanic-Serving Institutions Education Grants Program
@@ -1753,7 +1753,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363747@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: ROSES 2025: D.4 Theoretical and Computational Astrophysics
@@ -1769,7 +1769,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364008@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: The Science\, Mathematics and Research for Transformation 
@@ -1785,7 +1785,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-355439@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: NIH Research Software Engineer (RSE) Award (R50 Clinical T
@@ -1801,7 +1801,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361876@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Specialty Crop Multi-State Grant Program 2026
@@ -1816,7 +1816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363734@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Solar System Exploration Research Virtual Institute Cooper
@@ -1832,7 +1832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-348375@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Centers of Research Excellence in Science and Technology (
@@ -1848,7 +1848,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363759@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: ROSES 2025: A.16 Cryosphere
@@ -1863,7 +1863,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364176@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1879,7 +1879,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364240@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Closes: Strengthening Moldova’s Energy and Trade Security
@@ -1894,7 +1894,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362982@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: NEA Arts and Artifacts Domestic Indemnity Program 1\, FY20
@@ -1910,7 +1910,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363804@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: MPPEP Phase 3 Invasive Wild-Caught Catfish
@@ -1925,7 +1925,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364149@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: FY26 DRL/IRF Global Request for Statements of Interest
@@ -1940,7 +1940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364230@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -1956,7 +1956,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364229@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
@@ -1972,7 +1972,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364228@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -1988,7 +1988,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364227@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great La
@@ -2004,7 +2004,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364226@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -2020,7 +2020,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364222@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: OVW Fiscal Year 2026 Grants to Tribal Domestic Violence an
@@ -2036,7 +2036,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364233@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -2052,7 +2052,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364234@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -2068,7 +2068,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364239@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Alaska C
@@ -2084,7 +2084,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364238@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
@@ -2100,7 +2100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364237@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -2116,7 +2116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364236@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawai-Pa
@@ -2132,7 +2132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364235@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
@@ -2148,7 +2148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364026@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Silicon Carbide Cladding Lead Test Rod Development-Phase 1
@@ -2163,7 +2163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361418@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Great Lakes Restoration Initiative: Community Forest and O
@@ -2179,7 +2179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-360753@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Exploratory/Developmental Grants Related to the World Trad
@@ -2195,7 +2195,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364163@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: BJA FY 2026 Postconviction Testing of DNA Evidence
@@ -2210,7 +2210,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356163@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Cooperative Research Agreements Related to the World Trade
@@ -2226,7 +2226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363880@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Closes: Landmarks of History and Culture and Summer Institutes
@@ -2241,7 +2241,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363752@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Closes: IUSE: Innovation in Two-Year College STEM Education (ITYC)
@@ -2256,7 +2256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362871@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Fiscal Year (FY) 2027 Department of the Navy (DoN) Histori
@@ -2273,7 +2273,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364087@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Institute of Education Sciences (IES): National Center for
@@ -2290,7 +2290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364086@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Institute of Education Sciences (IES): National Center on 
@@ -2307,7 +2307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364125@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Southeast New England Program (SNEP) Innovative Restoratio
@@ -2323,7 +2323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363111@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Teaching Health Center Graduate Medical Education (THCGME)
@@ -2339,7 +2339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363829@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Air Force Fiscal Year 2027 Young Investigator Program (YIP
@@ -2355,7 +2355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-351404@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Boosting Innovative GEOINT - Science & Technology Broad Ag
@@ -2371,7 +2371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359170@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Computational Modeling and Analysis of the Impact of Genom
@@ -2387,7 +2387,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358854@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Systematic Characterization of Genomic Variation to Assess
@@ -2404,7 +2404,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359277@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Genomic Variant Interactions With Other Variants Or The En
@@ -2420,7 +2420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358855@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: IGVF Data and Coordinating Center (U24 Clinical trials Not
@@ -2436,7 +2436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364253@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: US-Greece & US-UK Artist Exchange\, FY 2027
@@ -2451,7 +2451,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364267@outlaygrants.com
-DTSTAMP:20261115T000000Z
+DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Research on Complex Generics
@@ -2462,6 +2462,68 @@ DESCRIPTION:Food and Drug Administration | Max: $2\,500\,000\nDeadline: 20
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364267/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-302271@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Closes: Statistics
+DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-15 23:59 U
+ TC-05:00\nDetails: https://outlaygrants.com/g/302271/\nOfficial notice: h
+ ttps://www.grants.gov/search-results-detail/302271\nSource: Grants.gov (U
+ .S. federal government)\, retrieved 2026-11-16. U.S. government work\; pu
+ blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
+ ck the official notice.
+URL:https://outlaygrants.com/g/302271/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-361480@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Closes: Collections Stewardship
+DESCRIPTION:National Endowment for the Humanities | Max: $500\,000\nDeadli
+ ne: 2026-12-15 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/36148
+ 0/\nOfficial notice: https://www.grants.gov/search-results-detail/361480\
+ nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S
+ . government work\; public domain in the United States (17 U.S.C. 105). U
+ nofficial\; always check the official notice.
+URL:https://outlaygrants.com/g/361480/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-361896@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Closes: Arctic Doctoral Dissertation Research Improvement Grants (
+ Arctic DDRIG) Arctic Social Sciences\, Arctic System Sciences\, and Arcti
+ c Observing Network (DDRIG)
+DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-15 23:59 U
+ TC-05:00\nDetails: https://outlaygrants.com/g/361896/\nOfficial notice: h
+ ttps://www.grants.gov/search-results-detail/361896\nSource: Grants.gov (U
+ .S. federal government)\, retrieved 2026-11-16. U.S. government work\; pu
+ blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
+ ck the official notice.
+URL:https://outlaygrants.com/g/361896/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364224@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Closes: BJA FY26 State Criminal Alien Assistance Program (SCAAP)
+DESCRIPTION:Bureau of Justice Assistance | Max: $59\,000\,000\nDeadline: 2
+ 026-12-15 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364224/\nO
+ fficial notice: https://www.grants.gov/search-results-detail/364224\nSour
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-16. U.S. gov
+ ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
+ cial\; always check the official notice.
+URL:https://outlaygrants.com/g/364224/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

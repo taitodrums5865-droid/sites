@@ -409,20 +409,6 @@ DESCRIPTION:締め切り 2026年12月25日 23:59\n地域 福井県\n上限
 URL:https://aobaworks.com/hojokin/s/a0WJ200000CDXjxMAH/
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDdfpMAD@aobaworks.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:締め切り: 令和８年度　観光産業の活性化促進事
- 業補助金
-DESCRIPTION:締め切り 2026年12月25日 23:59\n地域 東京都\n上限
- 額 2\,500万円\nhttps://aobaworks.com/hojokin/s/a0WJ200000CDdfpMAD/\n出
- 典:Jグランツ(https://www.jgrants-portal.go.jp/)の情報を補助金
- ・助成金検索が編集・加工。申請の前に公式ページで
- 確かめてください。
-URL:https://aobaworks.com/hojokin/s/a0WJ200000CDdfpMAD/
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDVkeMAH@aobaworks.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261228
