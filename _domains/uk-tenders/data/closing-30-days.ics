@@ -11,135 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-0796f1@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: PME Opportunity for NDP Assessments
-DESCRIPTION:University Hospitals Birmingham NHS Foundation Trust | Max: £
- 5\,000\,000\nDeadline: 2026-11-16 17:00 UTC\nDetails: https://standstill.
- uk/o/fts-0796f1/\nOfficial notice: https://www.find-tender.service.gov.uk
- /Notice/104375-2026\nSource: Find a Tender and Contracts Finder (UK gover
- nment)\, retrieved 2026-11-17. Contains public sector information license
- d under the Open Government Licence v3.0. Unofficial\; always check the o
- fficial notice.
-URL:https://standstill.uk/o/fts-0796f1/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-cf-6601fef2-5ab6-45ae-8ef0-ea2955a17f63@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: GB-Middlesbrough: Borderlands Phase 2 Evaluation
-DESCRIPTION:Teesside University | Max: £25\,000\nDeadline: 2026-11-16 17:
- 00 UTC\nDetails: https://standstill.uk/o/cf-6601fef2-5ab6-45ae-8ef0-ea295
- 5a17f63/\nOfficial notice: https://www.contractsfinder.service.gov.uk/Not
- ice/058a0226-cc5f-4de9-9773-4346e3fbd532\nSource: Find a Tender and Contr
- acts Finder (UK government)\, retrieved 2026-11-17. Contains public secto
- r information licensed under the Open Government Licence v3.0. Unofficial
- \; always check the official notice.
-URL:https://standstill.uk/o/cf-6601fef2-5ab6-45ae-8ef0-ea2955a17f63/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-077b0d@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: For the provision of Out-of-Hour Emergency Service for hou
- seholds who are at risk of homelessness outside of standard operating tim
- es. Out of Hours emergency housing options telephone service
-DESCRIPTION:Oldham Metropolitan Borough Council | Max: £750\,000\nDeadlin
- e: 2026-11-16 17:00 UTC\nDetails: https://standstill.uk/o/fts-077b0d/\nOf
- ficial notice: https://www.find-tender.service.gov.uk/Notice/098239-2026\
- nSource: Find a Tender and Contracts Finder (UK government)\, retrieved 2
- 026-11-17. Contains public sector information licensed under the Open Gov
- ernment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-077b0d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-078a15@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: Legionella Consultancy Services
-DESCRIPTION:South Norfolk Council\nDeadline: 2026-11-16 17:00 UTC\nDetails
- : https://standstill.uk/o/fts-078a15/\nOfficial notice: https://www.find-
- tender.service.gov.uk/Notice/098176-2026\nSource: Find a Tender and Contr
- acts Finder (UK government)\, retrieved 2026-11-17. Contains public secto
- r information licensed under the Open Government Licence v3.0. Unofficial
- \; always check the official notice.
-URL:https://standstill.uk/o/fts-078a15/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-06b6e5@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: An Accommodation Based Housing Related Support Service for
-  People Experiencing Violence Against Women\, Domestic Abuse and Sexual V
- iolence (VAWDASV)
-DESCRIPTION:Wrexham County Borough Council | Max: £518\,000\nDeadline: 20
- 26-11-16 17:00 UTC\nDetails: https://standstill.uk/o/fts-06b6e5/\nOfficia
- l notice: https://www.find-tender.service.gov.uk/Notice/095992-2026\nSour
- ce: Find a Tender and Contracts Finder (UK government)\, retrieved 2026-1
- 1-17. Contains public sector information licensed under the Open Governme
- nt Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-06b6e5/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-077df2@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: Passive Fire Protection Remedial Repairs at Abbey House\, 
- Abingdon
-DESCRIPTION:Vale of White Horse District Council | Max: £220\,000\nDeadli
- ne: 2026-11-16 17:00 UTC\nDetails: https://standstill.uk/o/fts-077df2/\nO
- fficial notice: https://www.find-tender.service.gov.uk/Notice/107905-2026
- \nSource: Find a Tender and Contracts Finder (UK government)\, retrieved 
- 2026-11-17. Contains public sector information licensed under the Open Go
- vernment Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-077df2/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-0774b4@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: Risk Management and Auditing Services for Legionella and A
- ir Hygiene
-DESCRIPTION:Science Museum Group | Max: £150\,000\nDeadline: 2026-11-16 1
- 7:00 UTC\nDetails: https://standstill.uk/o/fts-0774b4/\nOfficial notice: 
- https://www.find-tender.service.gov.uk/Notice/088340-2026\nSource: Find a
-  Tender and Contracts Finder (UK government)\, retrieved 2026-11-17. Cont
- ains public sector information licensed under the Open Government Licence
-  v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0774b4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-078540@standstill.uk
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Closes: ET89NFE92026 - Inclusive Leadership and Governance Trainin
- g Programme
-DESCRIPTION:British Council | Max: £120\,000\nDeadline: 2026-11-16 18:59 
- UTC\nDetails: https://standstill.uk/o/fts-078540/\nOfficial notice: https
- ://www.find-tender.service.gov.uk/Notice/099884-2026\nSource: Find a Tend
- er and Contracts Finder (UK government)\, retrieved 2026-11-17. Contains 
- public sector information licensed under the Open Government Licence v3.0
- . Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-078540/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-078af5@standstill.uk
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -22416,6 +22287,38 @@ DESCRIPTION:UK Power Networks (Operations) Limited | Max: £1\,440\,540\nD
  en Government Licence v3.0. Unofficial\; always check the official notice
  .
 URL:https://standstill.uk/o/fts-07bcd0/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-07b368@standstill.uk
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Closes: Stoke Road\, Henlade
+DESCRIPTION:Stonewater Limited | Max: £10\,300\,000\nDeadline: 2026-12-16
+  17:00 UTC\nDetails: https://standstill.uk/o/fts-07b368/\nOfficial notice
+ : https://www.find-tender.service.gov.uk/Notice/104923-2026\nSource: Find
+  a Tender and Contracts Finder (UK government)\, retrieved 2026-11-17. Co
+ ntains public sector information licensed under the Open Government Licen
+ ce v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-07b368/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-07ba2d@standstill.uk
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Closes: Insurance and risk related services associated with Proper
+ ty\, legal liability and other general (non-life) insurable risks as requ
+ ired by Ayrshire Housing Association
+DESCRIPTION:Ayrshire Housing Association\nDeadline: 2026-12-16 17:00 UTC\n
+ Details: https://standstill.uk/o/fts-07ba2d/\nOfficial notice: https://ww
+ w.find-tender.service.gov.uk/Notice/108558-2026\nSource: Find a Tender an
+ d Contracts Finder (UK government)\, retrieved 2026-11-17. Contains publi
+ c sector information licensed under the Open Government Licence v3.0. Uno
+ fficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-07ba2d/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

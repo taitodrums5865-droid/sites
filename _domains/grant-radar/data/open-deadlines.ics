@@ -5173,6 +5173,21 @@ URL:https://outlaygrants.com/g/360626/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grant-radar-364271@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Closes: Research Facilities Act Program
+DESCRIPTION:National Institute of Food and Agriculture | Max: $30\,000\,00
+ 0\nDeadline: 2027-03-15 23:59 UTC-05:00\nDetails: https://outlaygrants.co
+ m/g/364271/\nOfficial notice: https://www.grants.gov/search-results-detai
+ l/364271\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-1
+ 1-17. U.S. government work\; public domain in the United States (17 U.S.C
+ . 105). Unofficial\; always check the official notice.
+URL:https://outlaygrants.com/g/364271/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grant-radar-364032@outlaygrants.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270316
@@ -5696,38 +5711,6 @@ URL:https://outlaygrants.com/g/357288/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-353710@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Mentored Quantitative Research Development Award (Parent K
- 25 Independent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353710/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353710\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353710/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353763@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: NIH Pathway to Independence Award (Parent K99/R00 Independ
- ent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353763/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353763\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353763/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-357377@outlaygrants.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270507
@@ -5760,22 +5743,6 @@ URL:https://outlaygrants.com/g/357378/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-353709@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Mentored Quantitative Research Development Award (Parent K
- 25 Independent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353709/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353709\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353709/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-352273@outlaygrants.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270507
@@ -5789,22 +5756,6 @@ DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/352273/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353461@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Mentored Patient-Oriented Research Career Development Awar
- d (Parent K23 Independent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353461/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353461\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353461/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5824,38 +5775,6 @@ URL:https://outlaygrants.com/g/352270/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-353792@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Midcareer Investigator Award in Patient-Oriented Research 
- (Parent K24 Independent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353792/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353792\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353792/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353793@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Midcareer Investigator Award in Patient-Oriented Research 
- (Parent K24 Independent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353793/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353793\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353793/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-352635@outlaygrants.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270507
@@ -5872,22 +5791,6 @@ URL:https://outlaygrants.com/g/352635/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:grant-radar-353756@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Independent Scientist Award (Parent K02 - Independent Clin
- ical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353756/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353756\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353756/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-352636@outlaygrants.com
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20270507
@@ -5901,118 +5804,6 @@ DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/352636/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353758@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Independent Scientist Award (Parent K02 - Independent Clin
- ical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353758/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353758\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353758/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353762@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: NIH Pathway to Independence Award (Parent K99/R00 Independ
- ent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353762/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353762\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353762/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353749@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Mentored Research Scientist Development Award (Parent K01 
- - Independent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353749/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353749\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353749/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353751@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270508
-SUMMARY:Closes: Mentored Research Scientist Development Award (Parent K01 
- - Independent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-07 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353751/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353751\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353751/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353746@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Closes: Mentored Clinical Scientist Research Career Development Aw
- ard (Parent K08 Independent Clinical Trial Not Allowed)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-08 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353746/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353746\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353746/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353745@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Closes: Mentored Clinical Scientist Research Career Development Aw
- ard (Parent K08 Independent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-08 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353745/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353745\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353745/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-353458@outlaygrants.com
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
-SUMMARY:Closes: Mentored Patient-Oriented Research Career Development Awar
- d (Parent K23 Independent Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2027-05-08 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/353458/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/353458\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/353458/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7841,6 +7632,230 @@ DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-12 23:59 UTC-
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/357474/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353792@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Midcareer Investigator Award in Patient-Oriented Research 
+ (Parent K24 Independent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353792/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353792\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353792/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353758@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Independent Scientist Award (Parent K02 - Independent Clin
+ ical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353758/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353758\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353758/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353756@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Independent Scientist Award (Parent K02 - Independent Clin
+ ical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353756/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353756\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353756/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353710@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Quantitative Research Development Award (Parent K
+ 25 Independent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353710/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353710\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353710/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353762@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: NIH Pathway to Independence Award (Parent K99/R00 Independ
+ ent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353762/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353762\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353762/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353746@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Clinical Scientist Research Career Development Aw
+ ard (Parent K08 Independent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353746/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353746\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353746/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353763@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: NIH Pathway to Independence Award (Parent K99/R00 Independ
+ ent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353763/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353763\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353763/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353749@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Research Scientist Development Award (Parent K01 
+ - Independent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353749/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353749\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353749/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353709@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Quantitative Research Development Award (Parent K
+ 25 Independent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353709/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353709\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353709/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353458@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Patient-Oriented Research Career Development Awar
+ d (Parent K23 Independent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353458/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353458\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353458/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353461@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Patient-Oriented Research Career Development Awar
+ d (Parent K23 Independent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353461/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353461\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353461/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353745@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Clinical Scientist Research Career Development Aw
+ ard (Parent K08 Independent Clinical Trial Required)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353745/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353745\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353745/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353793@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Midcareer Investigator Award in Patient-Oriented Research 
+ (Parent K24 Independent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353793/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353793\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353793/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-353751@outlaygrants.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:Closes: Mentored Research Scientist Development Award (Parent K01 
+ - Independent Clinical Trial Not Allowed)
+DESCRIPTION:National Institutes of Health\nDeadline: 2027-11-13 23:59 UTC-
+ 05:00\nDetails: https://outlaygrants.com/g/353751/\nOfficial notice: http
+ s://www.grants.gov/search-results-detail/353751\nSource: Grants.gov (U.S.
+  federal government)\, retrieved 2026-11-17. U.S. government work\; publi
+ c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
+ the official notice.
+URL:https://outlaygrants.com/g/353751/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
