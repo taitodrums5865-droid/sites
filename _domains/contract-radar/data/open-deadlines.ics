@@ -11,38 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-fc8eacd987ec4723a55793a43c65e3cd@setasidebrief.com
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: FY27 USP ATWATER A1 QUATERLY SUBSISTANCE DECEMBER 31 2026
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-1
- 8 12:30 UTC-08:00\nDetails: https://setasidebrief.com/o/fc8eacd987ec4723a
- 55793a43c65e3cd/\nOfficial notice: https://sam.gov/opp/fc8eacd987ec4723a5
- 5793a43c65e3cd/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-19. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/fc8eacd987ec4723a55793a43c65e3cd/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-9f4c4a5c5e844a80a56431bee1e983ee@setasidebrief.com
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: FY27 USP ATWATER A1 QUATERLY SUBSISTANCE DECEMBER 31 2026
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-1
- 8 12:30 UTC-08:00\nDetails: https://setasidebrief.com/o/9f4c4a5c5e844a80a
- 56431bee1e983ee/\nOfficial notice: https://sam.gov/opp/9f4c4a5c5e844a80a5
- 6431bee1e983ee/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-19. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/9f4c4a5c5e844a80a56431bee1e983ee/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-7891225f6dfc4ef8a6b9fc41903ff507@setasidebrief.com
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
