@@ -11,117 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-0794f1@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: Vehicle Livery and Associated Services
-DESCRIPTION:Devon and Cornwall Police | Max: £1\,200\,000\nDeadline: 2026
- -11-18 17:00 UTC\nDetails: https://standstill.uk/o/fts-0794f1/\nOfficial 
- notice: https://www.find-tender.service.gov.uk/Notice/103374-2026\nSource
- : Find a Tender and Contracts Finder (UK government)\, retrieved 2026-11-
- 19. Contains public sector information licensed under the Open Government
-  Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0794f1/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-0793a4@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: Video Games Exhibition - Fit Out and Graphics
-DESCRIPTION:Science Museum Group | Max: £100\,000\nDeadline: 2026-11-18 1
- 7:00 UTC\nDetails: https://standstill.uk/o/fts-0793a4/\nOfficial notice: 
- https://www.find-tender.service.gov.uk/Notice/102680-2026\nSource: Find a
-  Tender and Contracts Finder (UK government)\, retrieved 2026-11-19. Cont
- ains public sector information licensed under the Open Government Licence
-  v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0793a4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-07941e@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: Request for Quotation North Lincolnshire Rail Freight Feas
- ibility Study
-DESCRIPTION:North Lincolnshire Council | Max: £72\,000\nDeadline: 2026-11
- -18 17:00 UTC\nDetails: https://standstill.uk/o/fts-07941e/\nOfficial not
- ice: https://www.find-tender.service.gov.uk/Notice/102915-2026\nSource: F
- ind a Tender and Contracts Finder (UK government)\, retrieved 2026-11-19.
-  Contains public sector information licensed under the Open Government Li
- cence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-07941e/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-07941d@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: Request for Quotation Feasibility Study and Business Case 
- to assess the introduction of additional rail services between Doncaster 
- and Scunthorpe
-DESCRIPTION:North Lincolnshire Council | Max: £36\,000\nDeadline: 2026-11
- -18 17:00 UTC\nDetails: https://standstill.uk/o/fts-07941d/\nOfficial not
- ice: https://www.find-tender.service.gov.uk/Notice/102914-2026\nSource: F
- ind a Tender and Contracts Finder (UK government)\, retrieved 2026-11-19.
-  Contains public sector information licensed under the Open Government Li
- cence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-07941d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-078c7b@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: VENTILATION SYSTEM VERIFICATION
-DESCRIPTION:Derbyshire Support and Facilities Services Limited | Max: £55
- \,000\nDeadline: 2026-11-18 17:00 UTC\nDetails: https://standstill.uk/o/f
- ts-078c7b/\nOfficial notice: https://www.find-tender.service.gov.uk/Notic
- e/099305-2026\nSource: Find a Tender and Contracts Finder (UK government)
- \, retrieved 2026-11-19. Contains public sector information licensed unde
- r the Open Government Licence v3.0. Unofficial\; always check the officia
- l notice.
-URL:https://standstill.uk/o/fts-078c7b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-078c19@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: Provision of Payroll Services
-DESCRIPTION:THE PIRBRIGHT INSTITUTE | Max: £85\,000\nDeadline: 2026-11-18
-  17:00 UTC\nDetails: https://standstill.uk/o/fts-078c19/\nOfficial notice
- : https://www.find-tender.service.gov.uk/Notice/099125-2026\nSource: Find
-  a Tender and Contracts Finder (UK government)\, retrieved 2026-11-19. Co
- ntains public sector information licensed under the Open Government Licen
- ce v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-078c19/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-0786dd@standstill.uk
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Closes: University Hospitals Birmingham Data Cabling and Passive I
- nfrastructure Services
-DESCRIPTION:University Hospitals Birmingham NHS Foundation Trust | Max: £
- 8\,750\,000\nDeadline: 2026-11-18 17:00 UTC\nDetails: https://standstill.
- uk/o/fts-0786dd/\nOfficial notice: https://www.find-tender.service.gov.uk
- /Notice/108302-2026\nSource: Find a Tender and Contracts Finder (UK gover
- nment)\, retrieved 2026-11-19. Contains public sector information license
- d under the Open Government Licence v3.0. Unofficial\; always check the o
- fficial notice.
-URL:https://standstill.uk/o/fts-0786dd/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-fts-0790dc@standstill.uk
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -23387,6 +23276,53 @@ DESCRIPTION:London Borough of Ealing | Max: £11\,125\,000\nDeadline: 2026
  19. Contains public sector information licensed under the Open Government
   Licence v3.0. Unofficial\; always check the official notice.
 URL:https://standstill.uk/o/fts-07bdd9/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-078416@standstill.uk
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: Electrical Services
+DESCRIPTION:UK Research & Innovation (UKRI) | Max: £7\,000\,000\nDeadline
+ : 2026-12-18 17:00 UTC\nDetails: https://standstill.uk/o/fts-078416/\nOff
+ icial notice: https://www.find-tender.service.gov.uk/Notice/108909-2026\n
+ Source: Find a Tender and Contracts Finder (UK government)\, retrieved 20
+ 26-11-19. Contains public sector information licensed under the Open Gove
+ rnment Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-078416/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-0795cd@standstill.uk
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: EXTERNAL AUDIT (CRHFT & DSFS)
+DESCRIPTION:Chesterfield Royal Hospital NHS Foundation Trust | Max: £658\
+ ,885\nDeadline: 2026-12-18 17:00 UTC\nDetails: https://standstill.uk/o/ft
+ s-0795cd/\nOfficial notice: https://www.find-tender.service.gov.uk/Notice
+ /103835-2026\nSource: Find a Tender and Contracts Finder (UK government)\
+ , retrieved 2026-11-19. Contains public sector information licensed under
+  the Open Government Licence v3.0. Unofficial\; always check the official
+  notice.
+URL:https://standstill.uk/o/fts-0795cd/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-tenders-fts-07be6b@standstill.uk
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: Recreation Ground Pavilion Upgrade of Toilets\, Showers an
+ d Hot Water System
+DESCRIPTION:Trawden Forest Parish Council | Max: £40\,000\nDeadline: 2026
+ -12-18 17:00 UTC\nDetails: https://standstill.uk/o/fts-07be6b/\nOfficial 
+ notice: https://www.find-tender.service.gov.uk/Notice/109211-2026\nSource
+ : Find a Tender and Contracts Finder (UK government)\, retrieved 2026-11-
+ 19. Contains public sector information licensed under the Open Government
+  Licence v3.0. Unofficial\; always check the official notice.
+URL:https://standstill.uk/o/fts-07be6b/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

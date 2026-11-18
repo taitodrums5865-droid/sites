@@ -5,6 +5,7 @@
 記事は各サービスの公式情報を調べてまとめ、出典を示し、定期的に見直しています。
 
 ## 記事
+- [動画編集スクール 料金 相場|期間別の総額とソフト代の計算表](https://aobaworks.com/douga-henshu-note/video-editing-school-price-range/): 動画編集スクールの料金相場を公式ページの数字で整理しました。11万〜44.8万円の受講料にAdobe代を足した期間別の総額、分割手数料、サポート期間、教育訓練給付金の対象かどうかを表で比べています。
 - [Filmora料金プラン おすすめ|頻度・OS・AI別の判定表](https://aobaworks.com/douga-henshu-note/filmora-plan-osusume/): filmora 料金プランのおすすめを、使う頻度・OS・AI機能の使い方別に公式料金で判定。ベーシック・アドバンス・永続ライセンスが向かない人、無料版で足りる条件、購入手順まで表で整理します。
 - [clipchamp 4k 無料|無料は1080pまで・4K料金表](https://aobaworks.com/douga-henshu-note/clipchamp-4k-free/): clipchamp 4k 無料で書き出せるかを、Microsoft公式ヘルプで確かめました。無料版は1080pまで、4KはMicrosoft 365 Personal・Family・Premiumで解放。年額・月額の料金表と手順、無料で足りる人の目安つき。
 - [Premiere Pro 学生 料金|2年目と卒業後の差額表](https://aobaworks.com/douga-henshu-note/premiere-pro-student-price/): Premiere Pro 学生 料金を公式で確認。1年目22,560円、2年目以降月4,180円の学生版と単体プランの3年総額を比べ、対象条件、卒業後の価格、切り替え時期まで表で整理します。
