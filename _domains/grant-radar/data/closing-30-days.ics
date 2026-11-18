@@ -11,166 +11,8 @@ X-WR-CALDESC:Deadlines from Grants.gov (U.S. federal government)\, via Out
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:grant-radar-357305@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Feasibility Clinical Trials of Mind and Body Interventions
-  for NCCIH High Priority Research Topics (R34 Clinical Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://www.grants.gov/search-results-detail/357305\nOffi
- cial notice: https://www.grants.gov/search-results-detail/357305\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/357305
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-357303@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Investigator Initiated Clinical Trials of Complementary an
- d Integrative Interventions Delivered Remotely or via mHealth (R01 Clinic
- al Trial Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://www.grants.gov/search-results-detail/357303\nOffi
- cial notice: https://www.grants.gov/search-results-detail/357303\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/357303
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-357301@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: NCCIH Multi-Site Feasibility Clinical Trials of Mind and B
- ody Interventions (R01 Clinical Trial Required)
-DESCRIPTION:National Institutes of Health | Max: $350\,000\nDeadline: 2026
- -11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-de
- tail/357301\nOfficial notice: https://www.grants.gov/search-results-detai
- l/357301\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-1
- 1-18. U.S. government work\; public domain in the United States (17 U.S.C
- . 105). Unofficial\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/357301
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-357375@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Prevention and Intervention Approaches for Fetal Alcohol S
- pectrum Disorders (R61/R33 Clinical Trial Optional)
-DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://www.grants.gov/search-results-detail/357375\nOffi
- cial notice: https://www.grants.gov/search-results-detail/357375\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/357375
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-357205@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Secondary Analysis and Integration of Existing Data to Elu
- cidate Cancer Risk and Related Outcomes (R21 Clinical Trials Not Allowed)
-DESCRIPTION:National Institutes of Health | Max: $200\,000\nDeadline: 2026
- -11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-de
- tail/357205\nOfficial notice: https://www.grants.gov/search-results-detai
- l/357205\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-1
- 1-18. U.S. government work\; public domain in the United States (17 U.S.C
- . 105). Unofficial\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/357205
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-362843@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Tribal Broadband Connectivity Program
-DESCRIPTION:DOC NIST ERA\nDeadline: 2026-11-17 23:59 UTC-05:00\nDetails: h
- ttps://www.grants.gov/search-results-detail/362843\nOfficial notice: http
- s://www.grants.gov/search-results-detail/362843\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://www.grants.gov/search-results-detail/362843
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-362842@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Native Entities Grant Program
-DESCRIPTION:DOC NIST ERA\nDeadline: 2026-11-17 23:59 UTC-05:00\nDetails: h
- ttps://www.grants.gov/search-results-detail/362842\nOfficial notice: http
- s://www.grants.gov/search-results-detail/362842\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://www.grants.gov/search-results-detail/362842
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-360627@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Single Source for the Continuation of the Physiology of th
- e Weight Reduced State (POWERS) Study (U01- Clinical Trials Required)
-DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-17 23:59 UTC-
- 05:00\nDetails: https://www.grants.gov/search-results-detail/360627\nOffi
- cial notice: https://www.grants.gov/search-results-detail/360627\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
- ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
- l\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/360627
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-364020@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: Small Business Innovation Research and Small Business Tech
- nology Transfer Programs Phase II
-DESCRIPTION:National Institute of Food and Agriculture | Max: $650\,000\nD
- eadline: 2026-11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/sear
- ch-results-detail/364020\nOfficial notice: https://www.grants.gov/search-
- results-detail/364020\nSource: Grants.gov (U.S. federal government)\, ret
- rieved 2026-11-18. U.S. government work\; public domain in the United Sta
- tes (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/364020
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:grant-radar-364197@outlaygrants.com
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Closes: OJP FY 2026 Special Attorneys Program Round 11
-DESCRIPTION:Bureau of Justice Assistance | Max: $3\,000\,000\nDeadline: 20
- 26-11-17 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-
- detail/364197\nOfficial notice: https://www.grants.gov/search-results-det
- ail/364197\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
- -11-18. U.S. government work\; public domain in the United States (17 U.S
- .C. 105). Unofficial\; always check the official notice.
-URL:https://www.grants.gov/search-results-detail/364197
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:grant-radar-358181@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Research (R
@@ -178,7 +20,7 @@ SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Research (R
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-18 23:59 UTC-
  05:00\nDetails: https://www.grants.gov/search-results-detail/358181\nOffi
  cial notice: https://www.grants.gov/search-results-detail/358181\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
  ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
  l\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/358181
@@ -186,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358176@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Exploratory
@@ -194,7 +36,7 @@ SUMMARY:Closes: Ethical\, Legal and Social Implications (ELSI) Exploratory
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-18 23:59 UTC-
  05:00\nDetails: https://www.grants.gov/search-results-detail/358176\nOffi
  cial notice: https://www.grants.gov/search-results-detail/358176\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
  ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
  l\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/358176
@@ -202,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362961@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DOW Combat Readiness – Medical Research Program Translat
@@ -211,14 +53,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/362961\nOfficial notice: https://www.grants.gov/search-results-d
  etail/362961\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/362961
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362524@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Orthopaedic\, Clinical Research Award
@@ -226,14 +68,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/362524\nOfficial notice: https://www.grants.gov/search-results-d
  etail/362524\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/362524
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362849@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Rare Cancers Idea Development Award
@@ -241,14 +83,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/362849\nOfficial notice: https://www.grants.gov/search-results-d
  etail/362849\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/362849
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362520@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Orthopaedic\, Applied Research Award
@@ -256,14 +98,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/362520\nOfficial notice: https://www.grants.gov/search-results-d
  etail/362520\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/362520
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362850@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Rare Cancers Resource and Community Development Award
@@ -271,14 +113,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/362850\nOfficial notice: https://www.grants.gov/search-results-d
  etail/362850\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/362850
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363670@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Breast Cancer\, Breakthrough Award Levels 1 and 2
@@ -286,14 +128,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/363670\nOfficial notice: https://www.grants.gov/search-results-d
  etail/363670\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/363670
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363671@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DoW Breast Cancer\, Clinical Research Extension Award
@@ -301,14 +143,14 @@ DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline:
  2026-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
  s-detail/363671\nOfficial notice: https://www.grants.gov/search-results-d
  etail/363671\nSource: Grants.gov (U.S. federal government)\, retrieved 20
- 26-11-18. U.S. government work\; public domain in the United States (17 U
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
  .S.C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/363671
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363758@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: DARRP Restoration Implementation Grants (2026)
@@ -316,14 +158,14 @@ DESCRIPTION:DOC NOAA - ERA Production | Max: $100\,000\,000\nDeadline: 202
  6-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-d
  etail/363758\nOfficial notice: https://www.grants.gov/search-results-deta
  il/363758\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-
- 11-18. U.S. government work\; public domain in the United States (17 U.S.
+ 11-19. U.S. government work\; public domain in the United States (17 U.S.
  C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/363758
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361604@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: National Science Foundation Fostering Interdisciplinary Ne
@@ -332,7 +174,7 @@ SUMMARY:Closes: National Science Foundation Fostering Interdisciplinary Ne
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-11-18 23:59 U
  TC-05:00\nDetails: https://www.grants.gov/search-results-detail/361604\nO
  fficial notice: https://www.grants.gov/search-results-detail/361604\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/361604
@@ -340,7 +182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363712@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Closes: BJA FY 2026 Edward Byrne Memorial Justice Assistance Grant
@@ -349,140 +191,156 @@ DESCRIPTION:Bureau of Justice Assistance | Max: $4\,964\,030\nDeadline: 20
  26-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-
  detail/363712\nOfficial notice: https://www.grants.gov/search-results-det
  ail/363712\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
- -11-18. U.S. government work\; public domain in the United States (17 U.S
+ -11-19. U.S. government work\; public domain in the United States (17 U.S
  .C. 105). Unofficial\; always check the official notice.
 URL:https://www.grants.gov/search-results-detail/363712
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grant-radar-363913@outlaygrants.com
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Closes: BJA FY 2026 Students\, Teachers\, and Officers Preventing 
+ (STOP) School Violence Program
+DESCRIPTION:Bureau of Justice Assistance | Max: $2\,000\,000\nDeadline: 20
+ 26-11-18 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-
+ detail/363913\nOfficial notice: https://www.grants.gov/search-results-det
+ ail/363913\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
+ -11-19. U.S. government work\; public domain in the United States (17 U.S
+ .C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/363913
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:grant-radar-357256@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: NIH StrokeNet Clinical Trials and Biomarker Studies for St
  roke Treatment\, Recovery\, and Prevention (UG3/UH3 Clinical Trial Option
  al)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-19 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357256/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357256\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357256/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/357256\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/357256\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357256
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-357343@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Seamless Early-Stage Clinical Drug Development (Phase 1 to
   2a) for Novel therapeutic Agents for the Spectrum of Alzheimer's Disease
   (AD) and AD-related Dementias (ADRD) (UG3/UH3 Clinical Trial Required)
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-19 23:59 UTC-
- 05:00\nDetails: https://outlaygrants.com/g/357343/\nOfficial notice: http
- s://www.grants.gov/search-results-detail/357343\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
- c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
- the official notice.
-URL:https://outlaygrants.com/g/357343/
+ 05:00\nDetails: https://www.grants.gov/search-results-detail/357343\nOffi
+ cial notice: https://www.grants.gov/search-results-detail/357343\nSource:
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
+ ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
+ l\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/357343
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362302@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Clinical Trial Award
 DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline: 
- 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362302/\n
- Official notice: https://www.grants.gov/search-results-detail/362302\nSou
- rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. go
- vernment work\; public domain in the United States (17 U.S.C. 105). Unoff
- icial\; always check the official notice.
-URL:https://outlaygrants.com/g/362302/
+ 2026-11-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
+ s-detail/362302\nOfficial notice: https://www.grants.gov/search-results-d
+ etail/362302\nSource: Grants.gov (U.S. federal government)\, retrieved 20
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
+ .S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/362302
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362304@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Investigator Initiated Research Award
 DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline: 
- 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362304/\n
- Official notice: https://www.grants.gov/search-results-detail/362304\nSou
- rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. go
- vernment work\; public domain in the United States (17 U.S.C. 105). Unoff
- icial\; always check the official notice.
-URL:https://outlaygrants.com/g/362304/
+ 2026-11-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
+ s-detail/362304\nOfficial notice: https://www.grants.gov/search-results-d
+ etail/362304\nSource: Grants.gov (U.S. federal government)\, retrieved 20
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
+ .S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/362304
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362305@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: DoW Toxic Exposures Translational Research Award
 DESCRIPTION:Defense Health Agency Contracting Activity - DHACA\nDeadline: 
- 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362305/\n
- Official notice: https://www.grants.gov/search-results-detail/362305\nSou
- rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. go
- vernment work\; public domain in the United States (17 U.S.C. 105). Unoff
- icial\; always check the official notice.
-URL:https://outlaygrants.com/g/362305/
+ 2026-11-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-result
+ s-detail/362305\nOfficial notice: https://www.grants.gov/search-results-d
+ etail/362305\nSource: Grants.gov (U.S. federal government)\, retrieved 20
+ 26-11-19. U.S. government work\; public domain in the United States (17 U
+ .S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/362305
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364047@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Improved quality of life of persons with disabilities in p
  rovinces heavily sprayed with agent orange in Ca Mau and Quang Ngai
 DESCRIPTION:U.S. Mission to Vietnam | Max: $28\,500\,000\nDeadline: 2026-1
- 1-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364047/\nOffici
- al notice: https://www.grants.gov/search-results-detail/364047\nSource: G
- rants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governme
- nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
- ; always check the official notice.
-URL:https://outlaygrants.com/g/364047/
+ 1-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results-deta
+ il/364047\nOfficial notice: https://www.grants.gov/search-results-detail/
+ 364047\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-
+ 19. U.S. government work\; public domain in the United States (17 U.S.C. 
+ 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/364047
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363920@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: Easement Restoration and Stewardship
 DESCRIPTION:Natural Resources Conservation Service | Max: $5\,000\,000\nDe
- adline: 2026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/3
- 63920/\nOfficial notice: https://www.grants.gov/search-results-detail/363
- 920\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18.
-  U.S. government work\; public domain in the United States (17 U.S.C. 105
- ). Unofficial\; always check the official notice.
-URL:https://outlaygrants.com/g/363920/
+ adline: 2026-11-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/searc
+ h-results-detail/363920\nOfficial notice: https://www.grants.gov/search-r
+ esults-detail/363920\nSource: Grants.gov (U.S. federal government)\, retr
+ ieved 2026-11-19. U.S. government work\; public domain in the United Stat
+ es (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/363920
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364132@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Closes: FY27 Small Business Development Center State of Kansas Net
  work Rebid
 DESCRIPTION:Small Business Administration | Max: $1\,144\,946\nDeadline: 2
- 026-11-19 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364132/\nO
- fficial notice: https://www.grants.gov/search-results-detail/364132\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
- ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
- cial\; always check the official notice.
-URL:https://outlaygrants.com/g/364132/
+ 026-11-19 23:59 UTC-05:00\nDetails: https://www.grants.gov/search-results
+ -detail/364132\nOfficial notice: https://www.grants.gov/search-results-de
+ tail/364132\nSource: Grants.gov (U.S. federal government)\, retrieved 202
+ 6-11-19. U.S. government work\; public domain in the United States (17 U.
+ S.C. 105). Unofficial\; always check the official notice.
+URL:https://www.grants.gov/search-results-detail/364132
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363856@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: F26AS00030 Cooperative Endangered Species Conservation Fun
@@ -490,7 +348,7 @@ SUMMARY:Closes: F26AS00030 Cooperative Endangered Species Conservation Fun
 DESCRIPTION:Fish and Wildlife Service | Max: $14\,162\,000\nDeadline: 2026
  -11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363856/\nOffi
  cial notice: https://www.grants.gov/search-results-detail/363856\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
  ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
  l\; always check the official notice.
 URL:https://outlaygrants.com/g/363856/
@@ -498,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363047@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Preschool Development Grant Birth Through Five (PDG B-5) S
@@ -507,14 +365,14 @@ DESCRIPTION:Administration for Children and Families | Max: $15\,000\,000\
  nDeadline: 2026-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/
  g/363047/\nOfficial notice: https://www.grants.gov/search-results-detail/
  363047\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-
- 18. U.S. government work\; public domain in the United States (17 U.S.C. 
+ 19. U.S. government work\; public domain in the United States (17 U.S.C. 
  105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363047/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362644@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Native American Affairs: Fiscal Year 2025 Colorado River B
@@ -522,7 +380,7 @@ SUMMARY:Closes: Native American Affairs: Fiscal Year 2025 Colorado River B
 DESCRIPTION:Bureau of Reclamation | Max: $1\,000\,000\nDeadline: 2026-11-2
  0 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362644/\nOfficial 
  notice: https://www.grants.gov/search-results-detail/362644\nSource: Gran
- ts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government 
+ ts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government 
  work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
  lways check the official notice.
 URL:https://outlaygrants.com/g/362644/
@@ -530,7 +388,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364043@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: BJA FY 2026 Residential Substance Abuse Treatment for Stat
@@ -538,7 +396,7 @@ SUMMARY:Closes: BJA FY 2026 Residential Substance Abuse Treatment for Stat
 DESCRIPTION:Bureau of Justice Assistance | Max: $2\,200\,000\nDeadline: 20
  26-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364043/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364043\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364043/
@@ -546,14 +404,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363779@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Affordable Rural Cooperative (ARC) Energy Program
 DESCRIPTION:Rural Utilities Service | Max: $20\,000\,000\nDeadline: 2026-1
  1-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363779/\nOffici
  al notice: https://www.grants.gov/search-results-detail/363779\nSource: G
- rants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governme
+ rants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. governme
  nt work\; public domain in the United States (17 U.S.C. 105). Unofficial\
  ; always check the official notice.
 URL:https://outlaygrants.com/g/363779/
@@ -561,7 +419,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364136@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Unlocking New Levels of Output and Capacity for Key Subsur
@@ -570,14 +428,14 @@ DESCRIPTION:Advanced Research Projects Agency Energy  | Max: $5\,000\,000\
  nDeadline: 2026-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/
  g/364136/\nOfficial notice: https://www.grants.gov/search-results-detail/
  364136\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-
- 18. U.S. government work\; public domain in the United States (17 U.S.C. 
+ 19. U.S. government work\; public domain in the United States (17 U.S.C. 
  105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364136/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364135@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: Unlocking New Levels of Output and Capacity for Key Subsur
@@ -586,14 +444,14 @@ DESCRIPTION:Advanced Research Projects Agency Energy  | Max: $4\,630\,944\
  nDeadline: 2026-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/
  g/364135/\nOfficial notice: https://www.grants.gov/search-results-detail/
  364135\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-
- 18. U.S. government work\; public domain in the United States (17 U.S.C. 
+ 19. U.S. government work\; public domain in the United States (17 U.S.C. 
  105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364135/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364037@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: BJA FY 2026 Justice Reinvestment Initiative: Strengthening
@@ -601,7 +459,7 @@ SUMMARY:Closes: BJA FY 2026 Justice Reinvestment Initiative: Strengthening
 DESCRIPTION:Bureau of Justice Assistance | Max: $4\,000\,000\nDeadline: 20
  26-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364037/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364037\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364037/
@@ -609,14 +467,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363847@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Closes: State Recreational Boating Safety (RBS) Grant Program
 DESCRIPTION:United States Coast Guard  | Max: $12\,000\,000\nDeadline: 202
  6-11-20 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363847/\nOff
  icial notice: https://www.grants.gov/search-results-detail/363847\nSource
- : Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gover
+ : Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gover
  nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
  al\; always check the official notice.
 URL:https://outlaygrants.com/g/363847/
@@ -624,7 +482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358090@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: HEAL Initiative: Pain Research Enhancement Program (PREP) 
@@ -632,7 +490,7 @@ SUMMARY:Closes: HEAL Initiative: Pain Research Enhancement Program (PREP)
 DESCRIPTION:National Institutes of Health | Max: $375\,000\nDeadline: 2026
  -11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358090/\nOffi
  cial notice: https://www.grants.gov/search-results-detail/358090\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
  ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
  l\; always check the official notice.
 URL:https://outlaygrants.com/g/358090/
@@ -640,14 +498,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364062@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: NIJ FY 2026 Research on Gender Dysphoria and Violent Crime
 DESCRIPTION:National Institute of Justice | Max: $1\,000\,000\nDeadline: 2
  026-11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364062/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364062\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364062/
@@ -655,7 +513,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364159@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
@@ -663,7 +521,7 @@ SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
 DESCRIPTION:Bureau of Human Resources | Max: $3\,132\,610\nDeadline: 2026-
  11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364159/\nOffic
  ial notice: https://www.grants.gov/search-results-detail/364159\nSource: 
- Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governm
+ Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. governm
  ent work\; public domain in the United States (17 U.S.C. 105). Unofficial
  \; always check the official notice.
 URL:https://outlaygrants.com/g/364159/
@@ -671,7 +529,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364162@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
@@ -679,7 +537,7 @@ SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
 DESCRIPTION:Bureau of Human Resources | Max: $2\,813\,620\nDeadline: 2026-
  11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364162/\nOffic
  ial notice: https://www.grants.gov/search-results-detail/364162\nSource: 
- Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governm
+ Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. governm
  ent work\; public domain in the United States (17 U.S.C. 105). Unofficial
  \; always check the official notice.
 URL:https://outlaygrants.com/g/364162/
@@ -687,7 +545,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364161@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
@@ -695,7 +553,7 @@ SUMMARY:Closes: Charles B. Rangel Graduate Foreign Affairs Fellowship Prog
 DESCRIPTION:Bureau of Human Resources | Max: $85\,855\nDeadline: 2026-11-2
  3 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364161/\nOfficial 
  notice: https://www.grants.gov/search-results-detail/364161\nSource: Gran
- ts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government 
+ ts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government 
  work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
  lways check the official notice.
 URL:https://outlaygrants.com/g/364161/
@@ -703,7 +561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364158@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
@@ -711,7 +569,7 @@ SUMMARY:Closes: 2027 Thomas R. Pickering Foreign Affairs Fellowship Progra
 DESCRIPTION:Bureau of Human Resources | Max: $85\,855\nDeadline: 2026-11-2
  3 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364158/\nOfficial 
  notice: https://www.grants.gov/search-results-detail/364158\nSource: Gran
- ts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government 
+ ts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government 
  work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
  lways check the official notice.
 URL:https://outlaygrants.com/g/364158/
@@ -719,7 +577,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364155@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
@@ -727,7 +585,7 @@ SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
 DESCRIPTION:Bureau of Human Resources | Max: $85\,855\nDeadline: 2026-11-2
  3 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364155/\nOfficial 
  notice: https://www.grants.gov/search-results-detail/364155\nSource: Gran
- ts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government 
+ ts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government 
  work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
  lways check the official notice.
 URL:https://outlaygrants.com/g/364155/
@@ -735,7 +593,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364154@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
@@ -743,7 +601,7 @@ SUMMARY:Closes: 2027 Donald M. Payne International Development Graduate Fe
 DESCRIPTION:Bureau of Human Resources | Max: $2\,798\,770\nDeadline: 2026-
  11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364154/\nOffic
  ial notice: https://www.grants.gov/search-results-detail/364154\nSource: 
- Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governm
+ Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. governm
  ent work\; public domain in the United States (17 U.S.C. 105). Unofficial
  \; always check the official notice.
 URL:https://outlaygrants.com/g/364154/
@@ -751,14 +609,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364048@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on School Safety
 DESCRIPTION:National Institute of Justice | Max: $5\,000\,000\nDeadline: 2
  026-11-23 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364048/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364048\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364048/
@@ -766,7 +624,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359168@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Technology Pr
@@ -774,7 +632,7 @@ SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Technology Pr
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-23 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/359168/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/359168\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/359168/
@@ -782,7 +640,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359169@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): Discovery\, Validati
@@ -790,7 +648,7 @@ SUMMARY:Closes: Cellular Senescence Network (SenNet): Discovery\, Validati
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-23 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/359169/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/359169\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/359169/
@@ -798,7 +656,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361817@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Data Coordina
@@ -807,7 +665,7 @@ SUMMARY:Closes: Cellular Senescence Network (SenNet): SenNet Data Coordina
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-23 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/361817/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/361817\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/361817/
@@ -815,7 +673,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-351124@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Closes: Competing Revisions to Existing NIH Single Project Researc
@@ -823,7 +681,7 @@ SUMMARY:Closes: Competing Revisions to Existing NIH Single Project Researc
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-11-24 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/351124/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/351124\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/351124/
@@ -831,7 +689,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364063@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Closes: SMART FY26 Support for Adam Walsh Act Implementation Grant
@@ -839,7 +697,7 @@ SUMMARY:Closes: SMART FY26 Support for Adam Walsh Act Implementation Grant
 DESCRIPTION:SMART | Max: $400\,000\nDeadline: 2026-11-25 23:59 UTC-05:00\n
  Details: https://outlaygrants.com/g/364063/\nOfficial notice: https://www
  .grants.gov/search-results-detail/364063\nSource: Grants.gov (U.S. federa
- l government)\, retrieved 2026-11-18. U.S. government work\; public domai
+ l government)\, retrieved 2026-11-19. U.S. government work\; public domai
  n in the United States (17 U.S.C. 105). Unofficial\; always check the off
  icial notice.
 URL:https://outlaygrants.com/g/364063/
@@ -847,7 +705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364166@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Closes: FY27 Northeast Corridor Cooperative Agreement to the Natio
@@ -855,7 +713,7 @@ SUMMARY:Closes: FY27 Northeast Corridor Cooperative Agreement to the Natio
 DESCRIPTION:DOT - Federal Railroad Administration | Max: $166\,866\,475\nD
  eadline: 2026-11-27 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/
  364166/\nOfficial notice: https://www.grants.gov/search-results-detail/36
- 4166\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18
+ 4166\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19
  . U.S. government work\; public domain in the United States (17 U.S.C. 10
  5). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364166/
@@ -863,7 +721,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364167@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Closes: FY27 National Network Cooperative Agreement to the Nationa
@@ -871,7 +729,7 @@ SUMMARY:Closes: FY27 National Network Cooperative Agreement to the Nationa
 DESCRIPTION:DOT - Federal Railroad Administration | Max: $309\,586\,389\nD
  eadline: 2026-11-27 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/
  364167/\nOfficial notice: https://www.grants.gov/search-results-detail/36
- 4167\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18
+ 4167\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19
  . U.S. government work\; public domain in the United States (17 U.S.C. 10
  5). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364167/
@@ -879,7 +737,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363992@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: F26AS00023 FY2026 Prescott Marine Mammal Rescue and Respon
@@ -887,7 +745,7 @@ SUMMARY:Closes: F26AS00023 FY2026 Prescott Marine Mammal Rescue and Respon
 DESCRIPTION:Fish and Wildlife Service | Max: $150\,000\nDeadline: 2026-11-
  30 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363992/\nOfficial
   notice: https://www.grants.gov/search-results-detail/363992\nSource: Gra
- nts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government
+ nts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government
   work\; public domain in the United States (17 U.S.C. 105). Unofficial\; 
  always check the official notice.
 URL:https://outlaygrants.com/g/363992/
@@ -895,14 +753,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358100@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Advanced Nuclear Energy Licensing Cost-Share Grant Program
 DESCRIPTION:Idaho Field Office | Max: $8\,000\,000\nDeadline: 2026-11-30 2
  3:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358100/\nOfficial not
  ice: https://www.grants.gov/search-results-detail/358100\nSource: Grants.
- gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government wor
+ gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government wor
  k\; public domain in the United States (17 U.S.C. 105). Unofficial\; alwa
  ys check the official notice.
 URL:https://outlaygrants.com/g/358100/
@@ -910,7 +768,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364138@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research on the Abuse\, Neglect\, and Exploita
@@ -918,7 +776,7 @@ SUMMARY:Closes: NIJ FY 2026 Research on the Abuse\, Neglect\, and Exploita
 DESCRIPTION:National Institute of Justice | Max: $1\,800\,000\nDeadline: 2
  026-11-30 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364138/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364138\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364138/
@@ -926,7 +784,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364140@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Violent Crime: Gang
@@ -934,7 +792,7 @@ SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Violent Crime: Gang
 DESCRIPTION:National Institute of Justice | Max: $3\,000\,000\nDeadline: 2
  026-11-30 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364140/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364140\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364140/
@@ -942,7 +800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364181@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Colo
@@ -950,7 +808,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Colo
 DESCRIPTION:Geological Survey | Max: $360\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364181/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364181\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364181/
@@ -958,7 +816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364182@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Paci
@@ -966,7 +824,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Paci
 DESCRIPTION:Geological Survey | Max: $300\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364182/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364182\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364182/
@@ -974,7 +832,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364183@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -982,7 +840,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
 DESCRIPTION:Geological Survey | Max: $350\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364183/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364183\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364183/
@@ -990,7 +848,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364184@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
@@ -998,7 +856,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
 DESCRIPTION:Geological Survey | Max: $250\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364184/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364184\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364184/
@@ -1006,7 +864,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364185@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -1014,7 +872,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
 DESCRIPTION:Geological Survey | Max: $250\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364185/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364185\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364185/
@@ -1022,7 +880,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364186@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawaiʻi
@@ -1030,7 +888,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawaiʻi
 DESCRIPTION:Geological Survey | Max: $49\,994\nDeadline: 2026-11-30 23:59 
  UTC-05:00\nDetails: https://outlaygrants.com/g/364186/\nOfficial notice: 
  https://www.grants.gov/search-results-detail/364186\nSource: Grants.gov (
- U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; p
+ U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; p
  ublic domain in the United States (17 U.S.C. 105). Unofficial\; always ch
  eck the official notice.
 URL:https://outlaygrants.com/g/364186/
@@ -1038,7 +896,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364177@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1046,7 +904,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
 DESCRIPTION:Geological Survey | Max: $370\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364177/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364177\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364177/
@@ -1054,7 +912,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364178@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Cali
@@ -1062,7 +920,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Cali
 DESCRIPTION:Geological Survey | Max: $480\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364178/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364178\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364178/
@@ -1070,7 +928,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364179@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Ches
@@ -1078,7 +936,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Ches
 DESCRIPTION:Geological Survey | Max: $200\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364179/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364179\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364179/
@@ -1086,7 +944,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364180@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1094,7 +952,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
 DESCRIPTION:Geological Survey | Max: $370\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364180/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364180\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364180/
@@ -1102,7 +960,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364139@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Drones as First Res
@@ -1110,7 +968,7 @@ SUMMARY:Closes: NIJ FY 2026 Research and Evaluation on Drones as First Res
 DESCRIPTION:National Institute of Justice | Max: $3\,500\,000\nDeadline: 2
  026-11-30 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364139/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364139\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364139/
@@ -1118,7 +976,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364187@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
@@ -1126,7 +984,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
 DESCRIPTION:Geological Survey | Max: $475\,000\nDeadline: 2026-11-30 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364187/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364187\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364187/
@@ -1134,7 +992,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364275@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Closes: DOJ FY 2026 Invited to Apply – Model Cities Initiative (
@@ -1142,7 +1000,7 @@ SUMMARY:Closes: DOJ FY 2026 Invited to Apply – Model Cities Initiative (
 DESCRIPTION:Bureau of Justice Assistance | Max: $73\,005\,420\nDeadline: 2
  026-11-30 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364275/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364275\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364275/
@@ -1150,7 +1008,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-345738@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: National Center for Construction Safety and Health Researc
@@ -1159,21 +1017,21 @@ DESCRIPTION:Centers for Disease Control and Prevention - ERA | Max: $5\,75
  0\,000\nDeadline: 2026-12-01 23:59 UTC-05:00\nDetails: https://outlaygran
  ts.com/g/345738/\nOfficial notice: https://www.grants.gov/search-results-
  detail/345738\nSource: Grants.gov (U.S. federal government)\, retrieved 2
- 026-11-18. U.S. government work\; public domain in the United States (17 
+ 026-11-19. U.S. government work\; public domain in the United States (17 
  U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/345738/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-278447@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Computational Mathematics
 DESCRIPTION:U.S. National Science Foundation | Max: $1\,200\,000\nDeadline
  : 2026-12-01 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/278447/
  \nOfficial notice: https://www.grants.gov/search-results-detail/278447\nS
- ource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. 
+ ource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. 
  government work\; public domain in the United States (17 U.S.C. 105). Uno
  fficial\; always check the official notice.
 URL:https://outlaygrants.com/g/278447/
@@ -1181,14 +1039,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358689@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Archaeology Program Senior Research Awards
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-01 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/358689/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/358689\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/358689/
@@ -1196,7 +1054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363815@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Accelerating Scale-up and Pre-piloting of Emerging Chemica
@@ -1204,7 +1062,7 @@ SUMMARY:Closes: Accelerating Scale-up and Pre-piloting of Emerging Chemica
 DESCRIPTION:Golden Field Office | Max: $20\,000\,000\nDeadline: 2026-12-01
   23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363815/\nOfficial n
  otice: https://www.grants.gov/search-results-detail/363815\nSource: Grant
- s.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government w
+ s.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government w
  ork\; public domain in the United States (17 U.S.C. 105). Unofficial\; al
  ways check the official notice.
 URL:https://outlaygrants.com/g/363815/
@@ -1212,14 +1070,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363929@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: John H. Prescott Marine Mammal Rescue Assistance Grant
 DESCRIPTION:DOC NOAA - ERA Production | Max: $150\,000\nDeadline: 2026-12-
  01 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363929/\nOfficial
   notice: https://www.grants.gov/search-results-detail/363929\nSource: Gra
- nts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government
+ nts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government
   work\; public domain in the United States (17 U.S.C. 105). Unofficial\; 
  always check the official notice.
 URL:https://outlaygrants.com/g/363929/
@@ -1227,7 +1085,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364029@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: OVC FY 2026 Specialized Human Trafficking Assistance: Task
@@ -1235,7 +1093,7 @@ SUMMARY:Closes: OVC FY 2026 Specialized Human Trafficking Assistance: Task
 DESCRIPTION:Office for Victims of Crime | Max: $3\,000\,000\nDeadline: 202
  6-12-01 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364029/\nOff
  icial notice: https://www.grants.gov/search-results-detail/364029\nSource
- : Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gover
+ : Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gover
  nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
  al\; always check the official notice.
 URL:https://outlaygrants.com/g/364029/
@@ -1243,14 +1101,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-347331@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: Archaeometry (AMTRY)
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-01 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/347331/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/347331\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/347331/
@@ -1258,14 +1116,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364097@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Closes: OJP FY 2026 Integrity in American Elections Grant Program
 DESCRIPTION:Bureau of Justice Assistance | Max: $5\,000\,000\nDeadline: 20
  26-12-01 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364097/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364097\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364097/
@@ -1273,14 +1131,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363240@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: ROSES25: A.14 Atmosphere
 DESCRIPTION:NASA Headquarters\nDeadline: 2026-12-02 23:59 UTC-05:00\nDetai
  ls: https://outlaygrants.com/g/363240/\nOfficial notice: https://www.gran
  ts.gov/search-results-detail/363240\nSource: Grants.gov (U.S. federal gov
- ernment)\, retrieved 2026-11-18. U.S. government work\; public domain in 
+ ernment)\, retrieved 2026-11-19. U.S. government work\; public domain in 
  the United States (17 U.S.C. 105). Unofficial\; always check the official
   notice.
 URL:https://outlaygrants.com/g/363240/
@@ -1288,7 +1146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359150@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Maximizing the Scientific Value of Data Generated by the E
@@ -1298,7 +1156,7 @@ SUMMARY:Closes: Maximizing the Scientific Value of Data Generated by the E
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-12-02 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/359150/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/359150\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/359150/
@@ -1306,7 +1164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364190@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -1314,7 +1172,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
 DESCRIPTION:Geological Survey | Max: $490\,000\nDeadline: 2026-12-02 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364190/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364190\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364190/
@@ -1322,7 +1180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364191@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Rock
@@ -1330,7 +1188,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Rock
 DESCRIPTION:Geological Survey | Max: $495\,000\nDeadline: 2026-12-02 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364191/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364191\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364191/
@@ -1338,7 +1196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364192@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1346,7 +1204,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
 DESCRIPTION:Geological Survey | Max: $135\,000\nDeadline: 2026-12-02 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364192/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364192\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364192/
@@ -1354,7 +1212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364193@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
@@ -1362,7 +1220,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
 DESCRIPTION:Geological Survey | Max: $450\,000\nDeadline: 2026-12-02 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364193/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364193\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364193/
@@ -1370,7 +1228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364122@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Closes: BJA FY 2026 Missing and Unidentified Human Remains (MUHR) 
@@ -1378,7 +1236,7 @@ SUMMARY:Closes: BJA FY 2026 Missing and Unidentified Human Remains (MUHR)
 DESCRIPTION:Bureau of Justice Assistance | Max: $1\,000\,000\nDeadline: 20
  26-12-02 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364122/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364122\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364122/
@@ -1386,7 +1244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356724@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
@@ -1394,7 +1252,7 @@ SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-12-03 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/356724/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/356724\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/356724/
@@ -1402,7 +1260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356723@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
@@ -1410,7 +1268,7 @@ SUMMARY:Closes: Emerging Global Leader Award (K43 Independent Clinical Tri
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-12-03 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/356723/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/356723\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/356723/
@@ -1418,7 +1276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363846@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: Hispanic-Serving Institutions Education Grants Program
@@ -1426,14 +1284,14 @@ DESCRIPTION:National Institute of Food and Agriculture | Max: $1\,200\,000
  \nDeadline: 2026-12-03 23:59 UTC-05:00\nDetails: https://outlaygrants.com
  /g/363846/\nOfficial notice: https://www.grants.gov/search-results-detail
  /363846\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11
- -18. U.S. government work\; public domain in the United States (17 U.S.C.
+ -19. U.S. government work\; public domain in the United States (17 U.S.C.
   105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363846/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363747@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: ROSES 2025: D.4 Theoretical and Computational Astrophysics
@@ -1441,7 +1299,7 @@ SUMMARY:Closes: ROSES 2025: D.4 Theoretical and Computational Astrophysics
 DESCRIPTION:NASA Headquarters\nDeadline: 2026-12-03 23:59 UTC-05:00\nDetai
  ls: https://outlaygrants.com/g/363747/\nOfficial notice: https://www.gran
  ts.gov/search-results-detail/363747\nSource: Grants.gov (U.S. federal gov
- ernment)\, retrieved 2026-11-18. U.S. government work\; public domain in 
+ ernment)\, retrieved 2026-11-19. U.S. government work\; public domain in 
  the United States (17 U.S.C. 105). Unofficial\; always check the official
   notice.
 URL:https://outlaygrants.com/g/363747/
@@ -1449,7 +1307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364008@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Closes: The Science\, Mathematics and Research for Transformation 
@@ -1458,14 +1316,14 @@ DESCRIPTION:Dept of the Army -- Materiel Command | Max: $1\,300\,000\,000\
  nDeadline: 2026-12-03 23:59 UTC-05:00\nDetails: https://outlaygrants.com/
  g/364008/\nOfficial notice: https://www.grants.gov/search-results-detail/
  364008\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-
- 18. U.S. government work\; public domain in the United States (17 U.S.C. 
+ 19. U.S. government work\; public domain in the United States (17 U.S.C. 
  105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364008/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-355439@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: NIH Research Software Engineer (RSE) Award (R50 Clinical T
@@ -1473,7 +1331,7 @@ SUMMARY:Closes: NIH Research Software Engineer (RSE) Award (R50 Clinical T
 DESCRIPTION:National Institutes of Health\nDeadline: 2026-12-04 23:59 UTC-
  05:00\nDetails: https://outlaygrants.com/g/355439/\nOfficial notice: http
  s://www.grants.gov/search-results-detail/355439\nSource: Grants.gov (U.S.
-  federal government)\, retrieved 2026-11-18. U.S. government work\; publi
+  federal government)\, retrieved 2026-11-19. U.S. government work\; publi
  c domain in the United States (17 U.S.C. 105). Unofficial\; always check 
  the official notice.
 URL:https://outlaygrants.com/g/355439/
@@ -1481,14 +1339,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361876@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Specialty Crop Multi-State Grant Program 2026
 DESCRIPTION:Agricultural Marketing Service | Max: $1\,000\,000\nDeadline: 
  2026-12-04 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/361876/\n
  Official notice: https://www.grants.gov/search-results-detail/361876\nSou
- rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. go
+ rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. go
  vernment work\; public domain in the United States (17 U.S.C. 105). Unoff
  icial\; always check the official notice.
 URL:https://outlaygrants.com/g/361876/
@@ -1496,7 +1354,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363734@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Solar System Exploration Research Virtual Institute Cooper
@@ -1504,7 +1362,7 @@ SUMMARY:Closes: Solar System Exploration Research Virtual Institute Cooper
 DESCRIPTION:NASA Headquarters\nDeadline: 2026-12-04 23:59 UTC-05:00\nDetai
  ls: https://outlaygrants.com/g/363734/\nOfficial notice: https://www.gran
  ts.gov/search-results-detail/363734\nSource: Grants.gov (U.S. federal gov
- ernment)\, retrieved 2026-11-18. U.S. government work\; public domain in 
+ ernment)\, retrieved 2026-11-19. U.S. government work\; public domain in 
  the United States (17 U.S.C. 105). Unofficial\; always check the official
   notice.
 URL:https://outlaygrants.com/g/363734/
@@ -1512,7 +1370,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-348375@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Centers of Research Excellence in Science and Technology (
@@ -1520,7 +1378,7 @@ SUMMARY:Closes: Centers of Research Excellence in Science and Technology (
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-04 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/348375/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/348375\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/348375/
@@ -1528,14 +1386,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363759@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: ROSES 2025: A.16 Cryosphere
 DESCRIPTION:NASA Headquarters\nDeadline: 2026-12-04 23:59 UTC-05:00\nDetai
  ls: https://outlaygrants.com/g/363759/\nOfficial notice: https://www.gran
  ts.gov/search-results-detail/363759\nSource: Grants.gov (U.S. federal gov
- ernment)\, retrieved 2026-11-18. U.S. government work\; public domain in 
+ ernment)\, retrieved 2026-11-19. U.S. government work\; public domain in 
  the United States (17 U.S.C. 105). Unofficial\; always check the official
   notice.
 URL:https://outlaygrants.com/g/363759/
@@ -1543,7 +1401,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364176@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
@@ -1551,7 +1409,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with the Grea
 DESCRIPTION:Geological Survey | Max: $350\,000\nDeadline: 2026-12-04 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364176/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364176\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364176/
@@ -1559,7 +1417,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364240@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Closes: Strengthening Moldova’s Energy and Trade Security
@@ -1567,14 +1425,14 @@ DESCRIPTION:Bureau of European and Eurasian Affairs | Max: $40\,000\,000\n
  Deadline: 2026-12-06 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g
  /364240/\nOfficial notice: https://www.grants.gov/search-results-detail/3
  64240\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-1
- 8. U.S. government work\; public domain in the United States (17 U.S.C. 1
+ 9. U.S. government work\; public domain in the United States (17 U.S.C. 1
  05). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364240/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362982@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: NEA Arts and Artifacts Domestic Indemnity Program 1\, FY20
@@ -1582,7 +1440,7 @@ SUMMARY:Closes: NEA Arts and Artifacts Domestic Indemnity Program 1\, FY20
 DESCRIPTION:National Endowment for the Arts | Max: $100\,000\nDeadline: 20
  26-12-07 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362982/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/362982\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/362982/
@@ -1590,14 +1448,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363804@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: MPPEP Phase 3 Invasive Wild-Caught Catfish
 DESCRIPTION:Rural Business-Cooperative Service  | Max: $2\,000\,000\nDeadl
  ine: 2026-12-07 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/3638
  04/\nOfficial notice: https://www.grants.gov/search-results-detail/363804
- \nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.
+ \nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.
  S. government work\; public domain in the United States (17 U.S.C. 105). 
  Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363804/
@@ -1605,7 +1463,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364149@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: FY26 DRL/IRF Global Request for Statements of Interest
@@ -1613,14 +1471,14 @@ DESCRIPTION:Bureau of Democracy Human Rights and Labor | Max: $3\,000\,000
  \nDeadline: 2026-12-07 23:59 UTC-05:00\nDetails: https://outlaygrants.com
  /g/364149/\nOfficial notice: https://www.grants.gov/search-results-detail
  /364149\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11
- -18. U.S. government work\; public domain in the United States (17 U.S.C.
+ -19. U.S. government work\; public domain in the United States (17 U.S.C.
   105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364149/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364230@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -1628,7 +1486,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
 DESCRIPTION:Geological Survey | Max: $475\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364230/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364230\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364230/
@@ -1636,7 +1494,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364229@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
@@ -1644,7 +1502,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Chesapea
 DESCRIPTION:Geological Survey | Max: $180\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364229/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364229\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364229/
@@ -1652,7 +1510,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364228@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
@@ -1660,7 +1518,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ba
 DESCRIPTION:Geological Survey | Max: $300\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364228/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364228\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364228/
@@ -1668,7 +1526,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364227@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great La
@@ -1676,7 +1534,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great La
 DESCRIPTION:Geological Survey | Max: $377\,021\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364227/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364227\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364227/
@@ -1684,7 +1542,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364226@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -1692,7 +1550,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
 DESCRIPTION:Geological Survey | Max: $341\,565\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364226/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364226\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364226/
@@ -1700,7 +1558,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364222@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: OVW Fiscal Year 2026 Grants to Tribal Domestic Violence an
@@ -1708,7 +1566,7 @@ SUMMARY:Closes: OVW Fiscal Year 2026 Grants to Tribal Domestic Violence an
 DESCRIPTION:Office on Violence Against Women | Max: $342\,358\nDeadline: 2
  026-12-07 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364222/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364222\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364222/
@@ -1716,7 +1574,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364233@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -1724,7 +1582,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
 DESCRIPTION:Geological Survey | Max: $300\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364233/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364233\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364233/
@@ -1732,7 +1590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364234@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
@@ -1740,7 +1598,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Great Ri
 DESCRIPTION:Geological Survey | Max: $300\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364234/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364234\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364234/
@@ -1748,7 +1606,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364239@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Alaska C
@@ -1756,7 +1614,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Alaska C
 DESCRIPTION:Geological Survey | Max: $234\,460\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364239/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364239\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364239/
@@ -1764,7 +1622,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364238@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
@@ -1772,7 +1630,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Colorado
 DESCRIPTION:Geological Survey | Max: $150\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364238/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364238\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364238/
@@ -1780,7 +1638,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364237@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
@@ -1788,7 +1646,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Rocky Mo
 DESCRIPTION:Geological Survey | Max: $145\,220\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364237/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364237\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364237/
@@ -1796,7 +1654,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364236@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawai-Pa
@@ -1804,7 +1662,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Hawai-Pa
 DESCRIPTION:Geological Survey | Max: $49\,844\nDeadline: 2026-12-07 23:59 
  UTC-05:00\nDetails: https://outlaygrants.com/g/364236/\nOfficial notice: 
  https://www.grants.gov/search-results-detail/364236\nSource: Grants.gov (
- U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; p
+ U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; p
  ublic domain in the United States (17 U.S.C. 105). Unofficial\; always ch
  eck the official notice.
 URL:https://outlaygrants.com/g/364236/
@@ -1812,7 +1670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364235@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
@@ -1820,7 +1678,7 @@ SUMMARY:Closes: Cooperative Agreement for affiliated Partner with Californ
 DESCRIPTION:Geological Survey | Max: $200\,000\nDeadline: 2026-12-07 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/364235/\nOfficial notice:
   https://www.grants.gov/search-results-detail/364235\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/364235/
@@ -1828,14 +1686,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364026@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Closes: Silicon Carbide Cladding Lead Test Rod Development-Phase 1
 DESCRIPTION:Idaho Field Office | Max: $62\,500\,000\nDeadline: 2026-12-07 
  23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364026/\nOfficial no
  tice: https://www.grants.gov/search-results-detail/364026\nSource: Grants
- .gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government wo
+ .gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government wo
  rk\; public domain in the United States (17 U.S.C. 105). Unofficial\; alw
  ays check the official notice.
 URL:https://outlaygrants.com/g/364026/
@@ -1843,7 +1701,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361418@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Great Lakes Restoration Initiative: Community Forest and O
@@ -1851,7 +1709,7 @@ SUMMARY:Closes: Great Lakes Restoration Initiative: Community Forest and O
 DESCRIPTION:Forest Service | Max: $1\,000\,000\nDeadline: 2026-12-08 23:59
   UTC-05:00\nDetails: https://outlaygrants.com/g/361418/\nOfficial notice:
   https://www.grants.gov/search-results-detail/361418\nSource: Grants.gov 
- (U.S. federal government)\, retrieved 2026-11-18. U.S. government work\; 
+ (U.S. federal government)\, retrieved 2026-11-19. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://outlaygrants.com/g/361418/
@@ -1859,7 +1717,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-360753@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Exploratory/Developmental Grants Related to the World Trad
@@ -1868,21 +1726,21 @@ DESCRIPTION:Centers for Disease Control and Prevention - ERA | Max: $365\,
  000\nDeadline: 2026-12-08 23:59 UTC-05:00\nDetails: https://outlaygrants.
  com/g/360753/\nOfficial notice: https://www.grants.gov/search-results-det
  ail/360753\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
- -11-18. U.S. government work\; public domain in the United States (17 U.S
+ -11-19. U.S. government work\; public domain in the United States (17 U.S
  .C. 105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/360753/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364163@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: BJA FY 2026 Postconviction Testing of DNA Evidence
 DESCRIPTION:Bureau of Justice Assistance | Max: $1\,000\,000\nDeadline: 20
  26-12-08 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364163/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364163\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364163/
@@ -1890,7 +1748,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-356163@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Closes: Cooperative Research Agreements Related to the World Trade
@@ -1899,21 +1757,21 @@ DESCRIPTION:Centers for Disease Control and Prevention - ERA | Max: $550\,
  000\nDeadline: 2026-12-08 23:59 UTC-05:00\nDetails: https://outlaygrants.
  com/g/356163/\nOfficial notice: https://www.grants.gov/search-results-det
  ail/356163\nSource: Grants.gov (U.S. federal government)\, retrieved 2026
- -11-18. U.S. government work\; public domain in the United States (17 U.S
+ -11-19. U.S. government work\; public domain in the United States (17 U.S
  .C. 105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/356163/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363880@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Closes: Landmarks of History and Culture and Summer Institutes
 DESCRIPTION:National Endowment for the Humanities | Max: $460\,000\nDeadli
  ne: 2026-12-09 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/36388
  0/\nOfficial notice: https://www.grants.gov/search-results-detail/363880\
- nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S
+ nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S
  . government work\; public domain in the United States (17 U.S.C. 105). U
  nofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363880/
@@ -1921,14 +1779,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363752@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Closes: IUSE: Innovation in Two-Year College STEM Education (ITYC)
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-09 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/363752/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/363752\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/363752/
@@ -1936,7 +1794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362871@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Fiscal Year (FY) 2027 Department of the Navy (DoN) Histori
@@ -1945,7 +1803,7 @@ SUMMARY:Closes: Fiscal Year (FY) 2027 Department of the Navy (DoN) Histori
 DESCRIPTION:Office of Naval Research | Max: $525\,000\nDeadline: 2026-12-1
  1 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362871/\nOfficial 
  notice: https://www.grants.gov/search-results-detail/362871\nSource: Gran
- ts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government 
+ ts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government 
  work\; public domain in the United States (17 U.S.C. 105). Unofficial\; a
  lways check the official notice.
 URL:https://outlaygrants.com/g/362871/
@@ -1953,7 +1811,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364087@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Institute of Education Sciences (IES): National Center for
@@ -1962,7 +1820,7 @@ SUMMARY:Closes: Institute of Education Sciences (IES): National Center for
 DESCRIPTION:Department of Education | Max: $3\,750\,000\nDeadline: 2026-12
  -11 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364087/\nOfficia
  l notice: https://www.grants.gov/search-results-detail/364087\nSource: Gr
- ants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. governmen
+ ants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. governmen
  t work\; public domain in the United States (17 U.S.C. 105). Unofficial\;
   always check the official notice.
 URL:https://outlaygrants.com/g/364087/
@@ -1970,7 +1828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364086@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Institute of Education Sciences (IES): National Center on 
@@ -1979,7 +1837,7 @@ SUMMARY:Closes: Institute of Education Sciences (IES): National Center on
 DESCRIPTION:Department of Education | Max: $500\,000\nDeadline: 2026-12-11
   23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364086/\nOfficial n
  otice: https://www.grants.gov/search-results-detail/364086\nSource: Grant
- s.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government w
+ s.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government w
  ork\; public domain in the United States (17 U.S.C. 105). Unofficial\; al
  ways check the official notice.
 URL:https://outlaygrants.com/g/364086/
@@ -1987,7 +1845,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364125@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Southeast New England Program (SNEP) Innovative Restoratio
@@ -1995,7 +1853,7 @@ SUMMARY:Closes: Southeast New England Program (SNEP) Innovative Restoratio
 DESCRIPTION:Environmental Protection Agency\nDeadline: 2026-12-11 23:59 UT
  C-05:00\nDetails: https://outlaygrants.com/g/364125/\nOfficial notice: ht
  tps://www.grants.gov/search-results-detail/364125\nSource: Grants.gov (U.
- S. federal government)\, retrieved 2026-11-18. U.S. government work\; pub
+ S. federal government)\, retrieved 2026-11-19. U.S. government work\; pub
  lic domain in the United States (17 U.S.C. 105). Unofficial\; always chec
  k the official notice.
 URL:https://outlaygrants.com/g/364125/
@@ -2003,7 +1861,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363111@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Teaching Health Center Graduate Medical Education (THCGME)
@@ -2012,14 +1870,14 @@ DESCRIPTION:Health Resources and Services Administration | Max: $2\,880\,0
  00\nDeadline: 2026-12-11 23:59 UTC-05:00\nDetails: https://outlaygrants.c
  om/g/363111/\nOfficial notice: https://www.grants.gov/search-results-deta
  il/363111\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-
- 11-18. U.S. government work\; public domain in the United States (17 U.S.
+ 11-19. U.S. government work\; public domain in the United States (17 U.S.
  C. 105). Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363111/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-363829@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Closes: Air Force Fiscal Year 2027 Young Investigator Program (YIP
@@ -2027,7 +1885,7 @@ SUMMARY:Closes: Air Force Fiscal Year 2027 Young Investigator Program (YIP
 DESCRIPTION:Air Force Office of Scientific Research | Max: $450\,000\nDead
  line: 2026-12-11 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/363
  829/\nOfficial notice: https://www.grants.gov/search-results-detail/36382
- 9\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U
+ 9\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U
  .S. government work\; public domain in the United States (17 U.S.C. 105).
   Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/363829/
@@ -2035,7 +1893,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-351404@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Boosting Innovative GEOINT - Science & Technology Broad Ag
@@ -2043,7 +1901,7 @@ SUMMARY:Closes: Boosting Innovative GEOINT - Science & Technology Broad Ag
 DESCRIPTION:National Geospatial-Intelligence Agency \nDeadline: 2026-12-14
   23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/351404/\nOfficial n
  otice: https://www.grants.gov/search-results-detail/351404\nSource: Grant
- s.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government w
+ s.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government w
  ork\; public domain in the United States (17 U.S.C. 105). Unofficial\; al
  ways check the official notice.
 URL:https://outlaygrants.com/g/351404/
@@ -2051,7 +1909,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359170@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Computational Modeling and Analysis of the Impact of Genom
@@ -2059,7 +1917,7 @@ SUMMARY:Closes: Computational Modeling and Analysis of the Impact of Genom
 DESCRIPTION:National Institutes of Health | Max: $800\,000\nDeadline: 2026
  -12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/359170/\nOffi
  cial notice: https://www.grants.gov/search-results-detail/359170\nSource:
-  Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. govern
+  Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. govern
  ment work\; public domain in the United States (17 U.S.C. 105). Unofficia
  l\; always check the official notice.
 URL:https://outlaygrants.com/g/359170/
@@ -2067,7 +1925,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358854@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Systematic Characterization of Genomic Variation to Assess
@@ -2076,7 +1934,7 @@ SUMMARY:Closes: Systematic Characterization of Genomic Variation to Assess
 DESCRIPTION:National Institutes of Health | Max: $2\,000\,000\nDeadline: 2
  026-12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358854/\nO
  fficial notice: https://www.grants.gov/search-results-detail/358854\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/358854/
@@ -2084,7 +1942,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-359277@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Genomic Variant Interactions With Other Variants Or The En
@@ -2092,7 +1950,7 @@ SUMMARY:Closes: Genomic Variant Interactions With Other Variants Or The En
 DESCRIPTION:National Institutes of Health | Max: $1\,500\,000\nDeadline: 2
  026-12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/359277/\nO
  fficial notice: https://www.grants.gov/search-results-detail/359277\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/359277/
@@ -2100,7 +1958,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-358855@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: IGVF Data and Coordinating Center (U24 Clinical trials Not
@@ -2108,7 +1966,7 @@ SUMMARY:Closes: IGVF Data and Coordinating Center (U24 Clinical trials Not
 DESCRIPTION:National Institutes of Health | Max: $4\,000\,000\nDeadline: 2
  026-12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/358855/\nO
  fficial notice: https://www.grants.gov/search-results-detail/358855\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/358855/
@@ -2116,14 +1974,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364253@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: US-Greece & US-UK Artist Exchange\, FY 2027
 DESCRIPTION:National Endowment for the Arts | Max: $1\,000\,000\nDeadline:
   2026-12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364253/\
  nOfficial notice: https://www.grants.gov/search-results-detail/364253\nSo
- urce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. g
+ urce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. g
  overnment work\; public domain in the United States (17 U.S.C. 105). Unof
  ficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364253/
@@ -2131,14 +1989,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364267@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Closes: Research on Complex Generics
 DESCRIPTION:Food and Drug Administration | Max: $2\,500\,000\nDeadline: 20
  26-12-14 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364267/\nOf
  ficial notice: https://www.grants.gov/search-results-detail/364267\nSourc
- e: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gove
+ e: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gove
  rnment work\; public domain in the United States (17 U.S.C. 105). Unoffic
  ial\; always check the official notice.
 URL:https://outlaygrants.com/g/364267/
@@ -2146,14 +2004,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-302271@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Closes: Statistics
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-15 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/302271/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/302271\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/302271/
@@ -2161,14 +2019,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361480@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Closes: Collections Stewardship
 DESCRIPTION:National Endowment for the Humanities | Max: $500\,000\nDeadli
  ne: 2026-12-15 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/36148
  0/\nOfficial notice: https://www.grants.gov/search-results-detail/361480\
- nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S
+ nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S
  . government work\; public domain in the United States (17 U.S.C. 105). U
  nofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/361480/
@@ -2176,7 +2034,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-361896@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Closes: Arctic Doctoral Dissertation Research Improvement Grants (
@@ -2185,7 +2043,7 @@ SUMMARY:Closes: Arctic Doctoral Dissertation Research Improvement Grants (
 DESCRIPTION:U.S. National Science Foundation\nDeadline: 2026-12-15 23:59 U
  TC-05:00\nDetails: https://outlaygrants.com/g/361896/\nOfficial notice: h
  ttps://www.grants.gov/search-results-detail/361896\nSource: Grants.gov (U
- .S. federal government)\, retrieved 2026-11-18. U.S. government work\; pu
+ .S. federal government)\, retrieved 2026-11-19. U.S. government work\; pu
  blic domain in the United States (17 U.S.C. 105). Unofficial\; always che
  ck the official notice.
 URL:https://outlaygrants.com/g/361896/
@@ -2193,14 +2051,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364224@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Closes: BJA FY26 State Criminal Alien Assistance Program (SCAAP)
 DESCRIPTION:Bureau of Justice Assistance | Max: $59\,000\,000\nDeadline: 2
  026-12-15 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364224/\nO
  fficial notice: https://www.grants.gov/search-results-detail/364224\nSour
- ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. gov
+ ce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. gov
  ernment work\; public domain in the United States (17 U.S.C. 105). Unoffi
  cial\; always check the official notice.
 URL:https://outlaygrants.com/g/364224/
@@ -2208,14 +2066,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-362893@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Closes: F26AS00104 State ANS Management Plan 2026
 DESCRIPTION:Fish and Wildlife Service | Max: $150\,000\nDeadline: 2026-12-
  16 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/362893/\nOfficial
   notice: https://www.grants.gov/search-results-detail/362893\nSource: Gra
- nts.gov (U.S. federal government)\, retrieved 2026-11-18. U.S. government
+ nts.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government
   work\; public domain in the United States (17 U.S.C. 105). Unofficial\; 
  always check the official notice.
 URL:https://outlaygrants.com/g/362893/
@@ -2223,17 +2081,64 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:grant-radar-364098@outlaygrants.com
-DTSTAMP:20261117T000000Z
+DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Closes: Public Humanities Projects
 DESCRIPTION:National Endowment for the Humanities | Max: $2\,000\,000\nDea
  dline: 2026-12-16 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/36
  4098/\nOfficial notice: https://www.grants.gov/search-results-detail/3640
- 98\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-18. 
+ 98\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. 
  U.S. government work\; public domain in the United States (17 U.S.C. 105)
  . Unofficial\; always check the official notice.
 URL:https://outlaygrants.com/g/364098/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364276@outlaygrants.com
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Closes: Evidence-Informed Practices in the Management of Women’s
+  Prisons
+DESCRIPTION:National Institute of Corrections | Max: $125\,000\nDeadline: 
+ 2026-12-16 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/364276/\n
+ Official notice: https://www.grants.gov/search-results-detail/364276\nSou
+ rce: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. U.S. go
+ vernment work\; public domain in the United States (17 U.S.C. 105). Unoff
+ icial\; always check the official notice.
+URL:https://outlaygrants.com/g/364276/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-361526@outlaygrants.com
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Closes: The Genesis Mission: Transforming Science and Energy with 
+ AI
+DESCRIPTION:Office of Science | Max: $16\,000\,000\nDeadline: 2026-12-17 2
+ 3:59 UTC-05:00\nDetails: https://outlaygrants.com/g/361526/\nOfficial not
+ ice: https://www.grants.gov/search-results-detail/361526\nSource: Grants.
+ gov (U.S. federal government)\, retrieved 2026-11-19. U.S. government wor
+ k\; public domain in the United States (17 U.S.C. 105). Unofficial\; alwa
+ ys check the official notice.
+URL:https://outlaygrants.com/g/361526/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:grant-radar-364277@outlaygrants.com
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Closes: Fiscal Years 2025 and 2026 Congestion Relief Program
+DESCRIPTION:DOT Federal Highway Administration  | Max: $100\,000\,000\nDea
+ dline: 2026-12-17 23:59 UTC-05:00\nDetails: https://outlaygrants.com/g/36
+ 4277/\nOfficial notice: https://www.grants.gov/search-results-detail/3642
+ 77\nSource: Grants.gov (U.S. federal government)\, retrieved 2026-11-19. 
+ U.S. government work\; public domain in the United States (17 U.S.C. 105)
+ . Unofficial\; always check the official notice.
+URL:https://outlaygrants.com/g/364277/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
