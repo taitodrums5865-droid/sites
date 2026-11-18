@@ -21,6 +21,7 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [EU Grants for Small Business: 6 Checks Before You Apply](https://callwindowgrants.com/eu-grants-for-small-business-6-checks-before-you-apply/): EU grants for small business: which calls an SME can apply to directly (EIC, Horizon, LIFE, Digital Europe), which go via national bodies, and 6 checks.
 - [EU Funding Requirements: 8 Checks Before You Apply (2026)](https://callwindowgrants.com/eu-funding-requirements-8-checks-before-you-apply-2026/): EU funding requirements as 8 checks before you submit: legal entity, PIC, consortium size, capacity, SME status and non-EU control rules, with steps and tables.
 - [EU Funding and Tenders Portal My Proposals: Find, Share and Recover Access](https://callwindowgrants.com/eu-funding-and-tenders-portal-my-proposals-find-share-and-re/): Find My Proposals on the EU Funding & Tenders Portal, see who can access drafts, and fix a missing proposal with the right role, account or helpdesk step.
 - [Horizon Europe Calls Closing February 2027: 41 Topics (Provisional List)](https://callwindowgrants.com/horizon-europe-calls-closing-february-2027-41-topics-provisi/): Horizon Europe topics closing in February 2027 (2, 16, 17 Feb): 41 listed with published budgets, action type, stage and Portal search steps.
