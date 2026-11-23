@@ -11,127 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-dfb4dcac249c49929a568cd556ed5f9d@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: 6505--Ramipril Capsules RFP
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-23 14:30 U
- TC-06:00\nDetails: https://setasidebrief.com/o/dfb4dcac249c49929a568cd556
- ed5f9d/\nOfficial notice: https://sam.gov/opp/dfb4dcac249c49929a568cd556e
- d5f9d/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-24. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/dfb4dcac249c49929a568cd556ed5f9d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-d31562e500ec472bbf4bff7d2cf2241c@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: 3HD 5365 017330818 D5\, BUSHING SLEEVE
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/d31562e500ec472bbf4bff7d2cf2241c/\nOfficia
- l notice: https://sam.gov/opp/d31562e500ec472bbf4bff7d2cf2241c/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/d31562e500ec472bbf4bff7d2cf2241c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-0169a98e859c488b91d7ced50f0199b8@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: TRANSMITTER\,PRESSUR
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/0169a98e859c488b91d7ced50f0199b8/\nOfficia
- l notice: https://sam.gov/opp/0169a98e859c488b91d7ced50f0199b8/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/0169a98e859c488b91d7ced50f0199b8/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-f73b41ca84774e42a0c1cefd0d78e07d@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: ENCODER\,SHAFT ANGLE
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/f73b41ca84774e42a0c1cefd0d78e07d/\nOfficia
- l notice: https://sam.gov/opp/f73b41ca84774e42a0c1cefd0d78e07d/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/f73b41ca84774e42a0c1cefd0d78e07d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6a64f0f0874a46888ddfdc22f8ed0fe9@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: XMITTER\,PRECSIONTRM
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/6a64f0f0874a46888ddfdc22f8ed0fe9/\nOfficia
- l notice: https://sam.gov/opp/6a64f0f0874a46888ddfdc22f8ed0fe9/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/6a64f0f0874a46888ddfdc22f8ed0fe9/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-134bdcea2dd746fca6fcff05b27a195d@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: POWER DISTRO UNIT
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/134bdcea2dd746fca6fcff05b27a195d/\nOfficia
- l notice: https://sam.gov/opp/134bdcea2dd746fca6fcff05b27a195d/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/134bdcea2dd746fca6fcff05b27a195d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-561c709c6f214206be70f77feafd94e3@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: ELECTRONIC MODULE\,S
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/561c709c6f214206be70f77feafd94e3/\nOfficia
- l notice: https://sam.gov/opp/561c709c6f214206be70f77feafd94e3/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/561c709c6f214206be70f77feafd94e3/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-fa6caccedd494afc8ef5e07230fdaaac@setasidebrief.com
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:Closes: INDICATOR\,LIQUID QU
-DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-11-23 16:30 UTC-04:00\nDetail
- s: https://setasidebrief.com/o/fa6caccedd494afc8ef5e07230fdaaac/\nOfficia
- l notice: https://sam.gov/opp/fa6caccedd494afc8ef5e07230fdaaac/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/fa6caccedd494afc8ef5e07230fdaaac/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-82bfd8969d21493bb2e71a5e59a20a41@setasidebrief.com
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
@@ -38425,6 +38304,51 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-23 13:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/7a878d7a66a940568852b52c2fb8a9a6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-13ab7dc0be5141f2a3ae351aa05734cd@setasidebrief.com
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Closes: 10--CAMO CVR HEAD WINDW
+DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-12-23 16:30 UTC-04:00\nDetail
+ s: https://setasidebrief.com/o/13ab7dc0be5141f2a3ae351aa05734cd/\nOfficia
+ l notice: https://sam.gov/opp/13ab7dc0be5141f2a3ae351aa05734cd/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/13ab7dc0be5141f2a3ae351aa05734cd/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-0c75f15b9df34f67a8542a0b5597ab14@setasidebrief.com
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Closes: 10--CAMO CVR UPR BARREL
+DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-12-23 16:30 UTC-04:00\nDetail
+ s: https://setasidebrief.com/o/0c75f15b9df34f67a8542a0b5597ab14/\nOfficia
+ l notice: https://sam.gov/opp/0c75f15b9df34f67a8542a0b5597ab14/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/0c75f15b9df34f67a8542a0b5597ab14/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-b57edf749c8f44a4aae5de67300a6f5f@setasidebrief.com
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Closes: 10--CAMO CVR LWR BARREL
+DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-12-23 16:30 UTC-04:00\nDetail
+ s: https://setasidebrief.com/o/b57edf749c8f44a4aae5de67300a6f5f/\nOfficia
+ l notice: https://sam.gov/opp/b57edf749c8f44a4aae5de67300a6f5f/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-11-24. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/b57edf749c8f44a4aae5de67300a6f5f/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
