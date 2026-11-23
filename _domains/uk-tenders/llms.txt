@@ -6,10 +6,10 @@ Guides are researched from official sources, cite them, and are reviewed regular
 
 ## Data pages (rebuilt daily)
 - [How to Bid for UK Public Sector Tenders: 6 Steps for Small Businesses](https://standstill.uk/how-to-bid/): How small businesses bid for UK public sector tenders: free supplier registration, CPV codes, selection questionnaires, social value and closing dates.
-- [Contracts in standstill now](https://standstill.uk/standstill-now/): 425 UK public contract awards are inside the Procurement Act 2023 standstill period today, with the date each one ends. Updated daily from Find a Tender award
-- [UK Tenders Closing Soon (Nov 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-11-23).
-- [UK Tenders for Small Businesses (Nov 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1148 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-11-23).
-- [UK Tenders for Charities (Nov 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 476 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-11-23).
+- [Contracts in standstill now](https://standstill.uk/standstill-now/): 391 UK public contract awards are inside the Procurement Act 2023 standstill period today, with the date each one ends. Updated daily from Find a Tender award
+- [UK Tenders Closing Soon (Nov 2026): Bids Due in the Next 14 Days](https://standstill.uk/closing-soon/): Open UK public sector tenders closing in the next 14 days, soonest first. Free, updated daily from Find a Tender and Contracts Finder (2026-11-24).
+- [UK Tenders for Small Businesses (Nov 2026): SME-Friendly Open Contracts](https://standstill.uk/sme-friendly/): 1118 open UK public sector tenders that buyers marked as suitable for SMEs, sorted by closing date. Updated daily (2026-11-24).
+- [UK Tenders for Charities (Nov 2026): VCSE-Friendly Open Contracts](https://standstill.uk/vcse-friendly/): 454 open UK public sector tenders marked as suitable for voluntary, community and social enterprises (VCSEs). Updated daily (2026-11-24).
 - [UK Public Sector Tenders by Region](https://standstill.uk/region/): Open UK public sector tenders by region: London, the South East, the North West, Scotland, Wales, Northern Ireland and more.
 - [UK Tenders by CPV Category](https://standstill.uk/cpv/): Open UK public sector tenders grouped by CPV category: construction work, IT services, health and social work, cleaning, transport and more.
 - [UK Public Sector Buyers with Open Tenders](https://standstill.uk/buyer/): UK public sector buyers with the most open tenders: councils, NHS trusts, universities, housing associations and central government.
@@ -17,16 +17,17 @@ Guides are researched from official sources, cite them, and are reviewed regular
 - [UK Tenders by Procurement Procedure](https://standstill.uk/procedure/): Open UK public sector tenders grouped by procedure: open, below threshold, competitive flexible, restricted, framework and more.
 - [UK Tenders by Contract Value](https://standstill.uk/value/): Open UK public sector tenders grouped by estimated contract value, from under £25,000 to over £10 million.
 - [New UK Public Sector Tenders This Week by Sector](https://standstill.uk/new/): UK public sector tenders published in the last 7 days, grouped by sector: construction, engineering, health and social care, IT and more.
-- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Nov 23, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,680 open tenders. 387 close within 7 days and 289 wer
+- [Weekly stats: UK public sector tenders](https://standstill.uk/stats/): As of Nov 24, 2026, our daily copy of Find a Tender and Contracts Finder (UK government) lists 1,644 open tenders. 417 close within 7 days and 354 wer
 - [Free downloads: deadline calendar, CSV and embed](https://standstill.uk/data/): Free downloads of open UK public sector tenders deadlines: subscribe to an .ics calendar, get a daily CSV, or embed the next 10 deadlines on your site. Sou
 
 ## About the data
 - Source: [Find a Tender and Contracts Finder (UK government)](https://www.find-tender.service.gov.uk/)
 - Licence: Contains public sector information licensed under the Open Government Licence v3.0
-- Last data refresh: 2026-11-23
+- Last data refresh: 2026-11-24
 - Updated once a day from the official public data. Unofficial; always confirm details on the official notice before applying or bidding.
 
 ## Guides
+- [Public Bid Opening Process: 5 UK Tender Steps (2026)](https://standstill.uk/public-bid-opening-process-5-uk-tender-steps-2026/): How the public bid opening process works in the UK under the Procurement Act 2023: secure opening, checks, clarifications, scoring, award and standstill.
 - [Wales Tenders 2026: 5 Steps to Find Them on Sell2Wales](https://standstill.uk/wales-tenders-2026-5-steps-to-find-them-on-sell2wales/): Wales tenders explained: where Welsh councils, Welsh Government and NHS Wales publish, how to search Sell2Wales and set CPV alerts, plus 2026 thresholds.
 - [Procurement Specific Questionnaire: 5 Steps for UK SMEs](https://standstill.uk/procurement-specific-questionnaire-5-steps-for-uk-smes/): What the procurement specific questionnaire (PSQ) is under the Procurement Act 2023, how it differs from the SQ, and 5 steps for below-threshold bids.
 - [Find a Tender Share Code: 5 Steps to Get and Share It](https://standstill.uk/find-a-tender-share-code-5-steps-to-get-and-share-it/): Find a Tender share code explained: 5 steps to create it, what buyers see, where to find an old code, and how to fix it when a buyer says it fails.

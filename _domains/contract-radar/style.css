@@ -124,6 +124,7 @@ html{scroll-padding-top:1rem}
 body{font-family:var(--font-body);font-size:var(--fs-body);line-height:var(--lh-body);letter-spacing:var(--ls-body);background:var(--bg);color:var(--ink);
   font-kerning:normal;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
 html[lang=ja] body{line-break:strict;overflow-wrap:anywhere;text-autospace:ideograph-alpha;text-spacing-trim:normal}
+html:not([lang=ja]) body{overflow-wrap:break-word}
 h1,h2,h3,h4{font-family:var(--font-head);letter-spacing:var(--ls-head);color:var(--ink);text-wrap:balance}
 html[lang=ja] h1,html[lang=ja] h2,html[lang=ja] h3{font-feature-settings:"palt";word-break:auto-phrase}
 h1,.ui-hero{font-size:clamp(1.75rem,1.35rem + 1.7vw,2.5rem);line-height:1.25;font-weight:750;margin:.5rem 0 1rem}
@@ -230,7 +231,7 @@ main table:not(:has(thead)) tr:hover td{background:transparent}
   table.ui-stack td:first-child::before{content:none}
   table.ui-stack caption{display:block;width:auto;text-align:left}
   table.ui-stack td.ui-num{text-align:left}
-  .table-wrap:has(table.ui-stack),.tbl:has(table.ui-stack){max-height:none;overflow:visible}
+  .table-wrap:has(table.ui-stack),.tbl:has(table.ui-stack){max-height:none;overflow:visible;overflow-x:auto}
 }
 /* 期限の札(色だけにせず「あと3日」と文字で) */
 .ui-due{display:inline-block;margin-left:.375rem;padding:1px .4375rem;border-radius:4px;font-size:.8125rem;font-weight:700;line-height:1.5;white-space:nowrap;border:1px solid transparent;vertical-align:1px}
