@@ -11,37 +11,6 @@ X-WR-CALDESC:Deadlines from Find a Tender and Contracts Finder (UK governm
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:uk-tenders-fts-07ba24@standstill.uk
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: Framework Agreement for Collateral Graphic Design\, Printi
- ng\, and Production Services
-DESCRIPTION:BRITISH COUNCIL(THE) | Max: £54\,582\nDeadline: 2026-11-26 17
- :00 UTC\nDetails: https://standstill.uk/o/fts-07ba24/\nOfficial notice: h
- ttps://www.find-tender.service.gov.uk/Notice/107357-2026\nSource: Find a 
- Tender and Contracts Finder (UK government)\, retrieved 2026-11-27. Conta
- ins public sector information licensed under the Open Government Licence 
- v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-07ba24/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:uk-tenders-fts-0793dd@standstill.uk
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: Supply of Five x New Full Electric Small Vans
-DESCRIPTION:North East Lincolnshire Borough Council | Max: £125\,000\nDea
- dline: 2026-11-26 18:00 UTC\nDetails: https://standstill.uk/o/fts-0793dd/
- \nOfficial notice: https://www.find-tender.service.gov.uk/Notice/102768-2
- 026\nSource: Find a Tender and Contracts Finder (UK government)\, retriev
- ed 2026-11-27. Contains public sector information licensed under the Open
-  Government Licence v3.0. Unofficial\; always check the official notice.
-URL:https://standstill.uk/o/fts-0793dd/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:uk-tenders-cf-134db43f-82b9-44e1-a036-a2de282ed1e3@standstill.uk
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126

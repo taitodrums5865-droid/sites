@@ -11,122 +11,6 @@ X-WR-CALDESC:Deadlines from SAM.gov Contract Opportunities (U.S. General S
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:contract-radar-c706d18cc5e846508a63090d29caa934@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: AK-AK MARITIME NWR-LEAK REPAIR
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-11-26 11:00 UTC-06:00\nDe
- tails: https://setasidebrief.com/o/c706d18cc5e846508a63090d29caa934/\nOff
- icial notice: https://sam.gov/opp/c706d18cc5e846508a63090d29caa934/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/c706d18cc5e846508a63090d29caa934/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-8f0c90b43099494cb8a8201cd475406f@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: Y1DA | 521-24-102 | Renovate Wards 2K and 2B for Optometry
- /Ophthalmology Clinical Use
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-26 13:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/8f0c90b43099494cb8a8201cd4
- 75406f/\nOfficial notice: https://sam.gov/opp/8f0c90b43099494cb8a8201cd47
- 5406f/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/8f0c90b43099494cb8a8201cd475406f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-822ec46f28614c78b119933add54d3ad@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: J061 UPS and Battery Maintenance and Testing � Nashville
-  VA Medical Center
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-26 12:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/822ec46f28614c78b119933add
- 54d3ad/\nOfficial notice: https://sam.gov/opp/822ec46f28614c78b119933add5
- 4d3ad/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/822ec46f28614c78b119933add54d3ad/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6960cc2ab4be4d428eac6e0f6ece061f@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: APT Generator Switchgear Testing � Alvin C. York VA Medi
- cal Center
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-26 12:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/6960cc2ab4be4d428eac6e0f6e
- ce061f/\nOfficial notice: https://sam.gov/opp/6960cc2ab4be4d428eac6e0f6ec
- e061f/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/6960cc2ab4be4d428eac6e0f6ece061f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-3c6ab2f60eec48e7bdb5af8f0c62169b@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: S215--SDVOSB Furniture Installation Labor Storage - Base P
- lus Four Option Years | POP: (12/31/2026 - 12/30/2031) |
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-26 10:00 U
- TC-08:00\nDetails: https://setasidebrief.com/o/3c6ab2f60eec48e7bdb5af8f0c
- 62169b/\nOfficial notice: https://sam.gov/opp/3c6ab2f60eec48e7bdb5af8f0c6
- 2169b/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/3c6ab2f60eec48e7bdb5af8f0c62169b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-da68e1a3e39e41e0ae6b6adac38e3984@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: FA27 Fall Arrest Inspection Services
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-11-26 10:00 UTC-08:00\nD
- etails: https://setasidebrief.com/o/da68e1a3e39e41e0ae6b6adac38e3984/\nOf
- ficial notice: https://sam.gov/opp/da68e1a3e39e41e0ae6b6adac38e3984/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/da68e1a3e39e41e0ae6b6adac38e3984/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-b4eaf5ee986947649e09ee2513f6c234@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Closes: Radiant Heating Panel Replacement
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-11-26 12:00 U
- TC-07:00\nDetails: https://setasidebrief.com/o/b4eaf5ee986947649e09ee2513
- f6c234/\nOfficial notice: https://sam.gov/opp/b4eaf5ee986947649e09ee2513f
- 6c234/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/b4eaf5ee986947649e09ee2513f6c234/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-00646e7746494ab38ce53bbe9f7e0f59@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -8957,6 +8841,22 @@ URL:https://setasidebrief.com/o/4a8041a3553c4a4c8509984ee373c306/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-81c06f1140514c1e9cd8859d92aa980c@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - MEAT
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 11:00 UTC-05:00\nDetails: https://setasidebrief.com/o/81c06f1140514c1e9
+ cd8859d92aa980c/\nOfficial notice: https://sam.gov/opp/81c06f1140514c1e9c
+ d8859d92aa980c/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/81c06f1140514c1e9cd8859d92aa980c/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-7528cd70279148329e177087bf11a4f7@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -9347,22 +9247,6 @@ DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://setasidebrief.com/o/253aac88c88d49fd8a36bcf9abff4b0b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-81c06f1140514c1e9cd8859d92aa980c@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - MEAT
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 11:00 UTC-05:00\nDetails: https://setasidebrief.com/o/81c06f1140514c1e9
- cd8859d92aa980c/\nOfficial notice: https://sam.gov/opp/81c06f1140514c1e9c
- d8859d92aa980c/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/81c06f1140514c1e9cd8859d92aa980c/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11636,6 +11520,70 @@ URL:https://setasidebrief.com/o/8ba6d4f964e04c87a5c9e3aa6d334592/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-0d7044da791f4bbc891c5aa2f23950b3@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0d7044da791f4bbc8
+ 91c5aa2f23950b3/\nOfficial notice: https://sam.gov/opp/0d7044da791f4bbc89
+ 1c5aa2f23950b3/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/0d7044da791f4bbc891c5aa2f23950b3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-eff953a387054d6a9c8e1fe893017632@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/eff953a387054d6a9
+ c8e1fe893017632/\nOfficial notice: https://sam.gov/opp/eff953a387054d6a9c
+ 8e1fe893017632/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/eff953a387054d6a9c8e1fe893017632/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-010f2fcf66774099834092b7eaadf4ab@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 KOSHER/HALAL MENU
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/010f2fcf667740998
+ 34092b7eaadf4ab/\nOfficial notice: https://sam.gov/opp/010f2fcf6677409983
+ 4092b7eaadf4ab/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/010f2fcf66774099834092b7eaadf4ab/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-ddaaf07284f94f408b2d72d73809a894@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 KOSHER/HALAL MENU
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/ddaaf07284f94f408
+ b2d72d73809a894/\nOfficial notice: https://sam.gov/opp/ddaaf07284f94f408b
+ 2d72d73809a894/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/ddaaf07284f94f408b2d72d73809a894/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-157f2d5190ae4c82b973d744b0a5fe32@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -12178,67 +12126,51 @@ URL:https://setasidebrief.com/o/7cb0059746a549e9ab1984aeb99052fa/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-0d7044da791f4bbc891c5aa2f23950b3@setasidebrief.com
+UID:contract-radar-c6379a60d74d4da3838f44ceba12fca2@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0d7044da791f4bbc8
- 91c5aa2f23950b3/\nOfficial notice: https://sam.gov/opp/0d7044da791f4bbc89
- 1c5aa2f23950b3/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/0d7044da791f4bbc891c5aa2f23950b3/
+SUMMARY:Closes: S--Janitorial Services Wichita\, KS
+DESCRIPTION:NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION\nDeadline: 202
+ 6-11-30 14:30 UTC-07:00\nDetails: https://setasidebrief.com/o/c6379a60d74
+ d4da3838f44ceba12fca2/\nOfficial notice: https://sam.gov/opp/c6379a60d74d
+ 4da3838f44ceba12fca2/view\nSource: SAM.gov Contract Opportunities (U.S. G
+ eneral Services Administration)\, retrieved 2026-11-27. U.S. government w
+ ork\; public domain in the United States (17 U.S.C. 105). Unofficial\; al
+ ways check the official notice.
+URL:https://setasidebrief.com/o/c6379a60d74d4da3838f44ceba12fca2/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-eff953a387054d6a9c8e1fe893017632@setasidebrief.com
+UID:contract-radar-110b712339184f48be08a5a7404e77e8@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU - EGGS
 DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/eff953a387054d6a9
- c8e1fe893017632/\nOfficial notice: https://sam.gov/opp/eff953a387054d6a9c
- 8e1fe893017632/view\nSource: SAM.gov Contract Opportunities (U.S. General
+ 0 16:30 UTC-05:00\nDetails: https://setasidebrief.com/o/110b712339184f48b
+ e08a5a7404e77e8/\nOfficial notice: https://sam.gov/opp/110b712339184f48be
+ 08a5a7404e77e8/view\nSource: SAM.gov Contract Opportunities (U.S. General
   Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
-URL:https://setasidebrief.com/o/eff953a387054d6a9c8e1fe893017632/
+URL:https://setasidebrief.com/o/110b712339184f48be08a5a7404e77e8/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-010f2fcf66774099834092b7eaadf4ab@setasidebrief.com
+UID:contract-radar-4dc4bacadcce46cb8cbb890c9500469a@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 KOSHER/HALAL MENU
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU - EGGS
 DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/010f2fcf667740998
- 34092b7eaadf4ab/\nOfficial notice: https://sam.gov/opp/010f2fcf6677409983
- 4092b7eaadf4ab/view\nSource: SAM.gov Contract Opportunities (U.S. General
+ 0 16:30 UTC-05:00\nDetails: https://setasidebrief.com/o/4dc4bacadcce46cb8
+ cbb890c9500469a/\nOfficial notice: https://sam.gov/opp/4dc4bacadcce46cb8c
+ bb890c9500469a/view\nSource: SAM.gov Contract Opportunities (U.S. General
   Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
-URL:https://setasidebrief.com/o/010f2fcf66774099834092b7eaadf4ab/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ddaaf07284f94f408b2d72d73809a894@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 KOSHER/HALAL MENU
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/ddaaf07284f94f408
- b2d72d73809a894/\nOfficial notice: https://sam.gov/opp/ddaaf07284f94f408b
- 2d72d73809a894/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/ddaaf07284f94f408b2d72d73809a894/
+URL:https://setasidebrief.com/o/4dc4bacadcce46cb8cbb890c9500469a/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12370,51 +12302,51 @@ URL:https://setasidebrief.com/o/63a64060adcf418a92c3240f32cfd547/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-110b712339184f48be08a5a7404e77e8@setasidebrief.com
+UID:contract-radar-29eab6bda6644707829957307f36693b@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU - EGGS
+SUMMARY:Closes: FCI Three Rivers - FY27 Q2 Bread
 DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:30 UTC-05:00\nDetails: https://setasidebrief.com/o/110b712339184f48b
- e08a5a7404e77e8/\nOfficial notice: https://sam.gov/opp/110b712339184f48be
- 08a5a7404e77e8/view\nSource: SAM.gov Contract Opportunities (U.S. General
+ 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/29eab6bda66447078
+ 29957307f36693b/\nOfficial notice: https://sam.gov/opp/29eab6bda664470782
+ 9957307f36693b/view\nSource: SAM.gov Contract Opportunities (U.S. General
   Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
-URL:https://setasidebrief.com/o/110b712339184f48be08a5a7404e77e8/
+URL:https://setasidebrief.com/o/29eab6bda6644707829957307f36693b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-4dc4bacadcce46cb8cbb890c9500469a@setasidebrief.com
+UID:contract-radar-09d3afe684234b37ac0d4f7e7bd42643@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 NATIONAL MENU - EGGS
+SUMMARY:Closes: FCI Three Rivers FY27 Q2 Milk
 DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 16:30 UTC-05:00\nDetails: https://setasidebrief.com/o/4dc4bacadcce46cb8
- cbb890c9500469a/\nOfficial notice: https://sam.gov/opp/4dc4bacadcce46cb8c
- bb890c9500469a/view\nSource: SAM.gov Contract Opportunities (U.S. General
+ 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/09d3afe684234b37a
+ c0d4f7e7bd42643/\nOfficial notice: https://sam.gov/opp/09d3afe684234b37ac
+ 0d4f7e7bd42643/view\nSource: SAM.gov Contract Opportunities (U.S. General
   Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
-URL:https://setasidebrief.com/o/4dc4bacadcce46cb8cbb890c9500469a/
+URL:https://setasidebrief.com/o/09d3afe684234b37ac0d4f7e7bd42643/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-c6379a60d74d4da3838f44ceba12fca2@setasidebrief.com
+UID:contract-radar-830f1d06fc8743b6ae92b9a37220d023@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: S--Janitorial Services Wichita\, KS
-DESCRIPTION:NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION\nDeadline: 202
- 6-11-30 14:30 UTC-07:00\nDetails: https://setasidebrief.com/o/c6379a60d74
- d4da3838f44ceba12fca2/\nOfficial notice: https://sam.gov/opp/c6379a60d74d
- 4da3838f44ceba12fca2/view\nSource: SAM.gov Contract Opportunities (U.S. G
- eneral Services Administration)\, retrieved 2026-11-27. U.S. government w
- ork\; public domain in the United States (17 U.S.C. 105). Unofficial\; al
- ways check the official notice.
-URL:https://setasidebrief.com/o/c6379a60d74d4da3838f44ceba12fca2/
+SUMMARY:Closes: FCI Three Rivers FY27 Q2 Milk
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/830f1d06fc8743b6a
+ e92b9a37220d023/\nOfficial notice: https://sam.gov/opp/830f1d06fc8743b6ae
+ 92b9a37220d023/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/830f1d06fc8743b6ae92b9a37220d023/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12854,54 +12786,6 @@ URL:https://setasidebrief.com/o/c0ceff6c4c6745a6b7fed6fe2a546eb4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-29eab6bda6644707829957307f36693b@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI Three Rivers - FY27 Q2 Bread
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/29eab6bda66447078
- 29957307f36693b/\nOfficial notice: https://sam.gov/opp/29eab6bda664470782
- 9957307f36693b/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/29eab6bda6644707829957307f36693b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-09d3afe684234b37ac0d4f7e7bd42643@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI Three Rivers FY27 Q2 Milk
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/09d3afe684234b37a
- c0d4f7e7bd42643/\nOfficial notice: https://sam.gov/opp/09d3afe684234b37ac
- 0d4f7e7bd42643/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/09d3afe684234b37ac0d4f7e7bd42643/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-830f1d06fc8743b6ae92b9a37220d023@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI Three Rivers FY27 Q2 Milk
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 17:00 UTC-05:00\nDetails: https://setasidebrief.com/o/830f1d06fc8743b6a
- e92b9a37220d023/\nOfficial notice: https://sam.gov/opp/830f1d06fc8743b6ae
- 92b9a37220d023/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/830f1d06fc8743b6ae92b9a37220d023/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-0a6325eeba0e41a684737c69fca6d059@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -13239,6 +13123,54 @@ URL:https://setasidebrief.com/o/cf2be4e5405740e39ead2a85fb4fee67/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-830e58a6ecbe4ded9bbdfb0a17721a95@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - MEAT
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/830e58a6ecbe4ded9
+ bbdfb0a17721a95/\nOfficial notice: https://sam.gov/opp/830e58a6ecbe4ded9b
+ bdfb0a17721a95/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/830e58a6ecbe4ded9bbdfb0a17721a95/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-5364c00c90c04ebf9dc7b193c459a776@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - FRUIT
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/5364c00c90c04ebf9
+ dc7b193c459a776/\nOfficial notice: https://sam.gov/opp/5364c00c90c04ebf9d
+ c7b193c459a776/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/5364c00c90c04ebf9dc7b193c459a776/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-0a7e2436bcec4a05901f9fd8a5324ba4@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - FRUIT
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
+ 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0a7e2436bcec4a059
+ 01f9fd8a5324ba4/\nOfficial notice: https://sam.gov/opp/0a7e2436bcec4a0590
+ 1f9fd8a5324ba4/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/0a7e2436bcec4a05901f9fd8a5324ba4/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-695aecd26a064ef8b9633bebabdbd42a@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -13378,51 +13310,19 @@ URL:https://setasidebrief.com/o/d43d3dbb639f439e8c5293c8db5395e3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-830e58a6ecbe4ded9bbdfb0a17721a95@setasidebrief.com
+UID:contract-radar-660c97a8a9f644af817388dd29c86687@setasidebrief.com
 DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - MEAT
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/830e58a6ecbe4ded9
- bbdfb0a17721a95/\nOfficial notice: https://sam.gov/opp/830e58a6ecbe4ded9b
- bdfb0a17721a95/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/830e58a6ecbe4ded9bbdfb0a17721a95/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-5364c00c90c04ebf9dc7b193c459a776@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - FRUIT
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/5364c00c90c04ebf9
- dc7b193c459a776/\nOfficial notice: https://sam.gov/opp/5364c00c90c04ebf9d
- c7b193c459a776/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/5364c00c90c04ebf9dc7b193c459a776/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-0a7e2436bcec4a05901f9fd8a5324ba4@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: FCI THREE RIVERS - Q2 FY27 - FRUIT
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-11-3
- 0 23:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0a7e2436bcec4a059
- 01f9fd8a5324ba4/\nOfficial notice: https://sam.gov/opp/0a7e2436bcec4a0590
- 1f9fd8a5324ba4/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/0a7e2436bcec4a05901f9fd8a5324ba4/
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: SUPPLY AND DELIVERY OF FUEL FOR GENERATORS
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-01 12:00 UTC+08:00\nD
+ etails: https://setasidebrief.com/o/660c97a8a9f644af817388dd29c86687/\nOf
+ ficial notice: https://sam.gov/opp/660c97a8a9f644af817388dd29c86687/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/660c97a8a9f644af817388dd29c86687/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13458,22 +13358,6 @@ URL:https://setasidebrief.com/o/9b16c95283af4cc28bfe66b9d4fdc4f3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-85ba803dc7124880a0f34acff947f0ed@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:Closes: NDMO SWAGE FITTING
-DESCRIPTION:ENERGY\, DEPARTMENT OF\nDeadline: 2026-11-30 23:30 UTC-07:00\n
- Details: https://setasidebrief.com/o/85ba803dc7124880a0f34acff947f0ed/\nO
- fficial notice: https://sam.gov/opp/85ba803dc7124880a0f34acff947f0ed/view
- \nSource: SAM.gov Contract Opportunities (U.S. General Services Administr
- ation)\, retrieved 2026-11-27. U.S. government work\; public domain in th
- e United States (17 U.S.C. 105). Unofficial\; always check the official n
- otice.
-URL:https://setasidebrief.com/o/85ba803dc7124880a0f34acff947f0ed/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-345d81680f894c5f97a3d972806780c5@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -13487,6 +13371,22 @@ DESCRIPTION:BUREAU OF RECLAMATION\nDeadline: 2026-11-30 23:30 UTC-07:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/345d81680f894c5f97a3d972806780c5/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-85ba803dc7124880a0f34acff947f0ed@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Closes: NDMO SWAGE FITTING
+DESCRIPTION:ENERGY\, DEPARTMENT OF\nDeadline: 2026-11-30 23:30 UTC-07:00\n
+ Details: https://setasidebrief.com/o/85ba803dc7124880a0f34acff947f0ed/\nO
+ fficial notice: https://sam.gov/opp/85ba803dc7124880a0f34acff947f0ed/view
+ \nSource: SAM.gov Contract Opportunities (U.S. General Services Administr
+ ation)\, retrieved 2026-11-27. U.S. government work\; public domain in th
+ e United States (17 U.S.C. 105). Unofficial\; always check the official n
+ otice.
+URL:https://setasidebrief.com/o/85ba803dc7124880a0f34acff947f0ed/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13664,6 +13564,22 @@ URL:https://setasidebrief.com/o/15b360d39f4a443b80df5d926a8ca6b2/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-bf91e843e5d1451f813de6f01f52de01@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: 66--NOI to Sole Source ESLfemto Laser
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 09:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/bf91e843e5d1451f813de6f01f52de01/\nOff
+ icial notice: https://sam.gov/opp/bf91e843e5d1451f813de6f01f52de01/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/bf91e843e5d1451f813de6f01f52de01/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-1472ff577bda46a69e4d9641db537160@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261201
@@ -13713,19 +13629,19 @@ URL:https://setasidebrief.com/o/975ff5c47c644fa5931e08799a344e0c/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-bf91e843e5d1451f813de6f01f52de01@setasidebrief.com
+UID:contract-radar-ad1fec4037b0413f82b10fc877ccc068@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Closes: 66--NOI to Sole Source ESLfemto Laser
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 09:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/bf91e843e5d1451f813de6f01f52de01/\nOff
- icial notice: https://sam.gov/opp/bf91e843e5d1451f813de6f01f52de01/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/bf91e843e5d1451f813de6f01f52de01/
+SUMMARY:Closes: SOURCES SOUGHT Heavy-Duty Explosion-Proof Electric Walkie 
+ Pallet Truck (12\,000 lb Capacity)
+DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-12-01 10:00 UTC-05:00\nDetail
+ s: https://setasidebrief.com/o/ad1fec4037b0413f82b10fc877ccc068/\nOfficia
+ l notice: https://sam.gov/opp/ad1fec4037b0413f82b10fc877ccc068/view\nSour
+ ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
+ \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
+ ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/ad1fec4037b0413f82b10fc877ccc068/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13970,19 +13886,19 @@ URL:https://setasidebrief.com/o/3b01ab12a71e43c48f30ccd351407e49/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-ad1fec4037b0413f82b10fc877ccc068@setasidebrief.com
+UID:contract-radar-cb725f7e4791489d92c6e3afaec715ef@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Closes: SOURCES SOUGHT Heavy-Duty Explosion-Proof Electric Walkie 
- Pallet Truck (12\,000 lb Capacity)
-DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-12-01 10:00 UTC-05:00\nDetail
- s: https://setasidebrief.com/o/ad1fec4037b0413f82b10fc877ccc068/\nOfficia
- l notice: https://sam.gov/opp/ad1fec4037b0413f82b10fc877ccc068/view\nSour
- ce: SAM.gov Contract Opportunities (U.S. General Services Administration)
- \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
- ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/ad1fec4037b0413f82b10fc877ccc068/
+SUMMARY:Closes: 16595 Velocity XI PCIE Cards
+DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-01 11:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/cb725f7e4791489d92c6e3afaec715ef/\nOf
+ ficial notice: https://sam.gov/opp/cb725f7e4791489d92c6e3afaec715ef/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/cb725f7e4791489d92c6e3afaec715ef/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -14112,22 +14028,6 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-01 10:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/94e5c9e4bd74493083cea772f5f1c342/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-cb725f7e4791489d92c6e3afaec715ef@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Closes: 16595 Velocity XI PCIE Cards
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-01 11:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/cb725f7e4791489d92c6e3afaec715ef/\nOf
- ficial notice: https://sam.gov/opp/cb725f7e4791489d92c6e3afaec715ef/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/cb725f7e4791489d92c6e3afaec715ef/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -15828,6 +15728,38 @@ URL:https://setasidebrief.com/o/208d6e8d9fae438ebe2f6946e505ba88/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-8df76cc0fc3849f29486d960e7531520@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: 66--NOI to Sole Source ESLfemto Laser
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 17:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/8df76cc0fc3849f29486d960e7531520/\nOff
+ icial notice: https://sam.gov/opp/8df76cc0fc3849f29486d960e7531520/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/8df76cc0fc3849f29486d960e7531520/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-131fca09f93a40dc80ed57cbc6bebaca@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Closes: JANITORIAL SERVICES AT FWS GREEN LAKE NFH.
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 17:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/131fca09f93a40dc80ed57cbc6bebaca/\nOff
+ icial notice: https://sam.gov/opp/131fca09f93a40dc80ed57cbc6bebaca/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/131fca09f93a40dc80ed57cbc6bebaca/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-2a19be0173a54099b15b86941e804d55@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261201
@@ -16258,38 +16190,6 @@ URL:https://setasidebrief.com/o/af34b449094844d6a983249225d53185/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-131fca09f93a40dc80ed57cbc6bebaca@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Closes: JANITORIAL SERVICES AT FWS GREEN LAKE NFH.
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 17:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/131fca09f93a40dc80ed57cbc6bebaca/\nOff
- icial notice: https://sam.gov/opp/131fca09f93a40dc80ed57cbc6bebaca/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/131fca09f93a40dc80ed57cbc6bebaca/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-8df76cc0fc3849f29486d960e7531520@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Closes: 66--NOI to Sole Source ESLfemto Laser
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-01 17:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/8df76cc0fc3849f29486d960e7531520/\nOff
- icial notice: https://sam.gov/opp/8df76cc0fc3849f29486d960e7531520/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/8df76cc0fc3849f29486d960e7531520/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-d6d080cece4041409ce3908b6087d71f@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261201
@@ -16682,6 +16582,22 @@ DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-02 15:00 UTC+05:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/3e496d05824b4f41a0bc2621aa9bd104/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-0d353dce6d60429abe6375d8a5c0ddea@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: Rental of Conference Room in Krakow\, Poland
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-02 12:00 UTC+02:00\nD
+ etails: https://setasidebrief.com/o/0d353dce6d60429abe6375d8a5c0ddea/\nOf
+ ficial notice: https://sam.gov/opp/0d353dce6d60429abe6375d8a5c0ddea/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/0d353dce6d60429abe6375d8a5c0ddea/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -17158,6 +17074,40 @@ URL:https://setasidebrief.com/o/8535c31a88b74c14b501d9ef4620cb20/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-4cdc14eb87bd49caa5014b3b6add7c81@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: Notice of Intent to Sole Source - Ensurity Specialized Dev
+ ices
+DESCRIPTION:US IMMIGRATION AND CUSTOMS ENFORCEMENT\nDeadline: 2026-12-02 1
+ 2:00 UTC-05:00\nDetails: https://setasidebrief.com/o/4cdc14eb87bd49caa501
+ 4b3b6add7c81/\nOfficial notice: https://sam.gov/opp/4cdc14eb87bd49caa5014
+ b3b6add7c81/view\nSource: SAM.gov Contract Opportunities (U.S. General Se
+ rvices Administration)\, retrieved 2026-11-27. U.S. government work\; pub
+ lic domain in the United States (17 U.S.C. 105). Unofficial\; always chec
+ k the official notice.
+URL:https://setasidebrief.com/o/4cdc14eb87bd49caa5014b3b6add7c81/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-33ec88e000334f018234fcabcf0c4e88@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: Repair Sanitary Waste Piping at the Mann-Grandstaff VA Med
+ ical Center
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-02 09:00 U
+ TC-08:00\nDetails: https://setasidebrief.com/o/33ec88e000334f018234fcabcf
+ 0c4e88/\nOfficial notice: https://sam.gov/opp/33ec88e000334f018234fcabcf0
+ c4e88/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/33ec88e000334f018234fcabcf0c4e88/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-6414fc0ba3224016955686bd178be947@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -17483,40 +17433,6 @@ DESCRIPTION:NATIONAL PARK SERVICE\nDeadline: 2026-12-02 12:00 UTC-05:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/189a3f0b35784042b8a7fb3636cc6402/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-33ec88e000334f018234fcabcf0c4e88@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Closes: Repair Sanitary Waste Piping at the Mann-Grandstaff VA Med
- ical Center
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-02 09:00 U
- TC-08:00\nDetails: https://setasidebrief.com/o/33ec88e000334f018234fcabcf
- 0c4e88/\nOfficial notice: https://sam.gov/opp/33ec88e000334f018234fcabcf0
- c4e88/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/33ec88e000334f018234fcabcf0c4e88/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-4cdc14eb87bd49caa5014b3b6add7c81@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Closes: Notice of Intent to Sole Source - Ensurity Specialized Dev
- ices
-DESCRIPTION:US IMMIGRATION AND CUSTOMS ENFORCEMENT\nDeadline: 2026-12-02 1
- 2:00 UTC-05:00\nDetails: https://setasidebrief.com/o/4cdc14eb87bd49caa501
- 4b3b6add7c81/\nOfficial notice: https://sam.gov/opp/4cdc14eb87bd49caa5014
- b3b6add7c81/view\nSource: SAM.gov Contract Opportunities (U.S. General Se
- rvices Administration)\, retrieved 2026-11-27. U.S. government work\; pub
- lic domain in the United States (17 U.S.C. 105). Unofficial\; always chec
- k the official notice.
-URL:https://setasidebrief.com/o/4cdc14eb87bd49caa5014b3b6add7c81/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -17856,6 +17772,38 @@ URL:https://setasidebrief.com/o/25004d459fbb499f95fb40672879ee2c/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-c77d3a8ff5c34b57be9269e3b480c804@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: Public Meeting Space in Anchorage\, Alaska
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-02 14:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/c77d3a8ff5c34b57be9269e3b480c804/\nOff
+ icial notice: https://sam.gov/opp/c77d3a8ff5c34b57be9269e3b480c804/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/c77d3a8ff5c34b57be9269e3b480c804/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-01cf0c66a4c84860b0006da2c8b750a6@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Closes: X--Public Meeting Space in Anchorage\, Alaska
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-02 14:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/01cf0c66a4c84860b0006da2c8b750a6/\nOff
+ icial notice: https://sam.gov/opp/01cf0c66a4c84860b0006da2c8b750a6/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/01cf0c66a4c84860b0006da2c8b750a6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-0607f998ef4e4afcb125709b64ba6ab2@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -18057,38 +18005,6 @@ DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-0
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://setasidebrief.com/o/4050e6eff13e474fbafda0642129140e/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-c77d3a8ff5c34b57be9269e3b480c804@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Closes: Public Meeting Space in Anchorage\, Alaska
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-02 14:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/c77d3a8ff5c34b57be9269e3b480c804/\nOff
- icial notice: https://sam.gov/opp/c77d3a8ff5c34b57be9269e3b480c804/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/c77d3a8ff5c34b57be9269e3b480c804/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-01cf0c66a4c84860b0006da2c8b750a6@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Closes: X--Public Meeting Space in Anchorage\, Alaska
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-02 14:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/01cf0c66a4c84860b0006da2c8b750a6/\nOff
- icial notice: https://sam.gov/opp/01cf0c66a4c84860b0006da2c8b750a6/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/01cf0c66a4c84860b0006da2c8b750a6/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -19438,22 +19354,6 @@ URL:https://setasidebrief.com/o/556fff2a74a24be49aa019d845bef416/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-a38340b0b4294b96a3efba2157a52ef4@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Closes: MSG Cook Service\, Riga\, Latvia
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-03 14:00 UTC+02:00\nD
- etails: https://setasidebrief.com/o/a38340b0b4294b96a3efba2157a52ef4/\nOf
- ficial notice: https://sam.gov/opp/a38340b0b4294b96a3efba2157a52ef4/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/a38340b0b4294b96a3efba2157a52ef4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-dbe204284bc949198fcaa81b87f20769@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261203
@@ -19467,6 +19367,22 @@ DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-03 14:00 UTC+02:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/dbe204284bc949198fcaa81b87f20769/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-a38340b0b4294b96a3efba2157a52ef4@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Closes: MSG Cook Service\, Riga\, Latvia
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-03 14:00 UTC+02:00\nD
+ etails: https://setasidebrief.com/o/a38340b0b4294b96a3efba2157a52ef4/\nOf
+ ficial notice: https://sam.gov/opp/a38340b0b4294b96a3efba2157a52ef4/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/a38340b0b4294b96a3efba2157a52ef4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -20128,6 +20044,22 @@ URL:https://setasidebrief.com/o/636848d324744edfbcca6e18e420dd64/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-98bb064f93a4474eaef326d5aebcf419@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Closes: Z--Elevator Inspection and Certification Services
+DESCRIPTION:BUREAU OF RECLAMATION\nDeadline: 2026-12-03 10:00 UTC-08:00\nD
+ etails: https://setasidebrief.com/o/98bb064f93a4474eaef326d5aebcf419/\nOf
+ ficial notice: https://sam.gov/opp/98bb064f93a4474eaef326d5aebcf419/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/98bb064f93a4474eaef326d5aebcf419/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-33a09a8a2b96498289f670aca1915546@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261203
@@ -20220,22 +20152,6 @@ DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-0
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://setasidebrief.com/o/10f5ed3071404177847a261c4b7eead4/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-98bb064f93a4474eaef326d5aebcf419@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Closes: Z--Elevator Inspection and Certification Services
-DESCRIPTION:BUREAU OF RECLAMATION\nDeadline: 2026-12-03 10:00 UTC-08:00\nD
- etails: https://setasidebrief.com/o/98bb064f93a4474eaef326d5aebcf419/\nOf
- ficial notice: https://sam.gov/opp/98bb064f93a4474eaef326d5aebcf419/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/98bb064f93a4474eaef326d5aebcf419/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -20800,6 +20716,22 @@ URL:https://setasidebrief.com/o/ce4e16cdd99c478fb7d599fa98f63acc/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-5f539bafb5ed406f9cd40c295b45bf64@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Closes: Jumping Jack Compactors for BIA\, Navajo Region\, Br
+DESCRIPTION:BUREAU OF INDIAN AFFAIRS\nDeadline: 2026-12-03 15:00 UTC-07:00
+ \nDetails: https://setasidebrief.com/o/5f539bafb5ed406f9cd40c295b45bf64/\
+ nOfficial notice: https://sam.gov/opp/5f539bafb5ed406f9cd40c295b45bf64/vi
+ ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
+ tration)\, retrieved 2026-11-27. U.S. government work\; public domain in 
+ the United States (17 U.S.C. 105). Unofficial\; always check the official
+  notice.
+URL:https://setasidebrief.com/o/5f539bafb5ed406f9cd40c295b45bf64/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-b02df73747c741139843946eb79bdc24@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261203
@@ -21023,22 +20955,6 @@ DESCRIPTION:FEDERAL HIGHWAY ADMINISTRATION\nDeadline: 2026-12-03 14:00 UTC
  in in the United States (17 U.S.C. 105). Unofficial\; always check the of
  ficial notice.
 URL:https://setasidebrief.com/o/5bfafc7a364846f7addf363148201c8a/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-5f539bafb5ed406f9cd40c295b45bf64@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Closes: Jumping Jack Compactors for BIA\, Navajo Region\, Br
-DESCRIPTION:BUREAU OF INDIAN AFFAIRS\nDeadline: 2026-12-03 15:00 UTC-07:00
- \nDetails: https://setasidebrief.com/o/5f539bafb5ed406f9cd40c295b45bf64/\
- nOfficial notice: https://sam.gov/opp/5f539bafb5ed406f9cd40c295b45bf64/vi
- ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
- tration)\, retrieved 2026-11-27. U.S. government work\; public domain in 
- the United States (17 U.S.C. 105). Unofficial\; always check the official
-  notice.
-URL:https://setasidebrief.com/o/5f539bafb5ed406f9cd40c295b45bf64/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -21904,6 +21820,23 @@ URL:https://setasidebrief.com/o/8a8f87bbbb6f4e3d84013e21e2e71cbc/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-5580d263b2ac4f5f92bf31ac11a41705@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: Aviation Operations Center (AOC)- Building Engineer Report
+  (BER)
+DESCRIPTION:DRUG ENFORCEMENT ADMINISTRATION\nDeadline: 2026-12-04 10:00 UT
+ C-05:00\nDetails: https://setasidebrief.com/o/5580d263b2ac4f5f92bf31ac11a
+ 41705/\nOfficial notice: https://sam.gov/opp/5580d263b2ac4f5f92bf31ac11a4
+ 1705/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
+ Administration)\, retrieved 2026-11-27. U.S. government work\; public dom
+ ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
+ fficial notice.
+URL:https://setasidebrief.com/o/5580d263b2ac4f5f92bf31ac11a41705/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-17b3df01b5224c9b835e3924fd735e14@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -22082,23 +22015,6 @@ URL:https://setasidebrief.com/o/9e673fec9c89408b81050cf76f3d4ba1/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-5580d263b2ac4f5f92bf31ac11a41705@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Aviation Operations Center (AOC)- Building Engineer Report
-  (BER)
-DESCRIPTION:DRUG ENFORCEMENT ADMINISTRATION\nDeadline: 2026-12-04 10:00 UT
- C-05:00\nDetails: https://setasidebrief.com/o/5580d263b2ac4f5f92bf31ac11a
- 41705/\nOfficial notice: https://sam.gov/opp/5580d263b2ac4f5f92bf31ac11a4
- 1705/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
- Administration)\, retrieved 2026-11-27. U.S. government work\; public dom
- ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
- fficial notice.
-URL:https://setasidebrief.com/o/5580d263b2ac4f5f92bf31ac11a41705/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-ece1fcb637f9402f9d018f808eb8acb7@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -22146,6 +22062,23 @@ DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-04 10:30 UTC-05:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/98328d2b6e2e46b698f49325656d6785/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-30577cf9003244ddab244aa9be116443@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: Sources Sought Fayetteville NC Vet Center New/Replacing Le
+ ase
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 10:00 U
+ TC-06:00\nDetails: https://setasidebrief.com/o/30577cf9003244ddab244aa9be
+ 116443/\nOfficial notice: https://sam.gov/opp/30577cf9003244ddab244aa9be1
+ 16443/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/30577cf9003244ddab244aa9be116443/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22388,20 +22321,52 @@ URL:https://setasidebrief.com/o/e4fa6ced73cf448f9259359ef2b8eeab/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-30577cf9003244ddab244aa9be116443@setasidebrief.com
+UID:contract-radar-078af53c5fd0438589dfd761ac5f4197@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Sources Sought Fayetteville NC Vet Center New/Replacing Le
- ase
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 10:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/30577cf9003244ddab244aa9be
- 116443/\nOfficial notice: https://sam.gov/opp/30577cf9003244ddab244aa9be1
- 16443/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+SUMMARY:Closes: J--Sources sought maintenance for Nexion2000C
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 09:00 UTC-08:00\nDe
+ tails: https://setasidebrief.com/o/078af53c5fd0438589dfd761ac5f4197/\nOff
+ icial notice: https://sam.gov/opp/078af53c5fd0438589dfd761ac5f4197/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/078af53c5fd0438589dfd761ac5f4197/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-ce3261fee2e84de29cb3416fea035de8@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: Geochemical Analyses
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 12:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/ce3261fee2e84de29cb3416fea035de8/\nOff
+ icial notice: https://sam.gov/opp/ce3261fee2e84de29cb3416fea035de8/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/ce3261fee2e84de29cb3416fea035de8/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-fd084bb869b64cab804017c358b67801@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: R425--FY 27 Service (Base+4) | NYH Energy Control Procedur
+ es/LOTO Services | 630
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 12:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/fd084bb869b64cab804017c358
+ b67801/\nOfficial notice: https://sam.gov/opp/fd084bb869b64cab804017c358b
+ 67801/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
   Administration)\, retrieved 2026-11-27. U.S. government work\; public do
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
-URL:https://setasidebrief.com/o/30577cf9003244ddab244aa9be116443/
+URL:https://setasidebrief.com/o/fd084bb869b64cab804017c358b67801/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22644,52 +22609,20 @@ URL:https://setasidebrief.com/o/2be442c5e19a4c3cb2aafe6522843256/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-fd084bb869b64cab804017c358b67801@setasidebrief.com
+UID:contract-radar-f6630b3b05674dae94180e5d2b77e097@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: R425--FY 27 Service (Base+4) | NYH Energy Control Procedur
- es/LOTO Services | 630
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 12:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/fd084bb869b64cab804017c358
- b67801/\nOfficial notice: https://sam.gov/opp/fd084bb869b64cab804017c358b
- 67801/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/fd084bb869b64cab804017c358b67801/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-078af53c5fd0438589dfd761ac5f4197@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: J--Sources sought maintenance for Nexion2000C
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 09:00 UTC-08:00\nDe
- tails: https://setasidebrief.com/o/078af53c5fd0438589dfd761ac5f4197/\nOff
- icial notice: https://sam.gov/opp/078af53c5fd0438589dfd761ac5f4197/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/078af53c5fd0438589dfd761ac5f4197/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ce3261fee2e84de29cb3416fea035de8@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Geochemical Analyses
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 12:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/ce3261fee2e84de29cb3416fea035de8/\nOff
- icial notice: https://sam.gov/opp/ce3261fee2e84de29cb3416fea035de8/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/ce3261fee2e84de29cb3416fea035de8/
+SUMMARY:Closes: Frozen Beef Coarse Ground Products for Domestic Food Assis
+ tance Programs
+DESCRIPTION:AGRICULTURAL MARKETING SERVICE\nDeadline: 2026-12-04 13:00 UTC
+ -05:00\nDetails: https://setasidebrief.com/o/f6630b3b05674dae94180e5d2b77
+ e097/\nOfficial notice: https://sam.gov/opp/f6630b3b05674dae94180e5d2b77e
+ 097/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
+ dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
+ in in the United States (17 U.S.C. 105). Unofficial\; always check the of
+ ficial notice.
+URL:https://setasidebrief.com/o/f6630b3b05674dae94180e5d2b77e097/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22919,23 +22852,6 @@ URL:https://setasidebrief.com/o/dfc1662be5f54390afc68071102663b7/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-f6630b3b05674dae94180e5d2b77e097@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Frozen Beef Coarse Ground Products for Domestic Food Assis
- tance Programs
-DESCRIPTION:AGRICULTURAL MARKETING SERVICE\nDeadline: 2026-12-04 13:00 UTC
- -05:00\nDetails: https://setasidebrief.com/o/f6630b3b05674dae94180e5d2b77
- e097/\nOfficial notice: https://sam.gov/opp/f6630b3b05674dae94180e5d2b77e
- 097/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/f6630b3b05674dae94180e5d2b77e097/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-3848689ccd6c46379904bd23607d4e6c@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -22966,6 +22882,22 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 13:30 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/10e97575e8544488a195733026ef273e/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-fbc78696b6664ac4b7cf9fa0d88ed616@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: Radiant Heating Panel Replacement
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 12:00 U
+ TC-07:00\nDetails: https://setasidebrief.com/o/fbc78696b6664ac4b7cf9fa0d8
+ 8ed616/\nOfficial notice: https://sam.gov/opp/fbc78696b6664ac4b7cf9fa0d88
+ ed616/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/fbc78696b6664ac4b7cf9fa0d88ed616/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -23197,22 +23129,6 @@ URL:https://setasidebrief.com/o/e73d37a368df4c6bac5a773d7c0df680/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-fbc78696b6664ac4b7cf9fa0d88ed616@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Radiant Heating Panel Replacement
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 12:00 U
- TC-07:00\nDetails: https://setasidebrief.com/o/fbc78696b6664ac4b7cf9fa0d8
- 8ed616/\nOfficial notice: https://sam.gov/opp/fbc78696b6664ac4b7cf9fa0d88
- ed616/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/fbc78696b6664ac4b7cf9fa0d88ed616/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-57c139c3f4724862a8d3c16ddadbb858@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -23226,6 +23142,22 @@ DESCRIPTION:ENERGY\, DEPARTMENT OF\nDeadline: 2026-12-04 14:30 UTC-05:00\n
  e United States (17 U.S.C. 105). Unofficial\; always check the official n
  otice.
 URL:https://setasidebrief.com/o/57c139c3f4724862a8d3c16ddadbb858/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-ca4333fcb56a4405a351b07a2d753ecc@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: ES BLDG 1624 RM 203 VTC & A/V Upgrade - FY27 RFQ
+DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-04 15:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/ca4333fcb56a4405a351b07a2d753ecc/\nOf
+ ficial notice: https://sam.gov/opp/ca4333fcb56a4405a351b07a2d753ecc/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/ca4333fcb56a4405a351b07a2d753ecc/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -23644,22 +23576,6 @@ URL:https://setasidebrief.com/o/2c624d0668744bc89d37e48ea7fb7fd4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-ca4333fcb56a4405a351b07a2d753ecc@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: ES BLDG 1624 RM 203 VTC & A/V Upgrade - FY27 RFQ
-DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-04 15:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/ca4333fcb56a4405a351b07a2d753ecc/\nOf
- ficial notice: https://sam.gov/opp/ca4333fcb56a4405a351b07a2d753ecc/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/ca4333fcb56a4405a351b07a2d753ecc/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-1e0d5279ae004d328bdb083b5a1abf8d@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -23688,6 +23604,22 @@ DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2026-12-04 16:30 UTC-04:00\nDetail
  \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/59cdaedbb4154ffc8df228e5961bb99b/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-1ea59750fe304c668a1ce0e35b8219b3@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: Cable TV KCVA
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 16:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/1ea59750fe304c668a1ce0e35b
+ 8219b3/\nOfficial notice: https://sam.gov/opp/1ea59750fe304c668a1ce0e35b8
+ 219b3/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/1ea59750fe304c668a1ce0e35b8219b3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -24159,19 +24091,35 @@ URL:https://setasidebrief.com/o/82054a01032d4fb4b1202ed23f7c7373/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-1ea59750fe304c668a1ce0e35b8219b3@setasidebrief.com
+UID:contract-radar-8f71be73d0734020af2f746301c590cb@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: Cable TV KCVA
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-04 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/1ea59750fe304c668a1ce0e35b
- 8219b3/\nOfficial notice: https://sam.gov/opp/1ea59750fe304c668a1ce0e35b8
- 219b3/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/1ea59750fe304c668a1ce0e35b8219b3/
+SUMMARY:Closes: GAOA Mesa Falls VC Roof Repairs in Caribou-Targhee Nationa
+ l Forest\, Idaho
+DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-04 15:00 UTC-07:00\nDetails:
+  https://setasidebrief.com/o/8f71be73d0734020af2f746301c590cb/\nOfficial 
+ notice: https://sam.gov/opp/8f71be73d0734020af2f746301c590cb/view\nSource
+ : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
+  retrieved 2026-11-27. U.S. government work\; public domain in the United
+  States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/8f71be73d0734020af2f746301c590cb/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-a5cc92a8ea8b498ead9516e8e5ce75b6@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Closes: (1200 EA) Garbage Racks - First Article
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 17:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/a5cc92a8ea8b498ead9516e8e5ce75b6/\nOff
+ icial notice: https://sam.gov/opp/a5cc92a8ea8b498ead9516e8e5ce75b6/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/a5cc92a8ea8b498ead9516e8e5ce75b6/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -24414,38 +24362,6 @@ DESCRIPTION:US GEOLOGICAL SURVEY\nDeadline: 2026-12-04 17:00 UTC-05:00\nDe
  United States (17 U.S.C. 105). Unofficial\; always check the official not
  ice.
 URL:https://setasidebrief.com/o/c6c1f72d824040fa98baecb444872b5d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-8f71be73d0734020af2f746301c590cb@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: GAOA Mesa Falls VC Roof Repairs in Caribou-Targhee Nationa
- l Forest\, Idaho
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-04 15:00 UTC-07:00\nDetails:
-  https://setasidebrief.com/o/8f71be73d0734020af2f746301c590cb/\nOfficial 
- notice: https://sam.gov/opp/8f71be73d0734020af2f746301c590cb/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-27. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/8f71be73d0734020af2f746301c590cb/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-a5cc92a8ea8b498ead9516e8e5ce75b6@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Closes: (1200 EA) Garbage Racks - First Article
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-04 17:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/a5cc92a8ea8b498ead9516e8e5ce75b6/\nOff
- icial notice: https://sam.gov/opp/a5cc92a8ea8b498ead9516e8e5ce75b6/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/a5cc92a8ea8b498ead9516e8e5ce75b6/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -25040,6 +24956,37 @@ URL:https://setasidebrief.com/o/64c309ace81f4bbb9becf62fba3e91b4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-32f6f54d3e1b4f769ebb2c679ce80e2e@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Closes: B510--Industrial Hygienist Service
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-05 10:00 U
+ TC-06:00\nDetails: https://setasidebrief.com/o/32f6f54d3e1b4f769ebb2c679c
+ e80e2e/\nOfficial notice: https://sam.gov/opp/32f6f54d3e1b4f769ebb2c679ce
+ 80e2e/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/32f6f54d3e1b4f769ebb2c679ce80e2e/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-34839a6a40404ded93d81620bf604bc4@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Closes: STA FIRE ISLAND EMERGENCY DOOR REPLACEMENT (4)
+DESCRIPTION:US COAST GUARD\nDeadline: 2026-12-05 12:00 UTC-05:00\nDetails:
+  https://setasidebrief.com/o/34839a6a40404ded93d81620bf604bc4/\nOfficial 
+ notice: https://sam.gov/opp/34839a6a40404ded93d81620bf604bc4/view\nSource
+ : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
+  retrieved 2026-11-27. U.S. government work\; public domain in the United
+  States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/34839a6a40404ded93d81620bf604bc4/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-cc4ee6d75af4458b86895aa2687f59af@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261205
@@ -25070,21 +25017,6 @@ DESCRIPTION:LIBRARY OF CONGRESS\nDeadline: 2026-12-05 12:00 UTC-05:00\nDet
  nited States (17 U.S.C. 105). Unofficial\; always check the official noti
  ce.
 URL:https://setasidebrief.com/o/f10a162830cc4cb3ab9bc733b326a883/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-34839a6a40404ded93d81620bf604bc4@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:Closes: STA FIRE ISLAND EMERGENCY DOOR REPLACEMENT (4)
-DESCRIPTION:US COAST GUARD\nDeadline: 2026-12-05 12:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/34839a6a40404ded93d81620bf604bc4/\nOfficial 
- notice: https://sam.gov/opp/34839a6a40404ded93d81620bf604bc4/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-27. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/34839a6a40404ded93d81620bf604bc4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -25773,6 +25705,22 @@ URL:https://setasidebrief.com/o/e86bce2c7d594d8ba016060da00e8a59/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-379291a0aa6144e1b67b50bdb060b4da@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: Refrigerators and Freezers for Oakland CBOC
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 09:00 U
+ TC-06:00\nDetails: https://setasidebrief.com/o/379291a0aa6144e1b67b50bdb0
+ 60b4da/\nOfficial notice: https://sam.gov/opp/379291a0aa6144e1b67b50bdb06
+ 0b4da/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/379291a0aa6144e1b67b50bdb060b4da/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-7ca33cb238f948e58e942675e6cae33b@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
@@ -26098,19 +26046,35 @@ URL:https://setasidebrief.com/o/94a2198095d44e0daefb7b99d56f678b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-379291a0aa6144e1b67b50bdb060b4da@setasidebrief.com
+UID:contract-radar-7a10184eea0347febab9117f860e7a84@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: Refrigerators and Freezers for Oakland CBOC
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 09:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/379291a0aa6144e1b67b50bdb0
- 60b4da/\nOfficial notice: https://sam.gov/opp/379291a0aa6144e1b67b50bdb06
- 0b4da/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/379291a0aa6144e1b67b50bdb060b4da/
+SUMMARY:Closes: N--OHMSETT FUNCTIONAL CLASSROOM UPGRADE
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-07 11:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/7a10184eea0347febab9117f860e7a84/\nOff
+ icial notice: https://sam.gov/opp/7a10184eea0347febab9117f860e7a84/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/7a10184eea0347febab9117f860e7a84/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-403bd787543447859f881e6ecc65da0d@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: FCI Englewood FY27 Quarter 2 Food Service Subsistence
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-0
+ 7 09:00 UTC-07:00\nDetails: https://setasidebrief.com/o/403bd787543447859
+ f881e6ecc65da0d/\nOfficial notice: https://sam.gov/opp/403bd787543447859f
+ 881e6ecc65da0d/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/403bd787543447859f881e6ecc65da0d/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -26258,38 +26222,6 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 11:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/6e76a0b1402f46a49ec6e7b0800ba890/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-403bd787543447859f881e6ecc65da0d@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: FCI Englewood FY27 Quarter 2 Food Service Subsistence
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-0
- 7 09:00 UTC-07:00\nDetails: https://setasidebrief.com/o/403bd787543447859
- f881e6ecc65da0d/\nOfficial notice: https://sam.gov/opp/403bd787543447859f
- 881e6ecc65da0d/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/403bd787543447859f881e6ecc65da0d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-7a10184eea0347febab9117f860e7a84@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: N--OHMSETT FUNCTIONAL CLASSROOM UPGRADE
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-07 11:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/7a10184eea0347febab9117f860e7a84/\nOff
- icial notice: https://sam.gov/opp/7a10184eea0347febab9117f860e7a84/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/7a10184eea0347febab9117f860e7a84/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -26507,6 +26439,23 @@ URL:https://setasidebrief.com/o/f070889d4f8249b8bb550a7b8c1566ce/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-32260411960b4c75ab3ca628a801e528@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: Grand Jury & Deposition Court Reporting Services\; USAO\, 
+ Western District of Pennsylvania (Erie & Johnstown)
+DESCRIPTION:OFFICES\, BOARDS AND DIVISIONS\nDeadline: 2026-12-07 13:00 UTC
+ -05:00\nDetails: https://setasidebrief.com/o/32260411960b4c75ab3ca628a801
+ e528/\nOfficial notice: https://sam.gov/opp/32260411960b4c75ab3ca628a801e
+ 528/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
+ dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
+ in in the United States (17 U.S.C. 105). Unofficial\; always check the of
+ ficial notice.
+URL:https://setasidebrief.com/o/32260411960b4c75ab3ca628a801e528/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-5f9b67355f6340de9fa571eb0d161224@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
@@ -26683,23 +26632,6 @@ URL:https://setasidebrief.com/o/489dfc1637ac4fcb8225dae93fdf721f/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-32260411960b4c75ab3ca628a801e528@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: Grand Jury & Deposition Court Reporting Services\; USAO\, 
- Western District of Pennsylvania (Erie & Johnstown)
-DESCRIPTION:OFFICES\, BOARDS AND DIVISIONS\nDeadline: 2026-12-07 13:00 UTC
- -05:00\nDetails: https://setasidebrief.com/o/32260411960b4c75ab3ca628a801
- e528/\nOfficial notice: https://sam.gov/opp/32260411960b4c75ab3ca628a801e
- 528/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/32260411960b4c75ab3ca628a801e528/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-b8fceec9c4cf4bc4aaa6f1f30e7dd631@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
@@ -26713,6 +26645,39 @@ DESCRIPTION:FEDERAL BUREAU OF INVESTIGATION\nDeadline: 2026-12-07 12:20 UT
  ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
  fficial notice.
 URL:https://setasidebrief.com/o/b8fceec9c4cf4bc4aaa6f1f30e7dd631/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-282ae476ade349eab45eb83163890d11@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: Pork Products for use in Domestic Food Assistance Programs
+DESCRIPTION:AGRICULTURAL MARKETING SERVICE\nDeadline: 2026-12-07 13:00 UTC
+ -06:00\nDetails: https://setasidebrief.com/o/282ae476ade349eab45eb8316389
+ 0d11/\nOfficial notice: https://sam.gov/opp/282ae476ade349eab45eb83163890
+ d11/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
+ dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
+ in in the United States (17 U.S.C. 105). Unofficial\; always check the of
+ ficial notice.
+URL:https://setasidebrief.com/o/282ae476ade349eab45eb83163890d11/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-35834650f43741c6b9ae7cb66ac3ced8@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: WTX Elevator Inspections and Load Testing Services - Amend
+ ed
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 13:00 U
+ TC-06:00\nDetails: https://setasidebrief.com/o/35834650f43741c6b9ae7cb66a
+ c3ced8/\nOfficial notice: https://sam.gov/opp/35834650f43741c6b9ae7cb66ac
+ 3ced8/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/35834650f43741c6b9ae7cb66ac3ced8/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -26837,39 +26802,6 @@ DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-07 13:00 UTC-06:00\nDetails:
   retrieved 2026-11-27. U.S. government work\; public domain in the United
   States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/04b63f242e104b5da897a1f6e6a37aa0/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-35834650f43741c6b9ae7cb66ac3ced8@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: WTX Elevator Inspections and Load Testing Services - Amend
- ed
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 13:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/35834650f43741c6b9ae7cb66a
- c3ced8/\nOfficial notice: https://sam.gov/opp/35834650f43741c6b9ae7cb66ac
- 3ced8/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/35834650f43741c6b9ae7cb66ac3ced8/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-282ae476ade349eab45eb83163890d11@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: Pork Products for use in Domestic Food Assistance Programs
-DESCRIPTION:AGRICULTURAL MARKETING SERVICE\nDeadline: 2026-12-07 13:00 UTC
- -06:00\nDetails: https://setasidebrief.com/o/282ae476ade349eab45eb8316389
- 0d11/\nOfficial notice: https://sam.gov/opp/282ae476ade349eab45eb83163890
- d11/view\nSource: SAM.gov Contract Opportunities (U.S. General Services A
- dministration)\, retrieved 2026-11-27. U.S. government work\; public doma
- in in the United States (17 U.S.C. 105). Unofficial\; always check the of
- ficial notice.
-URL:https://setasidebrief.com/o/282ae476ade349eab45eb83163890d11/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -27527,6 +27459,23 @@ URL:https://setasidebrief.com/o/ddce7c137aaf46229c8e624160dbb696/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-fe01a4790df44d59b0ee71e031080649@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Closes: H141--Animal Lab Air Changes per Hour (ACH) & Pressure Tes
+ ting
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 17:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/fe01a4790df44d59b0ee71e031
+ 080649/\nOfficial notice: https://sam.gov/opp/fe01a4790df44d59b0ee71e0310
+ 80649/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/fe01a4790df44d59b0ee71e031080649/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-d1bbfddaa3404dd2bb8e29a999cb0213@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
@@ -27724,20 +27673,19 @@ URL:https://setasidebrief.com/o/2bb008d110fd413290d3498b75d41f36/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-fe01a4790df44d59b0ee71e031080649@setasidebrief.com
+UID:contract-radar-c957f470a15b4c6ea002dbe733930448@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Closes: H141--Animal Lab Air Changes per Hour (ACH) & Pressure Tes
- ting
+SUMMARY:Closes: 5340 - MEDECO INTELLIGENT KEY HIGH-SECURITY LOCK SYSTEM
 DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-07 17:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/fe01a4790df44d59b0ee71e031
- 080649/\nOfficial notice: https://sam.gov/opp/fe01a4790df44d59b0ee71e0310
- 80649/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+ TC-05:00\nDetails: https://setasidebrief.com/o/c957f470a15b4c6ea002dbe733
+ 930448/\nOfficial notice: https://sam.gov/opp/c957f470a15b4c6ea002dbe7339
+ 30448/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
   Administration)\, retrieved 2026-11-27. U.S. government work\; public do
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
-URL:https://setasidebrief.com/o/fe01a4790df44d59b0ee71e031080649/
+URL:https://setasidebrief.com/o/c957f470a15b4c6ea002dbe733930448/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -28644,6 +28592,22 @@ URL:https://setasidebrief.com/o/2301c619f8ad470485a15f6f5a2015f8/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-00604f81e0c54ab4a4179b0aac005bf7@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Closes: 68--EESC Leetown Science Center (LSC) Propane IDIQ
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-08 10:00 UTC-07:00\nDe
+ tails: https://setasidebrief.com/o/00604f81e0c54ab4a4179b0aac005bf7/\nOff
+ icial notice: https://sam.gov/opp/00604f81e0c54ab4a4179b0aac005bf7/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/00604f81e0c54ab4a4179b0aac005bf7/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-89b2b3baf14041e89139fcd24dc1faa3@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261208
@@ -28851,22 +28815,6 @@ DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-08 11:00 UTC-06:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/01cbd9d50d53429f95472bfcfed9e1f8/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-00604f81e0c54ab4a4179b0aac005bf7@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:Closes: 68--EESC Leetown Science Center (LSC) Propane IDIQ
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-08 10:00 UTC-07:00\nDe
- tails: https://setasidebrief.com/o/00604f81e0c54ab4a4179b0aac005bf7/\nOff
- icial notice: https://sam.gov/opp/00604f81e0c54ab4a4179b0aac005bf7/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/00604f81e0c54ab4a4179b0aac005bf7/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -29175,6 +29123,23 @@ URL:https://setasidebrief.com/o/a184247c71414dca9f798198247a00bf/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-59bb531a1eb542408a4956a7e106973b@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Closes: Z1DZ--Project No. 640A0-27-104\, Replace Roof at Building 
+ 347 - Menlo Park
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-08 13:00 U
+ TC-08:00\nDetails: https://setasidebrief.com/o/59bb531a1eb542408a4956a7e1
+ 06973b/\nOfficial notice: https://sam.gov/opp/59bb531a1eb542408a4956a7e10
+ 6973b/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/59bb531a1eb542408a4956a7e106973b/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-4badf0faa275492a8898366f3cfcb4f9@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261208
@@ -29254,23 +29219,6 @@ DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-08 15:00 UTC-06:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/51572bf6637c473bb0fb1dc41df1982b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-59bb531a1eb542408a4956a7e106973b@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:Closes: Z1DZ--Project No. 640A0-27-104\, Replace Roof at Building 
- 347 - Menlo Park
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-08 13:00 U
- TC-08:00\nDetails: https://setasidebrief.com/o/59bb531a1eb542408a4956a7e1
- 06973b/\nOfficial notice: https://sam.gov/opp/59bb531a1eb542408a4956a7e10
- 6973b/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/59bb531a1eb542408a4956a7e106973b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -29791,6 +29739,22 @@ URL:https://setasidebrief.com/o/086b2aa4bde7439fa29940d5aff3a8ec/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-dcc8611f046b497aba84a635591937f6@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Closes: Z1DA--Upgrade Fire Alarm System Construction 676-22-110
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 10:00 U
+ TC-06:00\nDetails: https://setasidebrief.com/o/dcc8611f046b497aba84a63559
+ 1937f6/\nOfficial notice: https://sam.gov/opp/dcc8611f046b497aba84a635591
+ 937f6/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/dcc8611f046b497aba84a635591937f6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-b1e7354223224f88832d6224bfd62938@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -29887,22 +29851,6 @@ DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-09 09:00 UTC-07:00\nDetails:
   retrieved 2026-11-27. U.S. government work\; public domain in the United
   States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/828bac9aee6f4431a00dd3ac778388b1/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-dcc8611f046b497aba84a635591937f6@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Closes: Z1DA--Upgrade Fire Alarm System Construction 676-22-110
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 10:00 U
- TC-06:00\nDetails: https://setasidebrief.com/o/dcc8611f046b497aba84a63559
- 1937f6/\nOfficial notice: https://sam.gov/opp/dcc8611f046b497aba84a635591
- 937f6/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/dcc8611f046b497aba84a635591937f6/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30167,6 +30115,23 @@ URL:https://setasidebrief.com/o/9a99b38488df4a31a78b196b7e16f0a8/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-d92430ebc3fa4d9b9a31d9f92a04b90f@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Closes: Z2DA--FY27 EHRM | 657-21-702JC EHRM Training And Administr
+ ative Space Construction - St Louis John Cochran
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 13:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/d92430ebc3fa4d9b9a31d9f92a
+ 04b90f/\nOfficial notice: https://sam.gov/opp/d92430ebc3fa4d9b9a31d9f92a0
+ 4b90f/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/d92430ebc3fa4d9b9a31d9f92a04b90f/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-fccc2f44c7c943f59d96c863d79f5865@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -30312,6 +30277,23 @@ URL:https://setasidebrief.com/o/6aea9ee857e241d294b1121bbac035f1/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-dfbe63e7383746ddb5cdcd94395c3a39@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Closes: 6685--Equipment-Temperature monitoring VANJHCS for East Or
+ ange and Lyons(VA-27-00007647)
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 15:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/dfbe63e7383746ddb5cdcd9439
+ 5c3a39/\nOfficial notice: https://sam.gov/opp/dfbe63e7383746ddb5cdcd94395
+ c3a39/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/dfbe63e7383746ddb5cdcd94395c3a39/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-18b34a5f8f3b4fda92fde93a390b0d3c@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -30393,23 +30375,6 @@ URL:https://setasidebrief.com/o/0cbd997f40f54e8b9c5e41d7d82c2007/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-dfbe63e7383746ddb5cdcd94395c3a39@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Closes: 6685--Equipment-Temperature monitoring VANJHCS for East Or
- ange and Lyons(VA-27-00007647)
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 15:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/dfbe63e7383746ddb5cdcd9439
- 5c3a39/\nOfficial notice: https://sam.gov/opp/dfbe63e7383746ddb5cdcd94395
- c3a39/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/dfbe63e7383746ddb5cdcd94395c3a39/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-f6c080e1c50243579f8fa1c61af8302c@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -30439,6 +30404,22 @@ DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-09 13:30 UTC-07:00\nDetails:
   retrieved 2026-11-27. U.S. government work\; public domain in the United
   States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/fa85c2ebe38e488db8ef63dfe2d3b453/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-1ce8a37ca7de49a880e7242bd1b596ce@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Closes: MT-CRESTON NWR - Bat Exclusion
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-09 15:00 UTC-06:00\nDe
+ tails: https://setasidebrief.com/o/1ce8a37ca7de49a880e7242bd1b596ce/\nOff
+ icial notice: https://sam.gov/opp/1ce8a37ca7de49a880e7242bd1b596ce/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/1ce8a37ca7de49a880e7242bd1b596ce/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30475,19 +30456,20 @@ URL:https://setasidebrief.com/o/65747435c0224a859780416b36f2d6bf/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-1ce8a37ca7de49a880e7242bd1b596ce@setasidebrief.com
+UID:contract-radar-b02ae796df0a4da1ba4451f36720fc2b@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Closes: MT-CRESTON NWR - Bat Exclusion
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-09 15:00 UTC-06:00\nDe
- tails: https://setasidebrief.com/o/1ce8a37ca7de49a880e7242bd1b596ce/\nOff
- icial notice: https://sam.gov/opp/1ce8a37ca7de49a880e7242bd1b596ce/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/1ce8a37ca7de49a880e7242bd1b596ce/
+SUMMARY:Closes: H399--Vertical Lift Inspection Services VA Sierra Nevada H
+ ealthcare System
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 13:00 U
+ TC-08:00\nDetails: https://setasidebrief.com/o/b02ae796df0a4da1ba4451f367
+ 20fc2b/\nOfficial notice: https://sam.gov/opp/b02ae796df0a4da1ba4451f3672
+ 0fc2b/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/b02ae796df0a4da1ba4451f36720fc2b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30506,6 +30488,21 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-09 16:30 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/bcccbf31f33240df8c7d78b45bc2cb2e/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-d63f508c7af848d4aeda0166b9ae09b3@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Closes: Six (6) Snowmobiles for the Superior National Forest.
+DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-09 17:00 UTC-05:00\nDetails:
+  https://setasidebrief.com/o/d63f508c7af848d4aeda0166b9ae09b3/\nOfficial 
+ notice: https://sam.gov/opp/d63f508c7af848d4aeda0166b9ae09b3/view\nSource
+ : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
+  retrieved 2026-11-27. U.S. government work\; public domain in the United
+  States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/d63f508c7af848d4aeda0166b9ae09b3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30624,21 +30621,6 @@ DESCRIPTION:OFFICES\, BOARDS AND DIVISIONS\nDeadline: 2026-12-09 17:00 UTC
  in in the United States (17 U.S.C. 105). Unofficial\; always check the of
  ficial notice.
 URL:https://setasidebrief.com/o/6170aad3e8a941db93f85235844cdb5d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-d63f508c7af848d4aeda0166b9ae09b3@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:Closes: Six (6) Snowmobiles for the Superior National Forest.
-DESCRIPTION:FOREST SERVICE\nDeadline: 2026-12-09 17:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/d63f508c7af848d4aeda0166b9ae09b3/\nOfficial 
- notice: https://sam.gov/opp/d63f508c7af848d4aeda0166b9ae09b3/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-27. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/d63f508c7af848d4aeda0166b9ae09b3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -30981,6 +30963,22 @@ URL:https://setasidebrief.com/o/d03ab852e30e40e1965aeb93326b3250/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-58695dfc549341eeace5e85054a75079@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Closes: J--AK-AK MARITIME NWR-LEAK REPAIR
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 11:00 UTC-06:00\nDe
+ tails: https://setasidebrief.com/o/58695dfc549341eeace5e85054a75079/\nOff
+ icial notice: https://sam.gov/opp/58695dfc549341eeace5e85054a75079/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/58695dfc549341eeace5e85054a75079/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-6bf29d637e6540638f65accf02d62d46@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -31059,19 +31057,19 @@ URL:https://setasidebrief.com/o/f67f2ddc10d1436fa07d25333dbdfcdd/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-58695dfc549341eeace5e85054a75079@setasidebrief.com
+UID:contract-radar-ec94ee5c8f804581ac1a061814b665fb@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Closes: J--AK-AK MARITIME NWR-LEAK REPAIR
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 11:00 UTC-06:00\nDe
- tails: https://setasidebrief.com/o/58695dfc549341eeace5e85054a75079/\nOff
- icial notice: https://sam.gov/opp/58695dfc549341eeace5e85054a75079/view\n
+SUMMARY:Closes: BILLINGS MONTANA FIRE FIGHTER HOUSING DOI USWFS
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 10:00 UTC-08:00\nDe
+ tails: https://setasidebrief.com/o/ec94ee5c8f804581ac1a061814b665fb/\nOff
+ icial notice: https://sam.gov/opp/ec94ee5c8f804581ac1a061814b665fb/view\n
  Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
  ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
  United States (17 U.S.C. 105). Unofficial\; always check the official not
  ice.
-URL:https://setasidebrief.com/o/58695dfc549341eeace5e85054a75079/
+URL:https://setasidebrief.com/o/ec94ee5c8f804581ac1a061814b665fb/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -31172,22 +31170,6 @@ URL:https://setasidebrief.com/o/5146899979044d51a8d92cb54a5c2005/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-ec94ee5c8f804581ac1a061814b665fb@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Closes: BILLINGS MONTANA FIRE FIGHTER HOUSING DOI USWFS
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 10:00 UTC-08:00\nDe
- tails: https://setasidebrief.com/o/ec94ee5c8f804581ac1a061814b665fb/\nOff
- icial notice: https://sam.gov/opp/ec94ee5c8f804581ac1a061814b665fb/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/ec94ee5c8f804581ac1a061814b665fb/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-f8a5d2707c8049e18ec8aee2d10613c8@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -31217,6 +31199,22 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-10 13:30 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/557503071f3d4719a8196424d78b2b7b/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-06b09ef4e2bb4cafa35fe6aadecef30b@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Closes: Install Generator- FCI Bastrop
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
+ 0 11:00 UTC-08:00\nDetails: https://setasidebrief.com/o/06b09ef4e2bb4cafa
+ 35fe6aadecef30b/\nOfficial notice: https://sam.gov/opp/06b09ef4e2bb4cafa3
+ 5fe6aadecef30b/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/06b09ef4e2bb4cafa35fe6aadecef30b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -31360,22 +31358,6 @@ URL:https://setasidebrief.com/o/c9a23b98a6c444779c58a615348ac337/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-06b09ef4e2bb4cafa35fe6aadecef30b@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Closes: Install Generator- FCI Bastrop
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
- 0 11:00 UTC-08:00\nDetails: https://setasidebrief.com/o/06b09ef4e2bb4cafa
- 35fe6aadecef30b/\nOfficial notice: https://sam.gov/opp/06b09ef4e2bb4cafa3
- 5fe6aadecef30b/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/06b09ef4e2bb4cafa35fe6aadecef30b/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-403d512bbc8243518518f0ce5e71442a@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -31489,6 +31471,22 @@ URL:https://setasidebrief.com/o/e32f9cdde1d64b6b97e12b5ea49f391b/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-907c2d5b15854215a5da0382ad9b96ec@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Closes: Construction Materials � Dorms Project (Phase 1)
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-10 15:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/907c2d5b15854215a5da0382ad9b96ec/\nOf
+ ficial notice: https://sam.gov/opp/907c2d5b15854215a5da0382ad9b96ec/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/907c2d5b15854215a5da0382ad9b96ec/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-946050dbba5c49c6bbe21f6729f5d90f@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -31535,6 +31533,22 @@ DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-10 16:00 UTC-05:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/c1d079faa87a4c0b990f6840416b9a0f/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-ac617d43c259400c863c103cba20dab0@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Closes: Y--JELA 325250 335621 - Rehabilitate Cemetery
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 17:00 UTC-05:00\nDe
+ tails: https://setasidebrief.com/o/ac617d43c259400c863c103cba20dab0/\nOff
+ icial notice: https://sam.gov/opp/ac617d43c259400c863c103cba20dab0/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/ac617d43c259400c863c103cba20dab0/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -31661,22 +31675,6 @@ DESCRIPTION:ENERGY\, DEPARTMENT OF\nDeadline: 2026-12-10 17:00 UTC-05:00\n
  e United States (17 U.S.C. 105). Unofficial\; always check the official n
  otice.
 URL:https://setasidebrief.com/o/721218a349f44f56b10ca69a57ba596f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-ac617d43c259400c863c103cba20dab0@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Closes: Y--JELA 325250 335621 - Rehabilitate Cemetery
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-10 17:00 UTC-05:00\nDe
- tails: https://setasidebrief.com/o/ac617d43c259400c863c103cba20dab0/\nOff
- icial notice: https://sam.gov/opp/ac617d43c259400c863c103cba20dab0/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/ac617d43c259400c863c103cba20dab0/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -31857,22 +31855,6 @@ URL:https://setasidebrief.com/o/24ea1676f57d4dcbb70c2f668ae2164f/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-0bb23643a5c44551bba16cfec861e7ed@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Closes: RFI Review of Medical Tort Claims
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
- 1 10:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0bb23643a5c44551b
- ba16cfec861e7ed/\nOfficial notice: https://sam.gov/opp/0bb23643a5c44551bb
- a16cfec861e7ed/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/0bb23643a5c44551bba16cfec861e7ed/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-8e7df178d171471ba8c2e8fda2b7d928@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
@@ -31934,6 +31916,22 @@ DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://setasidebrief.com/o/94e236c210e843ed9bf508416bfbba23/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-0bb23643a5c44551bba16cfec861e7ed@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Closes: RFI Review of Medical Tort Claims
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
+ 1 10:00 UTC-05:00\nDetails: https://setasidebrief.com/o/0bb23643a5c44551b
+ ba16cfec861e7ed/\nOfficial notice: https://sam.gov/opp/0bb23643a5c44551bb
+ a16cfec861e7ed/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/0bb23643a5c44551bba16cfec861e7ed/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -32509,6 +32507,23 @@ URL:https://setasidebrief.com/o/891518172984488b9339b6bebacfb42c/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-d804ce14aee54736bcea39745f46516a@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Closes: FTIR (Fourier Transform Infrared Spectroscopy) Integrating
+  Sphere and components
+DESCRIPTION:NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY\nDeadline: 2026
+ -12-11 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/d804ce14aee5
+ 4736bcea39745f46516a/\nOfficial notice: https://sam.gov/opp/d804ce14aee54
+ 736bcea39745f46516a/view\nSource: SAM.gov Contract Opportunities (U.S. Ge
+ neral Services Administration)\, retrieved 2026-11-27. U.S. government wo
+ rk\; public domain in the United States (17 U.S.C. 105). Unofficial\; alw
+ ays check the official notice.
+URL:https://setasidebrief.com/o/d804ce14aee54736bcea39745f46516a/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-3434bd8eb0c1465faca21ca9b5f465d5@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
@@ -32553,23 +32568,6 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-11 15:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/6c0e1405a911478b9df8836333362128/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-d804ce14aee54736bcea39745f46516a@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Closes: FTIR (Fourier Transform Infrared Spectroscopy) Integrating
-  Sphere and components
-DESCRIPTION:NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY\nDeadline: 2026
- -12-11 16:00 UTC-05:00\nDetails: https://setasidebrief.com/o/d804ce14aee5
- 4736bcea39745f46516a/\nOfficial notice: https://sam.gov/opp/d804ce14aee54
- 736bcea39745f46516a/view\nSource: SAM.gov Contract Opportunities (U.S. Ge
- neral Services Administration)\, retrieved 2026-11-27. U.S. government wo
- rk\; public domain in the United States (17 U.S.C. 105). Unofficial\; alw
- ays check the official notice.
-URL:https://setasidebrief.com/o/d804ce14aee54736bcea39745f46516a/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -32747,6 +32745,22 @@ URL:https://setasidebrief.com/o/4e30c94ce9d74b479b8c843a4d9b5688/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-cd00c98ee5a54ca68b43ff567f0dd038@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Closes: Replace Visitor Center Windows\, Lava Beds N.M.
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-11 15:00 UTC-08:00\nDe
+ tails: https://setasidebrief.com/o/cd00c98ee5a54ca68b43ff567f0dd038/\nOff
+ icial notice: https://sam.gov/opp/cd00c98ee5a54ca68b43ff567f0dd038/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/cd00c98ee5a54ca68b43ff567f0dd038/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-d469a11ac2284abe9a37cb7c87c1998b@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261211
@@ -32792,22 +32806,6 @@ DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-11 17:00 UTC-06:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/c0d1877fdc934ce89d51c4cfa379045e/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-cd00c98ee5a54ca68b43ff567f0dd038@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-SUMMARY:Closes: Replace Visitor Center Windows\, Lava Beds N.M.
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-11 15:00 UTC-08:00\nDe
- tails: https://setasidebrief.com/o/cd00c98ee5a54ca68b43ff567f0dd038/\nOff
- icial notice: https://sam.gov/opp/cd00c98ee5a54ca68b43ff567f0dd038/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/cd00c98ee5a54ca68b43ff567f0dd038/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -33244,6 +33242,22 @@ URL:https://setasidebrief.com/o/174a8e6625a846a68cdb8f0b96494c48/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-6065453927a74ba69790bcff739d7269@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Closes: Two (2) Contraband Detection Kits
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-14 11:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/6065453927a74ba69790bcff739d7269/\nOf
+ ficial notice: https://sam.gov/opp/6065453927a74ba69790bcff739d7269/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/6065453927a74ba69790bcff739d7269/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-e8da78bfa52e492db77b899d5693f544@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
@@ -33339,22 +33353,6 @@ DESCRIPTION:DEPT OF THE AIR FORCE\nDeadline: 2026-12-14 10:00 UTC-06:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/b23753e5ad894a0f848de2805485b92c/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6065453927a74ba69790bcff739d7269@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Closes: Two (2) Contraband Detection Kits
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-14 11:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/6065453927a74ba69790bcff739d7269/\nOf
- ficial notice: https://sam.gov/opp/6065453927a74ba69790bcff739d7269/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/6065453927a74ba69790bcff739d7269/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -33594,6 +33592,22 @@ URL:https://setasidebrief.com/o/61801724e1a94d9eba421abb89e85e5f/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-348043b18de34d49a52cbd201d0111d1@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Closes: FCI MCKEAN CAMP ADMIN AIR HANDLING UNIT & INSTALLATION
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
+ 4 14:00 UTC-05:00\nDetails: https://setasidebrief.com/o/348043b18de34d49a
+ 52cbd201d0111d1/\nOfficial notice: https://sam.gov/opp/348043b18de34d49a5
+ 2cbd201d0111d1/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/348043b18de34d49a52cbd201d0111d1/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-d2ccee24ab1744ff9fff80d9c610c0fb@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261214
@@ -33703,22 +33717,6 @@ DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-14 14:00 UTC-05:00\nDe
  United States (17 U.S.C. 105). Unofficial\; always check the official not
  ice.
 URL:https://setasidebrief.com/o/e7ac88b2efad46a3bdca843b625520dc/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-348043b18de34d49a52cbd201d0111d1@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Closes: FCI MCKEAN CAMP ADMIN AIR HANDLING UNIT & INSTALLATION
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
- 4 14:00 UTC-05:00\nDetails: https://setasidebrief.com/o/348043b18de34d49a
- 52cbd201d0111d1/\nOfficial notice: https://sam.gov/opp/348043b18de34d49a5
- 2cbd201d0111d1/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/348043b18de34d49a52cbd201d0111d1/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -34105,6 +34103,22 @@ URL:https://setasidebrief.com/o/8ade577b9ab54cb5a3eef8a224904738/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-6f3d3bbe317a4649ba60d7c178d69567@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Closes: FY 27 HRD: Phase I mobile medical services
+DESCRIPTION:US MARSHALS SERVICE\nDeadline: 2026-12-15 10:00 UTC-05:00\nDet
+ ails: https://setasidebrief.com/o/6f3d3bbe317a4649ba60d7c178d69567/\nOffi
+ cial notice: https://sam.gov/opp/6f3d3bbe317a4649ba60d7c178d69567/view\nS
+ ource: SAM.gov Contract Opportunities (U.S. General Services Administrati
+ on)\, retrieved 2026-11-27. U.S. government work\; public domain in the U
+ nited States (17 U.S.C. 105). Unofficial\; always check the official noti
+ ce.
+URL:https://setasidebrief.com/o/6f3d3bbe317a4649ba60d7c178d69567/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-45d08f759966476d9d29fd7f47d9cd6c@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261215
@@ -34136,22 +34150,6 @@ DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-15 10:00 U
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
 URL:https://setasidebrief.com/o/c7685c34000e4ca498495f4d33603691/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6f3d3bbe317a4649ba60d7c178d69567@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:Closes: FY 27 HRD: Phase I mobile medical services
-DESCRIPTION:US MARSHALS SERVICE\nDeadline: 2026-12-15 10:00 UTC-05:00\nDet
- ails: https://setasidebrief.com/o/6f3d3bbe317a4649ba60d7c178d69567/\nOffi
- cial notice: https://sam.gov/opp/6f3d3bbe317a4649ba60d7c178d69567/view\nS
- ource: SAM.gov Contract Opportunities (U.S. General Services Administrati
- on)\, retrieved 2026-11-27. U.S. government work\; public domain in the U
- nited States (17 U.S.C. 105). Unofficial\; always check the official noti
- ce.
-URL:https://setasidebrief.com/o/6f3d3bbe317a4649ba60d7c178d69567/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -34718,6 +34716,23 @@ URL:https://setasidebrief.com/o/7b79b23ff30f406aa5b26d38c7f2d04d/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-6c33709490da4894a831e4d934605fd7@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Closes: R602--Sterile Processing Service (SPS) Courier Services VA
+  Northern California Health Care System
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-16 10:00 U
+ TC-08:00\nDetails: https://setasidebrief.com/o/6c33709490da4894a831e4d934
+ 605fd7/\nOfficial notice: https://sam.gov/opp/6c33709490da4894a831e4d9346
+ 05fd7/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/6c33709490da4894a831e4d934605fd7/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-06b79bcbc388477faa16b48d28dd9fd2@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261216
@@ -34763,23 +34778,6 @@ DESCRIPTION:AGRICULTURAL RESEARCH SERVICE\nDeadline: 2026-12-16 12:00 UTC-
  n in the United States (17 U.S.C. 105). Unofficial\; always check the off
  icial notice.
 URL:https://setasidebrief.com/o/52ec7727b1d44e2eaee0179982f9853d/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6c33709490da4894a831e4d934605fd7@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Closes: R602--Sterile Processing Service (SPS) Courier Services VA
-  Northern California Health Care System
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-16 10:00 U
- TC-08:00\nDetails: https://setasidebrief.com/o/6c33709490da4894a831e4d934
- 605fd7/\nOfficial notice: https://sam.gov/opp/6c33709490da4894a831e4d9346
- 05fd7/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/6c33709490da4894a831e4d934605fd7/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -35447,6 +35445,60 @@ URL:https://setasidebrief.com/o/3091615159604c4fa75ed872985747a5/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-862a43038b964f2ea8fcff4aa62a64ca@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: 19BC4027Q0018 - Carpet removal and porcelain floor tile / 
+ tile skirting replacement at the International Law Enforcement Academy (I
+ LEA) in Otse..
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/862a43038b964f2ea8fcff4aa62a64ca/\nOf
+ ficial notice: https://sam.gov/opp/862a43038b964f2ea8fcff4aa62a64ca/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/862a43038b964f2ea8fcff4aa62a64ca/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-dd28e06578cf4b83a50452d86010b030@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: 19BC4027Q0019 - Supply and Installation of Blackout and Li
+ ght-Filtering Roller Blinds at International Law Enforcement Academy (ILE
+ A)\, Otse-Hostels 1 and 3
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/dd28e06578cf4b83a50452d86010b030/\nOf
+ ficial notice: https://sam.gov/opp/dd28e06578cf4b83a50452d86010b030/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/dd28e06578cf4b83a50452d86010b030/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-b8b927e49b424f9eaa40119f3f0ca523@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: 19BC4027Q0020 - Supply\, Delivery\, Installation and Commi
+ ssioning of One Indoor Direct-View LED Video Wall\, International Law Enf
+ orcement Academy (ILEA)\, Otse
+DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
+ etails: https://setasidebrief.com/o/b8b927e49b424f9eaa40119f3f0ca523/\nOf
+ ficial notice: https://sam.gov/opp/b8b927e49b424f9eaa40119f3f0ca523/view\
+ nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
+ tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
+  United States (17 U.S.C. 105). Unofficial\; always check the official no
+ tice.
+URL:https://setasidebrief.com/o/b8b927e49b424f9eaa40119f3f0ca523/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-c32706021d30409b8ec04ebf6c0a68dc@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
@@ -35531,57 +35583,19 @@ URL:https://setasidebrief.com/o/bc79a1bf210c495abb21ad39893c96e3/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-862a43038b964f2ea8fcff4aa62a64ca@setasidebrief.com
+UID:contract-radar-e335cc035eca4ab4a3c462f434d71ec8@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Closes: 19BC4027Q0018 - Carpet removal and porcelain floor tile / 
- tile skirting replacement at the International Law Enforcement Academy (I
- LEA) in Otse..
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/862a43038b964f2ea8fcff4aa62a64ca/\nOf
- ficial notice: https://sam.gov/opp/862a43038b964f2ea8fcff4aa62a64ca/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/862a43038b964f2ea8fcff4aa62a64ca/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-dd28e06578cf4b83a50452d86010b030@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Closes: 19BC4027Q0019 - Supply and Installation of Blackout and Li
- ght-Filtering Roller Blinds at International Law Enforcement Academy (ILE
- A)\, Otse-Hostels 1 and 3
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/dd28e06578cf4b83a50452d86010b030/\nOf
- ficial notice: https://sam.gov/opp/dd28e06578cf4b83a50452d86010b030/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/dd28e06578cf4b83a50452d86010b030/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-b8b927e49b424f9eaa40119f3f0ca523@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Closes: 19BC4027Q0020 - Supply\, Delivery\, Installation and Commi
- ssioning of One Indoor Direct-View LED Video Wall\, International Law Enf
- orcement Academy (ILEA)\, Otse
-DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-18 10:00 UTC-05:00\nD
- etails: https://setasidebrief.com/o/b8b927e49b424f9eaa40119f3f0ca523/\nOf
- ficial notice: https://sam.gov/opp/b8b927e49b424f9eaa40119f3f0ca523/view\
- nSource: SAM.gov Contract Opportunities (U.S. General Services Administra
- tion)\, retrieved 2026-11-27. U.S. government work\; public domain in the
-  United States (17 U.S.C. 105). Unofficial\; always check the official no
- tice.
-URL:https://setasidebrief.com/o/b8b927e49b424f9eaa40119f3f0ca523/
+SUMMARY:Closes: FCC Allenwood - Replace HVAC Units - Project 26Z2BE3
+DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
+ 8 11:00 UTC-05:00\nDetails: https://setasidebrief.com/o/e335cc035eca4ab4a
+ 3c462f434d71ec8/\nOfficial notice: https://sam.gov/opp/e335cc035eca4ab4a3
+ c462f434d71ec8/view\nSource: SAM.gov Contract Opportunities (U.S. General
+  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
+ public domain in the United States (17 U.S.C. 105). Unofficial\; always c
+ heck the official notice.
+URL:https://setasidebrief.com/o/e335cc035eca4ab4a3c462f434d71ec8/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -35668,22 +35682,6 @@ URL:https://setasidebrief.com/o/0a53ebdfe3684939bba8ebb0f0f7ce36/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-e335cc035eca4ab4a3c462f434d71ec8@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Closes: FCC Allenwood - Replace HVAC Units - Project 26Z2BE3
-DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2026-12-1
- 8 11:00 UTC-05:00\nDetails: https://setasidebrief.com/o/e335cc035eca4ab4a
- 3c462f434d71ec8/\nOfficial notice: https://sam.gov/opp/e335cc035eca4ab4a3
- c462f434d71ec8/view\nSource: SAM.gov Contract Opportunities (U.S. General
-  Services Administration)\, retrieved 2026-11-27. U.S. government work\; 
- public domain in the United States (17 U.S.C. 105). Unofficial\; always c
- heck the official notice.
-URL:https://setasidebrief.com/o/e335cc035eca4ab4a3c462f434d71ec8/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-17468eac4a774c039d3af14800b2c605@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
@@ -35747,6 +35745,21 @@ URL:https://setasidebrief.com/o/5144c9bfb9e644f9af3a2026d5396d9a/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-24f063dead374eec8fdaa4556a802e63@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Closes: Carpet Replacement at USCG Air Station Clearwater
+DESCRIPTION:US COAST GUARD\nDeadline: 2026-12-18 13:00 UTC-05:00\nDetails:
+  https://setasidebrief.com/o/24f063dead374eec8fdaa4556a802e63/\nOfficial 
+ notice: https://sam.gov/opp/24f063dead374eec8fdaa4556a802e63/view\nSource
+ : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
+  retrieved 2026-11-27. U.S. government work\; public domain in the United
+  States (17 U.S.C. 105). Unofficial\; always check the official notice.
+URL:https://setasidebrief.com/o/24f063dead374eec8fdaa4556a802e63/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-cc7069fb198a403586dab4d23cd2527b@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261218
@@ -35806,21 +35819,6 @@ DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-12-18 12:00 UTC-06:00\nDetail
  \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/9b500140972747489a1249cb6537bcb9/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-24f063dead374eec8fdaa4556a802e63@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:Closes: Carpet Replacement at USCG Air Station Clearwater
-DESCRIPTION:US COAST GUARD\nDeadline: 2026-12-18 13:00 UTC-05:00\nDetails:
-  https://setasidebrief.com/o/24f063dead374eec8fdaa4556a802e63/\nOfficial 
- notice: https://sam.gov/opp/24f063dead374eec8fdaa4556a802e63/view\nSource
- : SAM.gov Contract Opportunities (U.S. General Services Administration)\,
-  retrieved 2026-11-27. U.S. government work\; public domain in the United
-  States (17 U.S.C. 105). Unofficial\; always check the official notice.
-URL:https://setasidebrief.com/o/24f063dead374eec8fdaa4556a802e63/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -36560,6 +36558,22 @@ URL:https://setasidebrief.com/o/a0b6033515764843b1791a14d81abaf4/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-a26c39e66b5b4155af7c00b77ddd7e35@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Closes: HIDDEN HILLS WEST - CULTURAL INVENTORY
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-20 14:00 UTC-09:00\nDe
+ tails: https://setasidebrief.com/o/a26c39e66b5b4155af7c00b77ddd7e35/\nOff
+ icial notice: https://sam.gov/opp/a26c39e66b5b4155af7c00b77ddd7e35/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/a26c39e66b5b4155af7c00b77ddd7e35/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-a491573b9dcc4b018fc45cf5af74d464@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261220
@@ -36574,22 +36588,6 @@ DESCRIPTION:DEPT OF THE ARMY\nDeadline: 2026-12-20 18:00 UTC-05:00\nDetail
  \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/a491573b9dcc4b018fc45cf5af74d464/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-a26c39e66b5b4155af7c00b77ddd7e35@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:Closes: HIDDEN HILLS WEST - CULTURAL INVENTORY
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2026-12-20 14:00 UTC-09:00\nDe
- tails: https://setasidebrief.com/o/a26c39e66b5b4155af7c00b77ddd7e35/\nOff
- icial notice: https://sam.gov/opp/a26c39e66b5b4155af7c00b77ddd7e35/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/a26c39e66b5b4155af7c00b77ddd7e35/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -37088,6 +37086,23 @@ DESCRIPTION:STATE\, DEPARTMENT OF\nDeadline: 2026-12-21 13:00 UTC-05:00\nD
   United States (17 U.S.C. 105). Unofficial\; always check the official no
  tice.
 URL:https://setasidebrief.com/o/bee5329783414815a495f6f347357ffc/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-fe9061d48e57448698d8663db2276168@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Closes: CAMP NELSON NATIONAL CEMETERY\, KY 833CM3030 � CORRECT F
+ CA DEFICIENCIES
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2026-12-21 13:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/fe9061d48e57448698d8663db2
+ 276168/\nOfficial notice: https://sam.gov/opp/fe9061d48e57448698d8663db22
+ 76168/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/fe9061d48e57448698d8663db2276168/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -38805,22 +38820,6 @@ URL:https://setasidebrief.com/o/2babd0128b9c47d2be8ba163fcb95f23/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-29fe5b993db548c284403a810653a740@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-SUMMARY:Closes: Pumps & Motors for Wapato Irrigation Project (WIP)
-DESCRIPTION:BUREAU OF INDIAN AFFAIRS\nDeadline: 2026-12-28 12:00 UTC-08:00
- \nDetails: https://setasidebrief.com/o/29fe5b993db548c284403a810653a740/\
- nOfficial notice: https://sam.gov/opp/29fe5b993db548c284403a810653a740/vi
- ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
- tration)\, retrieved 2026-11-27. U.S. government work\; public domain in 
- the United States (17 U.S.C. 105). Unofficial\; always check the official
-  notice.
-URL:https://setasidebrief.com/o/29fe5b993db548c284403a810653a740/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:contract-radar-244022f2920c41b896dc27faff9cadc1@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261228
@@ -38834,6 +38833,22 @@ DESCRIPTION:US FISH AND WILDLIFE SERVICE\nDeadline: 2026-12-28 12:00 UTC-0
   in the United States (17 U.S.C. 105). Unofficial\; always check the offi
  cial notice.
 URL:https://setasidebrief.com/o/244022f2920c41b896dc27faff9cadc1/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-29fe5b993db548c284403a810653a740@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Closes: Pumps & Motors for Wapato Irrigation Project (WIP)
+DESCRIPTION:BUREAU OF INDIAN AFFAIRS\nDeadline: 2026-12-28 12:00 UTC-08:00
+ \nDetails: https://setasidebrief.com/o/29fe5b993db548c284403a810653a740/\
+ nOfficial notice: https://sam.gov/opp/29fe5b993db548c284403a810653a740/vi
+ ew\nSource: SAM.gov Contract Opportunities (U.S. General Services Adminis
+ tration)\, retrieved 2026-11-27. U.S. government work\; public domain in 
+ the United States (17 U.S.C. 105). Unofficial\; always check the official
+  notice.
+URL:https://setasidebrief.com/o/29fe5b993db548c284403a810653a740/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -39677,6 +39692,22 @@ URL:https://setasidebrief.com/o/76148f6bf818474e9a0b0d4405755ec2/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-eaf05cdfaf1944eda7c2be989f80bdf6@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Closes: Single and Dual Axle Enclosed Trailers
+DESCRIPTION:DRUG ENFORCEMENT ADMINISTRATION\nDeadline: 2027-01-04 17:00 UT
+ C-05:00\nDetails: https://setasidebrief.com/o/eaf05cdfaf1944eda7c2be989f8
+ 0bdf6/\nOfficial notice: https://sam.gov/opp/eaf05cdfaf1944eda7c2be989f80
+ bdf6/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
+ Administration)\, retrieved 2026-11-27. U.S. government work\; public dom
+ ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
+ fficial notice.
+URL:https://setasidebrief.com/o/eaf05cdfaf1944eda7c2be989f80bdf6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-82e9ca673fa346fcaaacc63a652b6cdc@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270104
@@ -39706,22 +39737,6 @@ DESCRIPTION:DEPT OF THE NAVY\nDeadline: 2027-01-04 16:00 UTC-06:00\nDetail
  \, retrieved 2026-11-27. U.S. government work\; public domain in the Unit
  ed States (17 U.S.C. 105). Unofficial\; always check the official notice.
 URL:https://setasidebrief.com/o/f2bd14d4bf0044e6a488bb704fb2797f/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-eaf05cdfaf1944eda7c2be989f80bdf6@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20270104
-DTEND;VALUE=DATE:20270105
-SUMMARY:Closes: Single and Dual Axle Enclosed Trailers
-DESCRIPTION:DRUG ENFORCEMENT ADMINISTRATION\nDeadline: 2027-01-04 17:00 UT
- C-05:00\nDetails: https://setasidebrief.com/o/eaf05cdfaf1944eda7c2be989f8
- 0bdf6/\nOfficial notice: https://sam.gov/opp/eaf05cdfaf1944eda7c2be989f80
- bdf6/view\nSource: SAM.gov Contract Opportunities (U.S. General Services 
- Administration)\, retrieved 2026-11-27. U.S. government work\; public dom
- ain in the United States (17 U.S.C. 105). Unofficial\; always check the o
- fficial notice.
-URL:https://setasidebrief.com/o/eaf05cdfaf1944eda7c2be989f80bdf6/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -40230,6 +40245,23 @@ URL:https://setasidebrief.com/o/16c430e81b994828af7e2871c64f562c/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-54e041dc32134a17adff2931b3111747@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Closes: Z2DA--652-23-109 Renovate SPS Phase 3 Previous Notice: 36C
+ 24627R0011_1
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2027-01-06 15:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/54e041dc32134a17adff2931b3
+ 111747/\nOfficial notice: https://sam.gov/opp/54e041dc32134a17adff2931b31
+ 11747/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
+ main in the United States (17 U.S.C. 105). Unofficial\; always check the 
+ official notice.
+URL:https://setasidebrief.com/o/54e041dc32134a17adff2931b3111747/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-f254169aa279439cba42e57fa1ec5c2f@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270106
@@ -40247,20 +40279,36 @@ URL:https://setasidebrief.com/o/f254169aa279439cba42e57fa1ec5c2f/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:contract-radar-54e041dc32134a17adff2931b3111747@setasidebrief.com
+UID:contract-radar-6591037532fc4acab06977c6500f36bb@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Closes: Operations and Maintenance (O&M) Services for the SBIWTP
+DESCRIPTION:INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO\nDeadli
+ ne: 2027-01-06 14:00 UTC-07:00\nDetails: https://setasidebrief.com/o/6591
+ 037532fc4acab06977c6500f36bb/\nOfficial notice: https://sam.gov/opp/65910
+ 37532fc4acab06977c6500f36bb/view\nSource: SAM.gov Contract Opportunities 
+ (U.S. General Services Administration)\, retrieved 2026-11-27. U.S. gover
+ nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
+ al\; always check the official notice.
+URL:https://setasidebrief.com/o/6591037532fc4acab06977c6500f36bb/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:contract-radar-9b5877f7dd914066abb641ed2baa9d19@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Closes: Z2DA--652-23-109 Renovate SPS Phase 3 Previous Notice: 36C
  24627R0011_1
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2027-01-06 15:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/54e041dc32134a17adff2931b3
- 111747/\nOfficial notice: https://sam.gov/opp/54e041dc32134a17adff2931b31
- 11747/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
+DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2027-01-06 16:00 U
+ TC-05:00\nDetails: https://setasidebrief.com/o/9b5877f7dd914066abb641ed2b
+ aa9d19/\nOfficial notice: https://sam.gov/opp/9b5877f7dd914066abb641ed2ba
+ a9d19/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
   Administration)\, retrieved 2026-11-27. U.S. government work\; public do
  main in the United States (17 U.S.C. 105). Unofficial\; always check the 
  official notice.
-URL:https://setasidebrief.com/o/54e041dc32134a17adff2931b3111747/
+URL:https://setasidebrief.com/o/9b5877f7dd914066abb641ed2baa9d19/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -40293,39 +40341,6 @@ DESCRIPTION:INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO\nDeadli
  nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
  al\; always check the official notice.
 URL:https://setasidebrief.com/o/914376ce07f6437498402db59dea35ff/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-9b5877f7dd914066abb641ed2baa9d19@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:Closes: Z2DA--652-23-109 Renovate SPS Phase 3 Previous Notice: 36C
- 24627R0011_1
-DESCRIPTION:VETERANS AFFAIRS\, DEPARTMENT OF\nDeadline: 2027-01-06 16:00 U
- TC-05:00\nDetails: https://setasidebrief.com/o/9b5877f7dd914066abb641ed2b
- aa9d19/\nOfficial notice: https://sam.gov/opp/9b5877f7dd914066abb641ed2ba
- a9d19/view\nSource: SAM.gov Contract Opportunities (U.S. General Services
-  Administration)\, retrieved 2026-11-27. U.S. government work\; public do
- main in the United States (17 U.S.C. 105). Unofficial\; always check the 
- official notice.
-URL:https://setasidebrief.com/o/9b5877f7dd914066abb641ed2baa9d19/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-6591037532fc4acab06977c6500f36bb@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:Closes: Operations and Maintenance (O&M) Services for the SBIWTP
-DESCRIPTION:INTERNATIONAL BOUNDARY AND WATER COMMISSION: US-MEXICO\nDeadli
- ne: 2027-01-06 14:00 UTC-07:00\nDetails: https://setasidebrief.com/o/6591
- 037532fc4acab06977c6500f36bb/\nOfficial notice: https://sam.gov/opp/65910
- 37532fc4acab06977c6500f36bb/view\nSource: SAM.gov Contract Opportunities 
- (U.S. General Services Administration)\, retrieved 2026-11-27. U.S. gover
- nment work\; public domain in the United States (17 U.S.C. 105). Unoffici
- al\; always check the official notice.
-URL:https://setasidebrief.com/o/6591037532fc4acab06977c6500f36bb/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -40457,6 +40472,22 @@ URL:https://setasidebrief.com/o/fa53f2a6c0514c129787aa10c6cdf990/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:contract-radar-da71a321b7604e9dba19420e19d7b4c5@setasidebrief.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Closes: Y--GRCA 318719 North Rim & Springs Rehabilitation Pro
+DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2027-01-08 12:00 UTC-07:00\nDe
+ tails: https://setasidebrief.com/o/da71a321b7604e9dba19420e19d7b4c5/\nOff
+ icial notice: https://sam.gov/opp/da71a321b7604e9dba19420e19d7b4c5/view\n
+ Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
+ ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
+ United States (17 U.S.C. 105). Unofficial\; always check the official not
+ ice.
+URL:https://setasidebrief.com/o/da71a321b7604e9dba19420e19d7b4c5/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:contract-radar-8ca9eaec3cf147e6ac45445513c23c04@setasidebrief.com
 DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20270108
@@ -40489,22 +40520,6 @@ DESCRIPTION:FEDERAL PRISON SYSTEM / BUREAU OF PRISONS\nDeadline: 2027-01-0
  public domain in the United States (17 U.S.C. 105). Unofficial\; always c
  heck the official notice.
 URL:https://setasidebrief.com/o/47535ef2f22e496ab058584b990392f0/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:contract-radar-da71a321b7604e9dba19420e19d7b4c5@setasidebrief.com
-DTSTAMP:20261126T000000Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:Closes: Y--GRCA 318719 North Rim & Springs Rehabilitation Pro
-DESCRIPTION:DEPARTMENTAL OFFICES\nDeadline: 2027-01-08 12:00 UTC-07:00\nDe
- tails: https://setasidebrief.com/o/da71a321b7604e9dba19420e19d7b4c5/\nOff
- icial notice: https://sam.gov/opp/da71a321b7604e9dba19420e19d7b4c5/view\n
- Source: SAM.gov Contract Opportunities (U.S. General Services Administrat
- ion)\, retrieved 2026-11-27. U.S. government work\; public domain in the 
- United States (17 U.S.C. 105). Unofficial\; always check the official not
- ice.
-URL:https://setasidebrief.com/o/da71a321b7604e9dba19420e19d7b4c5/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
